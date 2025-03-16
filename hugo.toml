@@ -1,0 +1,107 @@
+languageCode = 'fr'
+title = "Les Jetés De L'Encre"
+theme = 'arcana'
+
+defaultContentLanguage = "fr"
+[languages]
+  [languages.fr]
+    languageCode = "fr-FR"
+
+[[menu.main]]
+  name = "Dates"
+  url = "/Dates"
+  weight = 1
+
+[[menu.main]]
+  identifier = "ecouter"
+  name = "Écouter"
+  url = "/ecouter"
+  weight = 2
+
+  [[menu.main]]
+    parent="ecouter"
+    name = "Musiques"
+    url = "/ecouter/musiques/"
+    weight = 1
+
+  [[menu.main]]
+    parent="ecouter"
+    name = "Vidéo"
+    url = "/ecouter/video/"
+    weight = 2
+  [[menu.main]]
+    parent="ecouter"
+    name = "Les CD"
+    url = "/ecouter/CD/"
+    weight = 3
+
+  [[menu.main]]
+    parent="ecouter"
+    name = "Vidéo"
+    url = "/ecouter/video/"
+    weight = 2
+
+
+[[menu.main]]
+  name = "Lire"
+  identifier="lire"
+  url = "/lire"
+  weight = 3
+
+  [[menu.main]]
+    parent="lire"
+    name = "Paroles"
+    url = "/lire/paroles/"
+    weight = 1
+
+  [[menu.main]]
+    parent="lire"
+    name = "Livrets"
+    url = "/lire/livrets/"
+    weight = 2
+
+[[menu.main]]
+  name = "Photos"
+  url = "/photos/"
+  weight = 4
+
+[[menu.main]]
+  identifier = "infos"
+  name = "Infos"
+  url = "/infos"
+  weight = 5
+
+  [[menu.main]]
+    parent = "infos"
+    name = "Bio"
+    url = "/infos/bio/"
+    weight = 1
+
+  [[menu.main]]
+    parent = "infos"
+    name = "Affiches"
+    url = "/infos/affiches/"
+    weight = 2
+
+  [[menu.main]]
+    parent = "infos"
+    name = "Ils en parlent"
+    url = "/infos/ilsenparlent/"
+    weight = 3
+
+  [[menu.main]]
+    parent = "infos"
+    name = "Concerts passés"
+    url = "/infos/concertspasses/"
+    weight = 4
+
+  [[menu.main]]
+    parent = "infos"
+    name = "Fiche technique"
+    url = "/infos/fichetechnique/"
+    weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
