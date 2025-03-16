@@ -1,3 +1,6 @@
 [submodule "themes/arcana"]
 	path = themes/arcana
 	url = https://github.com/half-duplex/hugo-arcana.git
+[submodule "hugo-snap-gallery"]
+	path = hugo-snap-gallery
+	url = https://src.mehl.mx/mxmehl/hugo-snap-gallery.git

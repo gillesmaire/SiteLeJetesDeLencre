@@ -1,6 +1,7 @@
 languageCode = 'fr'
 title = "Les Jetés De L'Encre"
-theme = 'arcana'
+theme = [ 'arcana' , 'hugo-snap-gallery' ]
+
 
 defaultContentLanguage = "fr"
 [languages]
