@@ -14,7 +14,21 @@
     <loc>//localhost:1313/lire/livrets/</loc>
     <lastmod>2025-03-15T21:05:28+01:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/dates/</loc>
+  </url><url>
+    <loc>//localhost:1313/ecouter/cd/</loc>
+  </url><url>
+    <loc>//localhost:1313/ecouter/musiques/</loc>
+  </url><url>
+    <loc>//localhost:1313/ecouter/videos/</loc>
+  </url><url>
+    <loc>//localhost:1313/infos/bio/</loc>
+  </url><url>
+    <loc>//localhost:1313/infos/credit/</loc>
+  </url><url>
     <loc>//localhost:1313/lire/paroles/chansons/</loc>
+  </url><url>
+    <loc>//localhost:1313/photos/</loc>
   </url><url>
     <loc>//localhost:1313/lire/paroles/%C3%A0_tire_d~elles/</loc>
   </url><url>
@@ -32,7 +46,7 @@
   </url><url>
     <loc>//localhost:1313/lire/paroles/court/</loc>
   </url><url>
-    <loc>//localhost:1313/dates/</loc>
+    <loc>//localhost:1313/ecouter/</loc>
   </url><url>
     <loc>//localhost:1313/lire/paroles/elle_%C3%A9tait_con/</loc>
   </url><url>
@@ -43,6 +57,8 @@
     <loc>//localhost:1313/lire/paroles/entre_baalbek_et_zahl%C3%A9/</loc>
   </url><url>
     <loc>//localhost:1313/lire/paroles/gamme/</loc>
+  </url><url>
+    <loc>//localhost:1313/infos/</loc>
   </url><url>
     <loc>//localhost:1313/lire/paroles/je_chante_pour_mes_copains/</loc>
   </url><url>

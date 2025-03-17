@@ -1,0 +1,15 @@
+name = "hugo-snap-gallery"
+license = "MIT"
+licenselink = "https://src.mehl.mx/mxmehl/hugo-snap-gallery/src/branch/master/LICENSES/MIT.txt"
+description = "Advanced image gallery using shortcodes. It offers a lightbox and is also usable for single images. CSS only, no Javascript!"
+homepage = "https://src.mehl.mx/mxmehl/hugo-snap-gallery"
+min_version = "0.60.0"
+
+tags = ["component"]
+
+features = ["gallery"]
+
+[author]
+  name = 'Max Mehl'
+  homepage = 'https://mehl.mx'
+

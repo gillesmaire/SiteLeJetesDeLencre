@@ -1,0 +1,24 @@
+/* Style pour la grille de vidéos */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 colonnes sur les écrans larges */
+  gap: 16px; /* Espacement entre les vidéos */
+}
+
+/* Style pour les vidéos YouTube dans la grille */
+.youtube-video iframe {
+  width: 100%;  /* La vidéo prend toute la largeur de la colonne */
+  height: 180px; /* Hauteur fixe pour une mise en page uniforme */
+  border: none; /* Retirer les bordures autour de la vidéo */
+}
+
+/* Règle pour les petits écrans (moins de 768px, généralement les téléphones) */
+@media (max-width: 768px) {
+  .video-grid {
+    grid-template-columns: 1fr;  /* Une seule colonne sur les petits écrans */
+  }
+
+  .youtube-video iframe {
+    height: 160px; /* Ajuster la hauteur des vidéos sur petits écrans */
+  }
+}

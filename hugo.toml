@@ -1,12 +1,19 @@
 languageCode = 'fr'
 title = "Les Jetés De L'Encre"
-theme = [ 'arcana' , 'hugo-snap-gallery' ]
+theme = ["arcana" ,"hugo-snap-gallery"]
+
+
 
 
 defaultContentLanguage = "fr"
 [languages]
   [languages.fr]
     languageCode = "fr-FR"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [[menu.main]]
   name = "Dates"
@@ -27,20 +34,15 @@ defaultContentLanguage = "fr"
 
   [[menu.main]]
     parent="ecouter"
-    name = "Vidéo"
-    url = "/ecouter/video/"
+    name = "Vidéos"
+    url = "/ecouter/videos/"
     weight = 2
-  [[menu.main]]
+
+    [[menu.main]]
     parent="ecouter"
     name = "Les CD"
     url = "/ecouter/CD/"
     weight = 3
-
-  [[menu.main]]
-    parent="ecouter"
-    name = "Vidéo"
-    url = "/ecouter/video/"
-    weight = 2
 
 
 [[menu.main]]
@@ -63,7 +65,7 @@ defaultContentLanguage = "fr"
 
 [[menu.main]]
   name = "Photos"
-  url = "/photos/"
+  url = "/Photos"
   weight = 4
 
 [[menu.main]]
@@ -101,6 +103,13 @@ defaultContentLanguage = "fr"
     name = "Fiche technique"
     url = "/infos/fichetechnique/"
     weight = 5
+
+  [[menu.main]]
+    parent = "infos"
+    name = "Crédit"
+    url = "/infos/credit/"
+    weight = 6
+
 
 [[menu.main]]
   name = "Contact"
