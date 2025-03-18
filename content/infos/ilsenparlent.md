@@ -7,7 +7,7 @@
 Des textes pleins de poésie. À chaque écoute, on a encore envie de découvrir la richesse des textes de Gilles Maire qui sont si finement tissés.
 Je me souviens du jour ou j'ai entendu entre autre l'expression "il sent ses veines qui sanglotent" qui m'a tout de suite séduite.
 Les chansons des Jetés de l'Encre sont une invitation à l'éveil, à la sensiilité aux choses simpes. Eles ouvrent dans notre société,
-chose plus que nécessire, un endroit ou trouver de l'air et continuer plus enjoué.
+chose plus que nécessaire, un endroit ou trouver de l'air et continuer plus enjoué.
 
 
 # Christian Duneau - Bouc Bélair
@@ -21,12 +21,11 @@ Ajoutez à la poésie inventive des paroles un humour décapant, cachant souvent
 # Susanne Wachs -  Bistrot Chanson Sarebruck
 
 J'ai vu beaucoup beaucoup de groupes de chanteurs et chanteuses francophone. Mais je n'ai jamais vu des musicos aussi fous. À la fois très pros et très décontractés, avec
-des paroles parfois cinglantes, mais toujours intelligemment dosées, ils ont reçu après de leur passage au Bistrot Musique à l'auditorium de Radio Sarrebruck une des meilleures critiques de la presse.
+des paroles parfois cinglantes, mais toujours intelligemment dosées, ils ont reçu après de leur passage au Bistrot Musique à l'auditorium de Radio Sarrebruck une excellene critique de la presse.
 
 # Anne Quesemand - La Vieille Grille
 
-Gilles Maire,  dans la lignée des Villons et Rutebeuf, est un fraternel qui a su fédérer d'excellents musiciens pour faire swinguer la poésie, la tendresse et l'humour.
-Il est chez lui dans notre théâtre.
+Gilles Maire,  dans la lignée des Villons et Rutebeuf, est un fraternel qui a su fédérer d'excellents musiciens pour faire swinguer la poésie, la tendresse et l'humour. Il est un habitué de notre programmation.
 
 
 

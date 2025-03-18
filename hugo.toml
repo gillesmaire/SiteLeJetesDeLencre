@@ -54,7 +54,7 @@ defaultContentLanguage = "fr"
   [[menu.main]]
     parent="lire"
     name = "Paroles"
-    url = "/lire/paroles/"
+    url = "/lire/paroles/toc"
     weight = 1
 
   [[menu.main]]
@@ -71,7 +71,7 @@ defaultContentLanguage = "fr"
 [[menu.main]]
   identifier = "infos"
   name = "Infos"
-  url = "/infos"
+  url = "/Infos"
   weight = 5
 
   [[menu.main]]
@@ -82,8 +82,8 @@ defaultContentLanguage = "fr"
 
   [[menu.main]]
     parent = "infos"
-    name = "Affiches"
-    url = "/infos/affiches/"
+    name = "Communication"
+    url = "/infos/communication/"
     weight = 2
 
   [[menu.main]]

@@ -208,8 +208,8 @@
 - [665] **vendredi 1er septembre 2017** 20h00 à la Caves aux Artistes 17 rue Paul Bert 13100 Aix-en-Provence Dîner Concert Téléphone: 06.95.39.04.72
 - [664] **jeudi 31 aout 2017**20h00 à la Case à Palabres 44, Rue Pontis 13300 - Salon de Provence.
 - [663] **mercredi 30 août19h30 au Pyro Bar Resto - 2068** av Aristide Briand 83190 Ollioules -
-- [662] **samedi 26 août Festival de la chanson populaire - Cours du jardin Romain - Caumont sur Durance 23
-- [661] **vendredi 25 août 21h au Snack du Pas des Ondes 26510 Cornillon sur
+- [662] **samedi 26 août 2017** Festival de la chanson populaire - Cours du jardin Romain - Caumont sur Durance 23
+- [661] **vendredi 25 août 2017 ** 21h au Snack du Pas des Ondes 26510 Cornillon sur
 - [660] **jeudi 24 août 2017**21h00 Festoch des Jeudis de la Guinguette sur la place du village. 26510 Sahune Tel: 06.95.39.04.72
 - [659] **mercredi 23 août 2017** 20h00 L’Orangé de Provence Le Village, 26110 Saint-Sauveur-Gouvernet 04 75 27 55 50
 - [658] **dimanche 20 août 2017** 15h Caput Spina Chemin Pradelles 11 160 Cabrespine
@@ -266,7 +266,8 @@
 - [607] **jeudi 6 octobre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert. Repas des copains à 20h00 à la Taverne de Montmartre
 - [606] **jeudi 30 septembre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert. Repas des copains à 20h00 à la Taverne de Montmartre
 - [605] **jeudi 23 septembre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert.
-- [604] **jeudi 15 septembre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert. - jeudi 8 septembre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert. Parfois un chapeau. Repas des copains à 20h00 à l'auberge de Montmartre
+- [604] **jeudi 15 septembre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert.
+- [604 bis] **jeudi 8 septembre 2016** de 19 à 20 heures - apéro au petit théâtre du bonheur 6 rue Drevet 75018 Paris. Métro Abbesses. Entrée Libre. Apéro offert. Parfois un chapeau. Repas des copains à 20h00 à l'auberge de Montmartre
 - [603] **mercredi 24 août 2016**  19h00 à la Grange de la Bergerie, La Chapelle Achard 85150 Vendée
 - [602] **jeudi 25 août 2016** à l'Estaminet - Le Champ Commun 1 rue du clos bily 56800 Augan -
 - [601] **vendredi 26 août 2016** 21h00 à Moëlan sur Mer au bar restaurant Au 3B (Bistro Bar Bouffe) 4 Rue Traverse 29350 Moëlan-sur-Mer
@@ -349,7 +350,7 @@
 - [524] **dimanche 12 juillet 2015** 17h00 Concert privé Café de Paris Blumenstrass.10 66111 Saarbrücken 0681-95818348 www.cafe-paris-sb.de
 - [523] **Lundi 13 juillet 2015** : Auberge du Lac - Camping de Rémering 35 rue de l'Étang 57510 Rémering-lès-Puttelange
 - [522] **mardi 14 juillet 2015** 18h00 Fête du 14 juillet chez Pierre. Hauptstrasse 48 55270 Klein - winternheim . tel. 06136 7649011
-- [521] **mercredi 15 juillet La Petite Hollywood Camping de Diefenbach Rue du Garichfeld 57510 Puttelange-aux-Lacs
+- [521] **mercredi 15 juillet 2015** La Petite Hollywood Camping de Diefenbach Rue du Garichfeld 57510 Puttelange-aux-Lacs
 - [520] **jeudi 16 juillet 2015** 20H30 - Café de Paris Blumenstrass.10 66111 Saarbrücken 0681-95818348 www.cafe-paris-sb.de
 - [519] **vendredi 17 juillet 2015**22h30 - Fête de la vieille ville - Sarrebruck - Allemagne
 - [518] **samedi 18 juillet 2015**22h30 - Fête de la vieille ville - Sarrebruck - Allemagne
@@ -382,7 +383,7 @@
 - [491] **Samedi 28 mars 2015** 17h00 Espace Georges Brassens - 67, Bd Camille Blanc 34 200 SETE Tél: 04.99.04.76.26 Fax: 04.67.51.44.20
 - [490] **Vendredi 27 mars 2015** 20h00 L'Escampette 12 Place Lieutenant Paul Gauffre  	34320 	Neffiès Apéro puis repas.
 - [489] **Jeudi 26 mars 2015** Dîner Concert au Domaine des Hauts du Causse, au lieu dît l'Hopital St Jean 46600 Sarrazac. DG@leshautsducausse.com
-- [488] **jeudi 19 mars  20h30 au Petit Théatre du Bonheur 6 rue Drevet 75018 Paris. Métro : Abesses. Entrée libre. Participation au chapeau.
+- [488] **jeudi 19 mars  2015** 20h30 au Petit Théatre du Bonheur 6 rue Drevet 75018 Paris. Métro : Abesses. Entrée libre. Participation au chapeau.
 - [487] **Jeudi 5 mars 2015** 21h30 au petit théâtre du bonheur
 - [486] **Jeudi 8 janvier 2014** 21h30 au petit théâtre du bonheur
 - [485] **Mercredi 7 janvier 2014** 21h00 au petit théâtre du bonheur
@@ -414,7 +415,7 @@
 - [459] **lundi 18 août 2014** atelier d'écriture et de composition St Georges du Pointindoux
 - [458] **mercredi 20 août 2014** à 20h00 Vendée Troubatour à la Bergerie La Chappelle Achard
 - [457] **vendedi 22 août 2014** à 20 h00 Vendée Troubatour au Metamec à la Rochelle
-- [456] **samedi 23 août 2104 Restaurant La Source des Lys 157, avenue de Bonne Source 44380 Pornichet 20h30
+- [456] **samedi 23 août 2014 ** Restaurant La Source des Lys 157, avenue de Bonne Source 44380 Pornichet 20h30
 - [455] **lundi 14 juillet 2014** 18h00 Fête du 14 juillet chez Pierre. Hauptstrasse 48 55270 Klein - winternheim . tel. 06136 7649011
 - [454] **mercredi 16 juillet 2014** à 20h30 Café de Paris Blumenstr.10 66111 Saarbrücken 0681-95818348 www.cafe-paris-sb.de
 - [453] **vendredi 18 juillet 2014** à 22h30 fête de la Vieille Ville à Sarrebruck dans la cours du château
@@ -432,7 +433,7 @@
 - [441] **samedi 31 mai 2014** Auberge de Lioux - Lioux (84) - près Saint Saturnin
 - [440] **dimanche 1er juin 2014** Concert à 300 km/h IDTGV 2900 Départ Avignon 20h31
 - [439] **vendredi 23 mai 2014** 21h00 Théâtre de la Vieille Grille 1, rue du Puits de l'Ermite 75005 Paris - Métro Monge - Concert suivi d'un lunch et d'une scène ouverte. Entrée 20 € boissons et lunch compris.
-- [438] **samedi 17 mai 2104 Restaurant La Source des Lys 157, avenue de Bonne Source 44380 Pornichet 20h30
+- [438] **samedi 17 mai 2014** Restaurant La Source des Lys 157, avenue de Bonne Source 44380 Pornichet 20h30
 - [437] **jeudi 15 mai 2014**21h30 Le Petit Théâtre du Bonheur 6 rue Drevet Paris 75018
 - [436] **jeudi 1er mai 2014** 21h30 Le Petit Théâtre du Bonheur 6 rue Drevet Paris 75018
 - [435] **jeudi 3 avril 2014** 21;30 Le Petit Théâtre du Bonheur 6 rue Drevet Paris 75018
@@ -526,7 +527,7 @@
 - [347] **jeudi 18 octobre 2012** 20H30 Petit Théâtre du bonheur 6 rue Drevet Paris 75018 - Les jeudis des jetés de l'Encre avec Manuel
 - [346] **samedi 20 octobre 2012** 18h00 Festival Georjacleo Vianne 47 Lot et Garonne
 - [345] **jeudi 11 octobre 2012** 20h30 Petit Théâtre du bonheur 6 rue Drevet Paris 75018 - Les jeudis des jetés de l'encre avec Manu Lods
-- [344] **jeudi 4 octobre 2012** 20H30 Petit Théatre du bonheur 6 rue Drevet Paris 75018 - Les jeudis des jetés de l'encre avec ~~#FFFF00:[http://www.joelfavreau.com/|Joël Favreau]~~
+- [344] **jeudi 4 octobre 2012** 20H30 Petit Théatre du bonheur 6 rue Drevet Paris 75018 - Les jeudis des jetés de l'encre avec Joel Favreau
 - [343] **jeudi 20 septembre 2012** 20 heures : Petit Théatre du bonheur 20H30 précises 6 rue Drevet Paris 75018 - concert Les jetés de l'encre
 - [342] **jeudi 27 septembre 2012** Petit Théatre du bonheur 22H00 précise 6 rue Drevet Paris 75018 - Concert Les jetés de l'encre
 - [341] **vendredi 13 juillet 2012** Pizza Filippo 20h00 rue Jacques Callot (site de l'ancienne Cockerie) Forbach Marieno 57600
@@ -588,7 +589,7 @@
 - [285] **lundi 21 mars 2011** 19H30 Spectacle l'âge de mes désirs de Matthias Vincenot à l'Entrepôt
 - [284] **samedi 26 mars 2011** Concert mariage de Geoffray
 - [283] **lundi 21 février 2011** : la comédie Nation chanson Matthias Vincenot
-- [282] **vendredi 18 février à 21H00 La vieille grille 1 rue du Puits de l'Ermite Paris 5eme
+- [282] **vendredi 18 février 2011** à 21H00 La vieille grille 1 rue du Puits de l'Ermite Paris 5eme
 - [281] **jeudi 27 janvier 2011** 21h Concert VIP à la Vieille Grille 1 rue du Puits de l'Ermite Paris 5ème
 - [280] **samedi 22 janvier 2011** 20h30 le Tempo 18 rue Brochant 75017 Paris
 - [279] **vendredi 14 janvier 2011** 20h30 - MACAQ-Assoce Bolognaise- 123 rue Tocqueville Paris 75017
@@ -598,8 +599,8 @@
 - [275] **vendredi 26 novembre 2010** 21h00 La vieille grille 1 rue du Puits de l'Ermite Paris 5eme
 - [274] **lundi 15 novembre 2010** 20h00 Le connetable 55 rue des Archives Paris 75003
 - [273] **samedi 6 novembre 2010** le Tempo 75017 Paris
-- [272] **samedi 30 octobre Giverny
-- [271] **dimanche 10 octobre La vieille Grille
+- [272] **samedi 30 octobre 2010** Giverny
+- [271] **dimanche 10 octobre 2010**  La vieille Grille
 - [270] **samedi 25 septembre 2010** 17h Vide grenier des Batignoles Paris 75017
 - [269] **dimanche 26 septembre 2010**17h30 Vide grenier des Batignoles Paris 75017
 - [268] **samedi 11 septembre 2010** 21 h La vieille grille 1 rue du Puits de l'Ermite Paris 5eme
@@ -624,7 +625,7 @@
 - [249] **mardi 27 avril 2010** 14:00 : Festival Georges Brassens de Vaison la Romaine VAISON-LA-ROMAINE
 - [248] **samedi 24 avril 2010** 20h00 : Auberge L'escoleta 05500 Pisançon
 - [247] **samedi 10 avril 2010** 21h : Théâtre de la Vieille Grille 1, rue Puits de l'Ermite 75005 PARIS
-- [246] **dimance 21 mars 2019**18h00 : Café de la promenade Bourgueil 37140
+- [246] **dimance 21 mars 2010**18h00 : Café de la promenade Bourgueil 37140
 - [245] **samedi 20 mars 2010** 18h00 : [http://www.visit-chateau.com|Château de Nitray] **- 37270 ATHÉE-SUR-CHER concert pour les 10 ans de l'association Vivre et écrire en Touraine
 - [244] **vendredi 19 mars 2010** 20h30 : Bar Tloglo 49730 Turquant
 - [243] **samedi 13 mars 2010** 18h00 : Théâtre de la Vieille Grille 1, rue Puits de l'Ermite 75005 PARIS
@@ -674,7 +675,7 @@
 - [199] **jeudi 10 sept. 2009**, 20:00 Macaq 123 rue Toqueville, Paris, 75017 -
 - [198] **mardi 8 septembre. 2009**, 20:00 Théâtre de l’Ogresse Paris, 75020 - 4, Rue Prairies
 - [197] **dimanche 6 septembre. 2009** 15 heures Nancy - Kiosque parc de la Pépinière - 54 000 Nancy
-- [196] **samedi 5 septembre 20h30 : fête des MJC à Chanteheux 542300 ( à la Pisciculture)
+- [196] **samedi 5 septembre 2009** 20h30  fête des MJC à Chanteheux 542300 ( à la Pisciculture)
 - [195] **vendredi 04 sept. 2009**, 19:30 Nancy 54000 - Terrasse de l'Opéra café 5, Terrasse de la Pépinière
 - [194] **Jeudi 03 sept. 2009**, 20:00 Macaq 123 rue Tocqueville, Paris, 75017 -
 - [193] **samedi 11 au mardi 14 juillet 2009** : 6 Concerts de Gilles et Alexandre sur l'île de Houat.

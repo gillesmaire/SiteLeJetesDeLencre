@@ -13,12 +13,13 @@ Nous disposons également d'une régie lumière à Led de très faible consommat
 lors de nos tournées.
 
 Par défaut nous sommes 3 sur scène :
- - 3 personnes au chant
- - 2 guitaristes sur guitare électr oaccoustique nylon
+ - 2 guitaristes sur guitare électro accoustique nylon
  - 1 contrebassiste
 
-Les lieux de spectacles fournissant  une sono doivent s'assurer qu'ils disposent :
+Nous utilisons 3 micros voix
 
+
+Les lieux de spectacles fournissant  une sono doivent s'assurer qu'ils disposent :
 
  - de 3 boites de DI reliées à la SONO avec entrée jack
  - de 3 micros chant
