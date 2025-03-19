@@ -1,6 +1,6 @@
 ---
 Title: "Un jour"
-slug: "un_jour"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire

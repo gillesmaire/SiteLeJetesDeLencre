@@ -1,6 +1,6 @@
 ---
 Title: "Barbiche"
-slug: "barbiche"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -68,7 +68,7 @@ Elles préfèrent les voyous
   
 
 
-[← À tire d'elles](../à_tire_d~elles)........[Table de matières](..)........[Bologne→](../bologne)
+[ ◀ À tire d'elles](../à_tire_d~elles) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Bologne ▶](../bologne)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "On se dit tu"
-slug: "on_se_dit_tu"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -50,7 +50,7 @@ Près d'une tom- / be qui attend
 L'autre sous le plancher des vaches  
 
 
-[← On chante ses chansons](../on_chante_ses_chansons)........[Table de matières](..)........[On sème→](../on_sème)
+[ ◀ On chante ses chansons](../on_chante_ses_chansons) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On sème ▶](../on_sème)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

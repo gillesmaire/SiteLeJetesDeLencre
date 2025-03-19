@@ -1,6 +1,6 @@
 ---
 Title: "La fille du bar"
-slug: "la_fille_du_bar"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -43,7 +43,7 @@ Dans ce chagrin qui me ronge
   
 
 
-[← La femme du boulanger](../la_femme_du_boulanger)........[Table de matières](..)........[La marche des peineux→](../la_marche_des_peineux)
+[ ◀ La femme du boulanger](../la_femme_du_boulanger) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La marche des peineux ▶](../la_marche_des_peineux)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "La rupture"
-slug: "la_rupture"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique Gilles Maire
@@ -40,7 +40,7 @@ Elle sent son coeur partir en vrille
 Il sent ses veines qui sanglotent  
 
 
-[← La reine de la plage](../la_reine_de_la_plage)........[Table de matières](..)........[La saphique→](../la_saphique)
+[ ◀ La reine de la plage](../la_reine_de_la_plage) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La saphique ▶](../la_saphique)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

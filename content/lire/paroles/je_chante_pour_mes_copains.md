@@ -1,6 +1,6 @@
 ---
 Title: "Je chante pour mes copains"
-slug: "je_chante_pour_mes_copains"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -44,7 +44,7 @@ En nocturne sur ma guitare
 Je traîne mes nuits dans les bars  
 
 
-[← Gamme](../gamme)........[Table de matières](..)........[Jean le libertin→](../jean_le_libertin)
+[ ◀ Gamme](../gamme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Jean le libertin ▶](../jean_le_libertin)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

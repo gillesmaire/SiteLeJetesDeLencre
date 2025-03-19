@@ -1,6 +1,6 @@
 ---
 Title: "Le grenier de mon coeur"
-slug: "le_grenier_de_mon_coeur"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -50,7 +50,7 @@ Dans ce qui fut autrefois le grenier
 Fut le grenier de mon coeur  
 
 
-[← Le chemin des dames](../le_chemin_des_dames)........[Table de matières](..)........[Le guitariste→](../le_guitariste)
+[ ◀ Le chemin des dames](../le_chemin_des_dames) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le guitariste ▶](../le_guitariste)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

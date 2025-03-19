@@ -1,6 +1,6 @@
 ---
 Title: "Mes frères les cailloux"
-slug: "mes_frères_les_cailloux"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -60,7 +60,7 @@ Avant que d'être vous aussi de poudre
 Priez Dieu qu'il nous veuille absoudre ...  
 
 
-[← Mes frères d'arme](../mes_frères_d~arme)........[Table de matières](..)........[Ne faites pas l'amour→](../ne_faites_pas_l~amour)
+[ ◀ Mes frères d'arme](../mes_frères_d~arme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ne faites pas l'amour ▶](../ne_faites_pas_l~amour)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

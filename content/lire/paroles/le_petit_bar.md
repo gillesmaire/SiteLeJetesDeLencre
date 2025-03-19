@@ -1,6 +1,6 @@
 ---
 Title: "Le petit bar"
-slug: "le_petit_bar"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -42,7 +42,7 @@ J'ai le coeur qui flanche
 Cet air là est si beau  
 
 
-[← Le guitariste](../le_guitariste)........[Table de matières](..)........[Le sel→](../le_sel)
+[ ◀ Le guitariste](../le_guitariste) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le sel ▶](../le_sel)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

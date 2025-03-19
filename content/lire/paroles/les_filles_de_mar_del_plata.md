@@ -1,6 +1,6 @@
 ---
 Title: "Les filles de Mar del Plata"
-slug: "les_filles_de_mar_del_plata"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -53,7 +53,7 @@ Qu'il est tombé sur le carreau
   
 
 
-[← Les chagrins](../les_chagrins)........[Table de matières](..)........[Les joies du vélo→](../les_joies_du_vélo)
+[ ◀ Les chagrins](../les_chagrins) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les joies du vélo ▶](../les_joies_du_vélo)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

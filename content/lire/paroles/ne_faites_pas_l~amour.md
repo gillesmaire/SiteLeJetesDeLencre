@@ -1,6 +1,6 @@
 ---
 Title: "Ne faites pas l'amour"
-slug: "ne_faites_pas_l~amour"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -26,7 +26,7 @@ Et si vous n'écoutez pas ces paroles
 Vous finirez à coups de casseroles  
 
 
-[← Mes frères les cailloux](../mes_frères_les_cailloux)........[Table de matières](..)........[On chante ses chansons→](../on_chante_ses_chansons)
+[ ◀ Mes frères les cailloux](../mes_frères_les_cailloux) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On chante ses chansons ▶](../on_chante_ses_chansons)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "Elle était con"
-slug: "elle_était_con"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -47,7 +47,7 @@ C'est avec beaucoup de tendresse
 Que je vous parle de ses fesses  
 
 
-[← Court](../court)........[Table de matières](..)........[Embrasse-moi→](../embrasse-moi)
+[ ◀ Court](../court) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Embrasse-moi ▶](../embrasse-moi)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "Le guitariste"
-slug: "le_guitariste"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -38,7 +38,7 @@ Qui chantent les chagrins que tu essuies d'un geste.
   
 
 
-[← Le grenier de mon coeur](../le_grenier_de_mon_coeur)........[Table de matières](..)........[Le petit bar→](../le_petit_bar)
+[ ◀ Le grenier de mon coeur](../le_grenier_de_mon_coeur) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le petit bar ▶](../le_petit_bar)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

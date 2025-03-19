@@ -1,6 +1,6 @@
 ---
 Title: "Lettre à mon père"
-slug: "lettre_à_mon_père"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -32,7 +32,7 @@ Le restant de mes jours en pensant fort à toi
   
 
 
-[← Les vieux amants](../les_vieux_amants)........[Table de matières](..)........[Mes frères d'arme→](../mes_frères_d~arme)
+[ ◀ Les vieux amants](../les_vieux_amants) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères d'arme ▶](../mes_frères_d~arme)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

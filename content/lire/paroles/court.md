@@ -1,6 +1,6 @@
 ---
 Title: "Court"
-slug: "court"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -68,7 +68,7 @@ A des airs bien trop courts
   
 
 
-[← Clôdine Agathe Georges et les autres ...](../clôdine_agathe_georges_et_les_autres_...)........[Table de matières](..)........[Elle était con→](../elle_était_con)
+[ ◀ Clôdine Agathe Georges et les autres ...](../clôdine_agathe_georges_et_les_autres_...) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Elle était con ▶](../elle_était_con)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

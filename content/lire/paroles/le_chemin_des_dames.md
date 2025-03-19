@@ -1,6 +1,6 @@
 ---
 Title: "Le chemin des dames"
-slug: "le_chemin_des_dames"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -76,7 +76,7 @@ Qu'auprès de ma fiancée, l'on me ré-enterre
   
 
 
-[← Le casse](../le_casse)........[Table de matières](..)........[Le grenier de mon coeur→](../le_grenier_de_mon_coeur)
+[ ◀ Le casse](../le_casse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le grenier de mon coeur ▶](../le_grenier_de_mon_coeur)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

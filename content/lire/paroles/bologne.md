@@ -1,6 +1,6 @@
 ---
 Title: "Bologne"
-slug: "bologne"
+sidebar_left: sidebar
 ---
 
 ##  Paroles & Musiques :  Gilles Maire
@@ -38,7 +38,7 @@ Un chanteur éperdu, pleurant sur sa guitare.
   
 
 
-[← Barbiche](../barbiche)........[Table de matières](..)........[Changement climatique→](../changement_climatique)
+[ ◀ Barbiche](../barbiche) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Changement climatique ▶](../changement_climatique)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

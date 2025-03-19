@@ -1,6 +1,6 @@
 ---
 Title: "Entre Baalbek et Zahlé"
-slug: "entre_baalbek_et_zahlé"
+sidebar_left: sidebar
 ---
 
 ## Paroles et Musique : Gilles Maire
@@ -45,7 +45,7 @@ Toutes ces heures
 D'éternité  
 
 
-[← Emma Liébel](../emma_liébel)........[Table de matières](..)........[Gamme→](../gamme)
+[ ◀ Emma Liébel](../emma_liébel) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Gamme ▶](../gamme)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

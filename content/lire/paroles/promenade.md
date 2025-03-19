@@ -1,6 +1,6 @@
 ---
 Title: "Promenade"
-slug: "promenade"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -41,7 +41,7 @@ Puis d'une autre page blanche ...
   
 
 
-[← Pimprenelle](../pimprenelle)........[Table de matières](..)........[Tango à Jehro→](../tango_à_jehro)
+[ ◀ Pimprenelle](../pimprenelle) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Tango à Jehro ▶](../tango_à_jehro)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

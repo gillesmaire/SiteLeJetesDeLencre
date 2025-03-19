@@ -1,6 +1,6 @@
 ---
 Title: "Le signe du destin"
-slug: "le_signe_du_destin"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -43,7 +43,7 @@ Un parfum de primevère
   
 
 
-[← Le sel](../le_sel)........[Table de matières](..)........[Les aurores boréales→](../les_aurores_boréales)
+[ ◀ Le sel](../le_sel) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les aurores boréales ▶](../les_aurores_boréales)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

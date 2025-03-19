@@ -1,6 +1,6 @@
 ---
 Title: "Papa pique"
-slug: "papa_pique"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -58,7 +58,7 @@ Et je m'en pique papa
   
 
 
-[← Pablo](../pablo)........[Table de matières](..)........[Pimprenelle→](../pimprenelle)
+[ ◀ Pablo](../pablo) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Pimprenelle ▶](../pimprenelle)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

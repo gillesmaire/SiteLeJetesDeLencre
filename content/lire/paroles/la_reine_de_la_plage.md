@@ -1,6 +1,6 @@
 ---
 Title: "La reine de la plage"
-slug: "la_reine_de_la_plage"
+sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geoffray Milleret
@@ -49,7 +49,7 @@ Le jour de son retour
   
 
 
-[← La Milonga](../la_milonga)........[Table de matières](..)........[La rupture→](../la_rupture)
+[ ◀ La Milonga](../la_milonga) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La rupture ▶](../la_rupture)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

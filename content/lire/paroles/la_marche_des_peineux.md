@@ -1,6 +1,6 @@
 ---
 Title: "La marche des peineux"
-slug: "la_marche_des_peineux"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -50,7 +50,7 @@ La la la la la la la la la la
   
 
 
-[← La fille du bar](../la_fille_du_bar)........[Table de matières](..)........[La Milonga→](../la_milonga)
+[ ◀ La fille du bar](../la_fille_du_bar) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La Milonga ▶](../la_milonga)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "Gamme"
-slug: "gamme"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -43,7 +43,7 @@ Du temps où nous étions
   
 
 
-[← Entre Baalbek et Zahlé](../entre_baalbek_et_zahlé)........[Table de matières](..)........[Je chante pour mes copains→](../je_chante_pour_mes_copains)
+[ ◀ Entre Baalbek et Zahlé](../entre_baalbek_et_zahlé) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Je chante pour mes copains ▶](../je_chante_pour_mes_copains)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

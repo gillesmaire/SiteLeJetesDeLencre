@@ -1,6 +1,6 @@
 ---
 Title: "Lancelot"
-slug: "lancelot"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -62,7 +62,7 @@ Où l'on gagne et l'on perd
   
 
 
-[← La vie madame](../la_vie_madame)........[Table de matières](..)........[Le carrousel de Paimpol→](../le_carrousel_de_paimpol)
+[ ◀ La vie madame](../la_vie_madame) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le carrousel de Paimpol ▶](../le_carrousel_de_paimpol)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

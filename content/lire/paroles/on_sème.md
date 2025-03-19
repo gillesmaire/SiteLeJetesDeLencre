@@ -1,6 +1,6 @@
 ---
 Title: "On sème"
-slug: "on_sème"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -50,7 +50,7 @@ Avant, on ne sait pas
 Avant, on ne sait pas  
 
 
-[← On se dit tu](../on_se_dit_tu)........[Table de matières](..)........[Pablo→](../pablo)
+[ ◀ On se dit tu](../on_se_dit_tu) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Pablo ▶](../pablo)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

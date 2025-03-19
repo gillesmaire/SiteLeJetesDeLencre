@@ -1,11 +1,12 @@
 languageCode = 'fr'
 title = "Les Jetés De L'Encre"
 theme = ["arcana" ,"hugo-snap-gallery"]
-
-
-
-
 defaultContentLanguage = "fr"
+
+[params]
+  customcss=["style/style.css"]
+
+
 [languages]
   [languages.fr]
     languageCode = "fr-FR"
@@ -16,8 +17,9 @@ defaultContentLanguage = "fr"
       unsafe = true
 
 [[menu.main]]
+  identifier = "dates"
   name = "Dates"
-  url = "/Dates"
+  url = "/dates"
   weight = 1
 
 [[menu.main]]
@@ -54,7 +56,7 @@ defaultContentLanguage = "fr"
   [[menu.main]]
     parent="lire"
     name = "Paroles"
-    url = "/lire/paroles/toc"
+    url = "/lire/paroles/accroche"
     weight = 1
 
   [[menu.main]]

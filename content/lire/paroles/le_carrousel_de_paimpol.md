@@ -1,6 +1,6 @@
 ---
 Title: "Le carrousel de Paimpol"
-slug: "le_carrousel_de_paimpol"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -72,7 +72,7 @@ Et d'un manège du temps du Guignol
   
 
 
-[← Lancelot](../lancelot)........[Table de matières](..)........[Le casse→](../le_casse)
+[ ◀ Lancelot](../lancelot) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le casse ▶](../le_casse)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

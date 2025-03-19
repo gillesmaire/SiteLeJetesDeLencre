@@ -1,6 +1,6 @@
 ---
 Title: "Une histoire assez ancienne"
-slug: "une_histoire_assez_ancienne"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -47,7 +47,7 @@ Ses premiers amours de minot.
   
 
 
-[← Une danse](../une_danse)........[Table de matières](..)........[Un jour→](../un_jour)
+[ ◀ Une danse](../une_danse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Un jour ▶](../un_jour)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

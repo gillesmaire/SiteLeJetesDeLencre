@@ -1,6 +1,6 @@
 ---
 Title: "La Milonga"
-slug: "la_milonga"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -40,7 +40,7 @@ Nous danserons bientôt cette milonga-là
 Jusqu'à la fin des temps  
 
 
-[← La marche des peineux](../la_marche_des_peineux)........[Table de matières](..)........[La reine de la plage→](../la_reine_de_la_plage)
+[ ◀ La marche des peineux](../la_marche_des_peineux) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La reine de la plage ▶](../la_reine_de_la_plage)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

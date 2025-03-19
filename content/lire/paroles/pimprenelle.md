@@ -1,6 +1,6 @@
 ---
 Title: "Pimprenelle"
-slug: "pimprenelle"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -54,7 +54,7 @@ Pour mes vieux souvenirs.
   
 
 
-[← Papa pique](../papa_pique)........[Table de matières](..)........[Promenade→](../promenade)
+[ ◀ Papa pique](../papa_pique) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Promenade ▶](../promenade)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

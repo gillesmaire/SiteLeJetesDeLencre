@@ -1,6 +1,6 @@
 ---
 Title: "Emma Liébel"
-slug: "emma_liébel"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -47,7 +47,7 @@ La belle Emma Liébel aima
 La chanson dans les grands formats  
 
 
-[← Embrasse-moi](../embrasse-moi)........[Table de matières](..)........[Entre Baalbek et Zahlé→](../entre_baalbek_et_zahlé)
+[ ◀ Embrasse-moi](../embrasse-moi) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Entre Baalbek et Zahlé ▶](../entre_baalbek_et_zahlé)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

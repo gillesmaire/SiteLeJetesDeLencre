@@ -1,6 +1,6 @@
 ---
 Title: "Les chagrins"
-slug: "les_chagrins"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -52,7 +52,7 @@ Sans un chagrin
   
 
 
-[← Les aurores boréales](../les_aurores_boréales)........[Table de matières](..)........[Les filles de Mar del Plata→](../les_filles_de_mar_del_plata)
+[ ◀ Les aurores boréales](../les_aurores_boréales) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les filles de Mar del Plata ▶](../les_filles_de_mar_del_plata)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

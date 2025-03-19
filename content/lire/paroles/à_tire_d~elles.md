@@ -1,6 +1,6 @@
 ---
 Title: "À tire d'elles"
-slug: "à_tire_d~elles"
+sidebar_left: sidebar
 ---
 
 ##  Paroles : Jean-Pierre Rosnay - Musique : Gilles Maire
@@ -85,7 +85,7 @@ Le marchand de l'amour unique
   
 
 
-[← Accroche](../accroche)........[Table de matières](..)........[Barbiche→](../barbiche)
+[ ◀ Accroche](../accroche) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Barbiche ▶](../barbiche)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

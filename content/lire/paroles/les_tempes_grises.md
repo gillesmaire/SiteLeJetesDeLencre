@@ -1,6 +1,6 @@
 ---
 Title: "Les tempes grises"
-slug: "les_tempes_grises"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -52,7 +52,7 @@ Autour de tes formes exquises
   
 
 
-[← Les spaghetti](../les_spaghetti)........[Table de matières](..)........[Les vieux amants→](../les_vieux_amants)
+[ ◀ Les spaghetti](../les_spaghetti) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les vieux amants ▶](../les_vieux_amants)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

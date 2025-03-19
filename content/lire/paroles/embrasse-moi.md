@@ -1,6 +1,6 @@
 ---
 Title: "Embrasse-moi"
-slug: "embrasse-moi"
+sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geofffray Milleret
@@ -42,7 +42,7 @@ De courir après les nuages...
   
 
 
-[← Elle était con](../elle_était_con)........[Table de matières](..)........[Emma Liébel→](../emma_liébel)
+[ ◀ Elle était con](../elle_était_con) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Emma Liébel ▶](../emma_liébel)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

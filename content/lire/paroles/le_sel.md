@@ -1,6 +1,6 @@
 ---
 Title: "Le sel"
-slug: "le_sel"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -62,7 +62,7 @@ C'est celle du menhir blanc
   
 
 
-[← Le petit bar](../le_petit_bar)........[Table de matières](..)........[Le signe du destin→](../le_signe_du_destin)
+[ ◀ Le petit bar](../le_petit_bar) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le signe du destin ▶](../le_signe_du_destin)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

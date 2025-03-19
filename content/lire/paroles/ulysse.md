@@ -1,6 +1,6 @@
 ---
 Title: "Ulysse"
-slug: "ulysse"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -38,7 +38,7 @@ Courtisé par ces jeunes loups
   
 
 
-[← Toulouse](../toulouse)........[Table de matières](..)........[Une danse→](../une_danse)
+[ ◀ Toulouse](../toulouse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Une danse ▶](../une_danse)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "Accroche"
-slug: "accroche"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -40,7 +40,7 @@ Les histoires qu'on nous passe au cinoche
 On les trouve n'importe où.  
 
 
-[← ](../)........[Table de matières](..)........[À tire d'elles→](../à_tire_d~elles)
+[ ◀ ](../) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[À tire d'elles ▶](../à_tire_d~elles)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "La femme du boulanger"
-slug: "la_femme_du_boulanger"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -66,7 +66,7 @@ Elles préfèrent la douceur
 De la farine sur un coeur  
 
 
-[← La Caulaincourt](../la_caulaincourt)........[Table de matières](..)........[La fille du bar→](../la_fille_du_bar)
+[ ◀ La Caulaincourt](../la_caulaincourt) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La fille du bar ▶](../la_fille_du_bar)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

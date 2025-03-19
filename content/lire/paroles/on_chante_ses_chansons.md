@@ -1,6 +1,6 @@
 ---
 Title: "On chante ses chansons"
-slug: "on_chante_ses_chansons"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -41,7 +41,7 @@ Au détour d'un portrait les traits de celle que vous
 Reconnaîtrez peut-être ....  
 
 
-[← Ne faites pas l'amour](../ne_faites_pas_l~amour)........[Table de matières](..)........[On se dit tu→](../on_se_dit_tu)
+[ ◀ Ne faites pas l'amour](../ne_faites_pas_l~amour) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On se dit tu ▶](../on_se_dit_tu)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

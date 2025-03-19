@@ -1,6 +1,6 @@
 ---
 Title: "La Caulaincourt"
-slug: "la_caulaincourt"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -37,7 +37,7 @@ Et le Rêve d'Éliette s'endort dans ma mémoire.
   
 
 
-[← Jean le libertin](../jean_le_libertin)........[Table de matières](..)........[La femme du boulanger→](../la_femme_du_boulanger)
+[ ◀ Jean le libertin](../jean_le_libertin) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La femme du boulanger ▶](../la_femme_du_boulanger)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

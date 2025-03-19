@@ -1,6 +1,6 @@
 ---
 Title: "Changement climatique"
-slug: "changement_climatique"
+sidebar_left: sidebar
 ---
 
 ##  Paroles: Gilles Maire - Musique : Geoffray Milleret
@@ -36,7 +36,7 @@ J'ai bien peur que leur monde ne vaille plus un clou
   
 
 
-[← Bologne](../bologne)........[Table de matières](..)........[Clôdine Agathe Georges et les autres ...→](../clôdine_agathe_georges_et_les_autres_...)
+[ ◀ Bologne](../bologne) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Clôdine Agathe Georges et les autres ... ▶](../clôdine_agathe_georges_et_les_autres_...)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

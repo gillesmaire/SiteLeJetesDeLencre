@@ -1,6 +1,6 @@
 ---
 Title: "Mes frères d'arme"
-slug: "mes_frères_d~arme"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -56,7 +56,7 @@ Jusqu'au Carnegie Hall
   
 
 
-[← Lettre à mon père](../lettre_à_mon_père)........[Table de matières](..)........[Mes frères les cailloux→](../mes_frères_les_cailloux)
+[ ◀ Lettre à mon père](../lettre_à_mon_père) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères les cailloux ▶](../mes_frères_les_cailloux)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

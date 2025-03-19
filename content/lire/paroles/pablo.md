@@ -1,6 +1,6 @@
 ---
 Title: "Pablo"
-slug: "pablo"
+sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique   : Geoffray Milleret
@@ -63,7 +63,7 @@ J'ai toujours su garder ma place
   
 
 
-[← On sème](../on_sème)........[Table de matières](..)........[Papa pique→](../papa_pique)
+[ ◀ On sème](../on_sème) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Papa pique ▶](../papa_pique)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

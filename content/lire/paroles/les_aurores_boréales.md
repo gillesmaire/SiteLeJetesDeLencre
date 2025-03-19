@@ -1,6 +1,6 @@
 ---
 Title: "Les aurores boréales"
-slug: "les_aurores_boréales"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -56,7 +56,7 @@ Nos aurores boréales
   
 
 
-[← Le signe du destin](../le_signe_du_destin)........[Table de matières](..)........[Les chagrins→](../les_chagrins)
+[ ◀ Le signe du destin](../le_signe_du_destin) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les chagrins ▶](../les_chagrins)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

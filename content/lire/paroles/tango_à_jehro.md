@@ -1,6 +1,6 @@
 ---
 Title: "Tango à Jehro"
-slug: "tango_à_jehro"
+sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geoffray Milleret
@@ -45,7 +45,7 @@ Venez, ne venez pas, je serai là quand même.
   
 
 
-[← Promenade](../promenade)........[Table de matières](..)........[Toulouse→](../toulouse)
+[ ◀ Promenade](../promenade) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Toulouse ▶](../toulouse)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

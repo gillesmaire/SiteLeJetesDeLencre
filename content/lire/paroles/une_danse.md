@@ -1,6 +1,6 @@
 ---
 Title: "Une danse"
-slug: "une_danse"
+sidebar_left: sidebar
 ---
 
 ## Paroles et Musique : Gilles Maire}
@@ -45,7 +45,7 @@ Ces frissons que tu sens dans mes yeux
 Sont ceux d'un grand père heureux  
 
 
-[← Ulysse](../ulysse)........[Table de matières](..)........[Une histoire assez ancienne→](../une_histoire_assez_ancienne)
+[ ◀ Ulysse](../ulysse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Une histoire assez ancienne ▶](../une_histoire_assez_ancienne)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

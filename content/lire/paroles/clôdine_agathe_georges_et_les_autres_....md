@@ -1,6 +1,6 @@
 ---
 Title: "Clôdine Agathe Georges et les autres ..."
-slug: "clôdine_agathe_georges_et_les_autres_..."
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -56,7 +56,7 @@ Rêvait de faire un petit clin d'oeil
 Je l'ai glissée dans un album.  
 
 
-[← Changement climatique](../changement_climatique)........[Table de matières](..)........[Court→](../court)
+[ ◀ Changement climatique](../changement_climatique) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Court ▶](../court)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

@@ -1,6 +1,6 @@
 ---
 Title: "Le casse"
-slug: "le_casse"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -85,7 +85,7 @@ Mais ce qui nous manque,
 C'est toujours une chanson !  
 
 
-[← Le carrousel de Paimpol](../le_carrousel_de_paimpol)........[Table de matières](..)........[Le chemin des dames→](../le_chemin_des_dames)
+[ ◀ Le carrousel de Paimpol](../le_carrousel_de_paimpol) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le chemin des dames ▶](../le_chemin_des_dames)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

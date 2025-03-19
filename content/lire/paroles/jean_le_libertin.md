@@ -1,6 +1,6 @@
 ---
 Title: "Jean le libertin"
-slug: "jean_le_libertin"
+sidebar_left: sidebar
 ---
 
 ##  Paroles: Gilles Maire - Musique : Geoffray Milleret
@@ -36,7 +36,7 @@ Ni des lèvres ni des yeux ...
   
 
 
-[← Je chante pour mes copains](../je_chante_pour_mes_copains)........[Table de matières](..)........[La Caulaincourt→](../la_caulaincourt)
+[ ◀ Je chante pour mes copains](../je_chante_pour_mes_copains) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La Caulaincourt ▶](../la_caulaincourt)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

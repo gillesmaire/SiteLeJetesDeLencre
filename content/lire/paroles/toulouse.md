@@ -1,6 +1,6 @@
 ---
 Title: "Toulouse"
-slug: "toulouse"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -42,7 +42,7 @@ Nos souvenirs la belle m'ont toujours habité.
   
 
 
-[← Tango à Jehro](../tango_à_jehro)........[Table de matières](..)........[Ulysse→](../ulysse)
+[ ◀ Tango à Jehro](../tango_à_jehro) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ulysse ▶](../ulysse)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

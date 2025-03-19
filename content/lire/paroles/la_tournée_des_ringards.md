@@ -1,6 +1,6 @@
 ---
 Title: "La tournée des ringards"
-slug: "la_tournée_des_ringards"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -53,7 +53,7 @@ Des cafés de notre quartier,
 Où l'on chantait nos petites histoires.  
 
 
-[← La saphique](../la_saphique)........[Table de matières](..)........[La vie madame→](../la_vie_madame)
+[ ◀ La saphique](../la_saphique) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La vie madame ▶](../la_vie_madame)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

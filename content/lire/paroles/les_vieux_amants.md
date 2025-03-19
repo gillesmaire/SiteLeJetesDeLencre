@@ -1,6 +1,6 @@
 ---
 Title: "Les vieux amants"
-slug: "les_vieux_amants"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -61,7 +61,7 @@ Moi je fais de mon mieux
 Pour pas que tu sois déçue...  
 
 
-[← Les tempes grises](../les_tempes_grises)........[Table de matières](..)........[Lettre à mon père→](../lettre_à_mon_père)
+[ ◀ Les tempes grises](../les_tempes_grises) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Lettre à mon père ▶](../lettre_à_mon_père)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

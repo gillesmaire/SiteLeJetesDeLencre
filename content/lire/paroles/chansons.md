@@ -1,6 +1,6 @@
 
 
-[← ](../)........[Table de matières](..)........[Accroche→](../accroche)
+[ ◀ ](../) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Accroche ▶](../accroche)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

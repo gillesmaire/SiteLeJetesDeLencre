@@ -1,6 +1,6 @@
 ---
 Title: "La vie madame"
-slug: "la_vie_madame"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -35,7 +35,7 @@ Du côté de Saint-Germain.
   
 
 
-[← La tournée des ringards](../la_tournée_des_ringards)........[Table de matières](..)........[Lancelot→](../lancelot)
+[ ◀ La tournée des ringards](../la_tournée_des_ringards) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Lancelot ▶](../lancelot)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

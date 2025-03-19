@@ -1,6 +1,6 @@
 ---
 Title: "Les spaghetti"
-slug: "les_spaghetti"
+sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
@@ -60,7 +60,7 @@ Sa dernière bouchée fut un baiser
   
 
 
-[← Les joies du vélo](../les_joies_du_vélo)........[Table de matières](..)........[Les tempes grises→](../les_tempes_grises)
+[ ◀ Les joies du vélo](../les_joies_du_vélo) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les tempes grises ▶](../les_tempes_grises)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

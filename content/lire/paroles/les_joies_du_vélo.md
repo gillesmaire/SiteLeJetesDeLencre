@@ -1,6 +1,6 @@
 ---
 Title: "Les joies du vélo"
-slug: "les_joies_du_vélo"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
@@ -53,7 +53,7 @@ L'vélo n'eut pas une égratignure
   
 
 
-[← Les filles de Mar del Plata](../les_filles_de_mar_del_plata)........[Table de matières](..)........[Les spaghetti→](../les_spaghetti)
+[ ◀ Les filles de Mar del Plata](../les_filles_de_mar_del_plata) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les spaghetti ▶](../les_spaghetti)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

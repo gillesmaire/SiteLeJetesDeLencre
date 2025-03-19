@@ -1,6 +1,6 @@
 ---
 Title: "La saphique"
-slug: "la_saphique"
+sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
@@ -50,7 +50,7 @@ Elle n'aime que les amours saphiques !
   
 
 
-[← La rupture](../la_rupture)........[Table de matières](..)........[La tournée des ringards→](../la_tournée_des_ringards)
+[ ◀ La rupture](../la_rupture) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La tournée des ringards ▶](../la_tournée_des_ringards)
 
 
-Chanson sous licence Creative Common BY-NC-ND
+<b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>
