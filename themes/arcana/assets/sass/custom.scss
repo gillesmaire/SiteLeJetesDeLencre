@@ -1,3 +1,27 @@
-/* This file intentionally left blank.
- * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
- */
+#logo {
+  display: inline-block;
+
+  font-size: 2vw;
+
+  transform: scale(3);
+
+  transition: transform 0.9s ease;
+
+}
+li::marker {
+  color: red;
+
+}
+élément {
+}
+ul li {
+  padding-left: 0.5em;
+
+}
+li {
+  list-style-type: '▮';
+
+}li::marker {
+  color: red;
+
+}
