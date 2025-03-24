@@ -5,13 +5,14 @@ draft=false
 
 # La cave aux jetés
 
-En 2020, nous avons aménagé une cave à Paris dans le 18 ème arrondissement. Elle comprend deux pièces la première avec un bar et des dessertes permettant de poser plateaux et assiettes pour le repas.  La deuxième pièce contient des tables bistrots et ses chaises le plus souvent assemblées en une grande table commune.
+En 2020, nous avons aménagé une cave à Paris dans le 18 ème arrondissement. <img src="/images/cave2.jpg" alt="" style="float: left; margin-right: 10px; width:200px;"> Gilles écrit les textes et la plupart des musiques, il  assure une interprétation passionnée  derrière sa guitare ou même sans son instrument.
+Elle comprend deux pièces la première avec un bar et des dessertes permettant de poser plateaux et assiettes pour le repas.  La deuxième pièce contient des tables bistrots et ses chaises le plus souvent assemblées en une grande table commune.
 Nous avons coutume de manger en début de soirée puis nous chantons les chansons des jetés de l'Encre.
 Des carnets de chant sont disponibles afin de permettre à chacun de chanter.
 La cave dispose d'un réfrigérateur, d'une machine à café, de points d'eau et de toilettes.
 L'accès à la cave se fait par un escalier de pierre doté d'une rampe pour les personnes à mobilité réduite.
 Les musiciens qui le souhaitent peuvent jouer en fin de soirée.
-La cave est parfois utilisée par des amis des Jetés de l'encre pour des expos ou des soirées privées.
+La cave est parfois utilisée par des amis des Jetés de l'encre pour des expos ou des soirées privées. <img src="/images/cave1.jpg" alt="" style="float: right; margin-right: 10px; width:200px;">
 
 # La cave aux jetés mode d'emploi
 
