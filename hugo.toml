@@ -19,13 +19,13 @@ defaultContentLanguage = "fr"
 [[menu.main]]
   identifier = "dates"
   name = "Dates"
-  url = "/dates"
+  url = "/dates/"
   weight = 1
 
 [[menu.main]]
   identifier = "ecouter"
   name = "Écouter"
-  url = "/ecouter"
+  url = "/ecouter/"
   weight = 2
 
   [[menu.main]]
@@ -50,13 +50,13 @@ defaultContentLanguage = "fr"
 [[menu.main]]
   name = "Lire"
   identifier="lire"
-  url = "/lire"
+  url = "/lire/"
   weight = 3
 
   [[menu.main]]
     parent="lire"
     name = "Paroles"
-    url = "/lire/paroles/accroche"
+    url = "/lire/paroles/accroche/"
     weight = 1
 
   [[menu.main]]
@@ -67,13 +67,13 @@ defaultContentLanguage = "fr"
 
 [[menu.main]]
   name = "Photos"
-  url = "/Photos"
+  url = "/Photos/"
   weight = 4
 
 [[menu.main]]
   identifier = "infos"
   name = "Infos"
-  url = "/Infos"
+  url = "/Infos/"
   weight = 5
 
   [[menu.main]]

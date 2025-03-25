@@ -1,6 +1,6 @@
 # Installation Hugo
 
-- Download extended version of hugo on huogo github
+- Download extended version of hugo on hugo github
 - sudo apt instal nodejs npm
 
 # Test
