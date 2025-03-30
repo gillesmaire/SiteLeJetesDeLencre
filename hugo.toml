@@ -3,9 +3,6 @@ title = "Les Jetés De L'Encre"
 theme = ["arcana" ,"hugo-snap-gallery"]
 defaultContentLanguage = "fr"
 
-[params]
-  customcss=["style/style.css"]
-
 
 [languages]
   [languages.fr]
@@ -117,3 +114,11 @@ defaultContentLanguage = "fr"
   name = "Contact"
   url = "/contact/"
   weight = 6
+
+[params.footer]
+  attribution = false
+
+
+[params.footer.custom_copyright]
+  text = "© {currentYear} Les Jetés De L'Encre - Creative Commons BY NC ND SA"
+  logo = "/favicon-96x96.png"

@@ -18,7 +18,7 @@ Captés immédiatement par la voix ronde et chaude de Gilles Maire. D’un lyris
 
 Ajoutez à la poésie inventive des paroles un humour décapant, cachant souvent la mélancolie du temps qui passe. Une main de satire politique virulente dans la lignée des grands poètes anarchistes du XIXeme, qui donne La marche des peineux, « Quand elle m’a vu chanter , La la la la la la la la la la / celle qui dansait son nom / C’était la Liberté », et ce Chemin des dames, histoire du chanteur inconnu devenu le plus connu des inconnus, fleurissant « le champ de déshonneur ». Complétez avec un bras d’ énergie dévastatrice et vous aurez une idée du résultat.
 
-# Susanne Wachs -  Bistrot Chanson Sarebruck
+# Susanne Wachs -  Bistrot Chanson Sarrebruck
 
 J'ai vu beaucoup beaucoup de groupes de chanteurs et chanteuses francophone. Mais je n'ai jamais vu des musicos aussi fous. À la fois très pros et très décontractés, avec
 des paroles parfois cinglantes, mais toujours intelligemment dosées, ils ont reçu après de leur passage au Bistrot Musique à l'auditorium de Radio Sarrebruck une excellene critique de la presse.

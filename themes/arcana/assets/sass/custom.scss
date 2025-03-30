@@ -1,12 +1,15 @@
 #logo {
   display: inline-block;
-
   font-size: 2vw;
-
   transform: scale(3);
-
   transition: transform 0.9s ease;
-  color: #ffaa00;
+  // titre : Les jetés De L'Encre
+   color: #d1910f;
+
+
+
+
+
 
 }
 li::marker {
@@ -19,13 +22,33 @@ ul li {
   padding-left: 0.5em;
 
 }
-li {
-  list-style-type: "=>";
+// li {
+//   list-style-type: "=>";
+//
+// }li::marker {
+//   color: black;
+//
+// }
 
-}li::marker {
-  color:black;
-
+a {
+  color: #000025;
+  font-weight: bold; /* Met les liens en gras */
+  text-decoration: none; /* Supprime le soulignement */
+  border-bottom: none;
 }
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  list-style-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="18"><rect width="12" height="6" fill="%23d1910f"/><rect y="6" width="12" height="12" fill="%23470a09"/></svg>');
+  padding-left: 25px; /* Décalage pour le texte */
+  margin-bottom: 5px;
+}
+
+
 
 li[class] {
   display: block;
@@ -33,12 +56,13 @@ li[class] {
 }
 
 #nav{
-	background-color:#600000;
+   // Fond navigation et menu
+	background-color: #470a09;
 }
 
 #nav .current{
 	font-weight: bold;
-	color:white;
+	color: white ;
 }
 
 #nav > ul > li a {
@@ -52,7 +76,7 @@ li[class] {
 }
 
 .dropotron{
-  background-color:#600000;
+  background-color:#470a09;
 }
 
 
@@ -67,7 +91,9 @@ li[class] {
 
 #header
 {
-  background-color: black;
+  //  Fond Les Jetés De L'Encre'
+  background-color: #000025;
+
 }
 
 .menu {
