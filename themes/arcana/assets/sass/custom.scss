@@ -5,12 +5,12 @@
     align-items: flex-start; /* Aligné à gauche */
     justify-content: flex-start; /* Colle en haut */
     height: auto;
-    padding: 0 10vw; /* Marges latérales */
+    padding: 0 8vw; /* Marges latérales */
 }
 
 /* Grand logo */
 #logo {
-    font-size: 10vw;
+    font-size: 7vw;
     color: #F7F7F7;
     white-space: nowrap;
     line-height: 1;
@@ -125,13 +125,15 @@ li[class] {
 #nav{
    // Fond navigation et menu
 	background-color: #470a09;
+    background-color: #B0B0B0;
 }
 
 #nav .current{
 	font-weight: bold;
-	color: white ;
+	color: #F7F7F7 ;
 }
 
+// Couleur Item menu a vide
 #nav > ul > li a {
   color: #ffcb50;
   font-weight: bold;
@@ -139,11 +141,13 @@ li[class] {
 
 .dropotron > li > a {
   color: #ffcb50;
+
   font-weight: bold;
 }
 
 .dropotron{
-  background-color:#470a09;
+  background-color: #470a09;
+  background-color: #73737B;
 }
 
 
@@ -151,8 +155,9 @@ li[class] {
   content: '';
   display: block;
   width: 100%;
-  height: 0.25em;
+  height: 0.75em;
   background-color: #ffaa00;
+  background-color: #000025;
 }
 
 
