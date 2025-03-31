@@ -1,17 +1,63 @@
-#logo {
-  display: inline-block;
-  font-size: 2vw;
-  transform: scale(3);
-  transition: transform 0.9s ease;
-  // titre : Les jetés De L'Encre
-   color: #d1910f;
-
-
-
-
-
-
+#logo-wrapper {
+    width: 100%; /* Prend toute la largeur */
+    max-width: 1200px; /* Fixe la largeur maximale du conteneur */
+    margin: 0 auto; /* Centre le conteneur */
+    display: flex;
+    justify-content: space-between; /* Espaces entre les logos */
+    align-items: center; /* Alignement vertical */
+    position: relative; /* Nécessaire pour positionner le petit logo */
+    box-sizing: border-box; /* Assure que le padding/margin ne fait pas déborder */
+    padding: 0 20px; /* Ajoute un peu de marge autour du conteneur pour éviter les bords */
 }
+
+#logo {
+    font-size: 2vw;
+    width: 400px; /* Augmente la taille du logo du milieu */
+    height: auto;
+    transform: scale(3); /* Agrandit le logo */
+    transform-origin: center; /* Centre l'agrandissement */
+    transition: transform 0.9s ease;
+    color: #F7F7F7;
+    align-self: center; /* Assure que le logo du milieu reste centré */
+    flex-grow: 1; /* Le logo prend plus d'espace disponible */
+}
+
+#arespirer {
+    position: absolute;
+    right: 20px; /* Garde un petit espace à droite */
+    bottom: 0; /* Colle le texte complètement en bas */
+    max-width: 250px;
+    white-space: nowrap;
+    overflow: visible;
+    text-align: right;
+    font-size: 1.5vw;
+    color: white;
+    transition: font-size 0.5s ease, opacity 0.5s ease;
+}
+
+/* Assurer que son parent est bien positionné */
+.parent-container {
+    position: relative; /* Nécessaire pour que le `bottom: 0;` fonctionne */
+    height: 100px; /* Ajuste selon tes besoins */
+}
+/* Media query pour les petits écrans (ex : smartphones), mais plus tard pour ne pas entrer trop tôt */
+@media (max-width: 700px) {
+    #logo-wrapper {
+        justify-content: center; /* Assure que tout reste centré sur petit écran */
+        padding: 0 10px; /* Réduit la marge sur les petits écrans */
+    }
+
+    #logo {
+        font-size: 5vw; /* Augmente la taille du logo central sur petit écran */
+        transform: scale(1); /* Supprime l'effet de scale pour éviter le décalage */
+        width: auto; /* Permet au logo de s'adapter à la taille de l'écran */
+    }
+
+    #arespirer {
+        display: none; /* Cache le logo de droite sur les petits écrans */
+    }
+}
+
 li::marker {
   color: red;
 

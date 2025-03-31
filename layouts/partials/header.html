@@ -2,13 +2,9 @@
     {{ if hugo.IsMultilingual }}
         {{- partial "languages.html" . }}
     {{- end -}}
-    <div id="logo-wrapper"><h1><a href="{{ .Site.BaseURL }}" id="logo">
-        {{- if .Site.Data.globalheader.image }}
-            <img src="{{ .Site.Data.globalheader.image | relURL }}" alt="{{ .Site.Data.globalheader.image_alt }}" />
-        {{- end }}
-        {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
-    </a></h1>
-
+    <div id="logo-wrapper">
+        <h2 id="logo">Les Jetés De L'Encre*</h2>
+        <h3 id="arespirer">*Chansons à respirer</h3>
     </div>
 
     <nav id="nav">

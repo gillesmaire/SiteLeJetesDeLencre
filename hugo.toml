@@ -1,5 +1,5 @@
 languageCode = 'fr'
-title = "Les Jetés De L'Encre"
+title = "Les Jetés De L'Encre*"
 theme = ["arcana" ,"hugo-snap-gallery"]
 defaultContentLanguage = "fr"
 
@@ -114,6 +114,7 @@ defaultContentLanguage = "fr"
   name = "Contact"
   url = "/contact/"
   weight = 6
+
 
 [params.footer]
   attribution = false

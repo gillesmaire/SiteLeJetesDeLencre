@@ -6,9 +6,10 @@
         {{- if .Site.Data.globalheader.image }}
             <img src="{{ .Site.Data.globalheader.image | relURL }}" alt="{{ .Site.Data.globalheader.image_alt }}" />
         {{- end }}
-        {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
-    </a></h1>
 
+        {{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{ else }}{{ .Site.Title }}{{ end }}
+        <img src="{{ .Site.Data.globalheader.image_right | relURL }}" alt="{{ .Site.Data.globalheader.image_right_alt }}" class="header-right-image">
+    </a></h1>
     </div>
 
     <nav id="nav">
