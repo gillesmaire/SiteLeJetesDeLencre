@@ -1,39 +1,48 @@
+/* Conteneur principal */
 #logo-wrapper {
-    width: 100%; /* Prend toute la largeur */
-    max-width: 1200px; /* Fixe la largeur maximale du conteneur */
-    margin: 0 auto; /* Centre le conteneur */
     display: flex;
-    justify-content: space-between; /* Espaces entre les logos */
-    align-items: center; /* Alignement vertical */
-    position: relative; /* Nécessaire pour positionner le petit logo */
-    box-sizing: border-box; /* Assure que le padding/margin ne fait pas déborder */
-    padding: 0 20px; /* Ajoute un peu de marge autour du conteneur pour éviter les bords */
-}
-
-#logo {
-    font-size: 2vw;
-    width: 400px; /* Augmente la taille du logo du milieu */
+    flex-direction: column;
+    align-items: flex-start; /* Aligné à gauche */
+    justify-content: flex-start; /* Colle en haut */
     height: auto;
-    transform: scale(3); /* Agrandit le logo */
-    transform-origin: center; /* Centre l'agrandissement */
-    transition: transform 0.9s ease;
-    color: #F7F7F7;
-    align-self: center; /* Assure que le logo du milieu reste centré */
-    flex-grow: 1; /* Le logo prend plus d'espace disponible */
+    padding: 0 10vw; /* Marges latérales */
 }
 
-#arespirer {
-    position: absolute;
-    right: 20px; /* Garde un petit espace à droite */
-    bottom: 0; /* Colle le texte complètement en bas */
-    max-width: 250px;
+/* Grand logo */
+#logo {
+    font-size: 10vw;
+    color: #F7F7F7;
     white-space: nowrap;
-    overflow: visible;
-    text-align: right;
-    font-size: 1.5vw;
-    color: white;
-    transition: font-size 0.5s ease, opacity 0.5s ease;
+    line-height: 1;
+    margin: 0;
+    padding-top: 0; /* Réduction marge haute */
+    padding-bottom: 0; /* Plus de marge en bas */
 }
+
+/* Petit logo */
+#arespirer {
+    font-size: 3vw; /* 3x plus petit */
+    color: #F7F7F7;
+    white-space: nowrap;
+    margin: 0;
+    padding: 0 0 0 0; /* Moins d’espace entre les deux */
+    align-self: flex-end; /* Décale à droite */
+}
+
+/* Mode mobile : cacher le petit logo */
+@media (max-width: 768px) {
+    #arespirer {
+        display: none;
+    }
+
+    #logo {
+        font-size: 12vw;
+    }
+}
+
+
+
+
 
 /* Assurer que son parent est bien positionné */
 .parent-container {
@@ -54,7 +63,19 @@
     }
 
     #arespirer {
-        display: none; /* Cache le logo de droite sur les petits écrans */
+        display: none ! important; /* Cache le logo de droite sur les petits écrans */
+    }
+}
+
+@media (min-width: 701px) { /* Quand l'écran est plus large que 700px */
+    #arespirer {
+        display: block; /* Le remettre visible */
+    }
+}
+
+@media (max-width: 700px) { /* Quand l'écran est plus petit que 700px */
+    #arespirer {
+        display: none !important; /* Forcer la disparition */
     }
 }
 
