@@ -1,11 +1,17 @@
 /* Conteneur principal */
 #logo-wrapper {
+    background-image: url('/images/lesjetesbandeau.png');
+    background-position: top right; /* Positionne l'image en haut à droite */
+    background-repeat: no-repeat;
+    position: relative;
+    //padding: 0 8vw;
+    height: 200px;
+    background-size: auto;
     display: flex;
     flex-direction: column;
     align-items: flex-start; /* Aligné à gauche */
     justify-content: flex-start; /* Colle en haut */
     height: auto;
-    padding: 0 8vw; /* Marges latérales */
 }
 
 /* Grand logo */
@@ -19,7 +25,8 @@
     padding-bottom: 0; /* Plus de marge en bas */
 }
 
-/* Petit logo */
+
+
 #arespirer {
     font-size: 3vw; /* 3x plus petit */
     color: #F7F7F7;
@@ -98,7 +105,7 @@ ul li {
 // }
 
 a {
-  color: #000025;
+  color: #265aa8;
   font-weight: bold; /* Met les liens en gras */
   text-decoration: none; /* Supprime le soulignement */
   border-bottom: none;
@@ -124,30 +131,32 @@ li[class] {
 
 #nav{
    // Fond navigation et menu
-	background-color: #470a09;
     background-color: #B0B0B0;
 }
 
 #nav .current{
 	font-weight: bold;
 	color: #F7F7F7 ;
+    background-color: #B0B0B0;
 }
 
 // Couleur Item menu a vide
 #nav > ul > li a {
-  color: #ffcb50;
-  font-weight: bold;
+  color: #660000;
+  font-weight: ultra-expanded;
+  font-size :26px;
 }
 
 .dropotron > li > a {
-  color: #ffcb50;
-
+  color: #660000;
+  font-size :20px;
+  // background-color: #73737B;
   font-weight: bold;
 }
 
 .dropotron{
-  background-color: #470a09;
-  background-color: #73737B;
+  //background-color: #470a09;
+  background-color: #B0B0B0;
 }
 
 
@@ -187,3 +196,6 @@ li[class] {
     border-bottom: none;
 }
 
+p{
+	text-align: justify;
+}
