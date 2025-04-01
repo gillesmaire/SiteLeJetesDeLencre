@@ -13,8 +13,7 @@ Si vous disposez de photographies ou de vidéos des jetés de l'encre n'hésitez
 
 # Briques logicielles
 
-- Le site est développé en Markdown intégré par [Hugo](https://gohugo.io/). Cette technique n'utilise pas de base de données
-et permet d'écrire un site dans de petits fichiers textes très pratiques.
+- Le site est développé en Markdown intégré par [Hugo](https://gohugo.io/). Cette technique n'utilise pas de base de données et permet d'écrire un site dans de petits fichiers textes très pratiques. Qui plus est la mise à jour du site se fait en passant par github ce qui assure un backup des sources.
 - La galerie de fichiers est le [module hugo-snap-gallery](https://src.mehl.mx/mxmehl/hugo-snap-gallery). C'est un module qui
 s'insère facilement et perme de faire des diaporamas ou des galeries de photo en une ligne de commande dans les fameux fichiers texte.
 - Le thème utilisé est le thème [Arcana](https://github.com/half-duplex/hugo-arcana) portage du style [HTML5 UP](https://html5up.net/)

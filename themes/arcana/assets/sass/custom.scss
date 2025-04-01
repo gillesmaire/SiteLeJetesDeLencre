@@ -3,15 +3,15 @@
     background-image: url('/images/lesjetesbandeau.png');
     background-position: top right; /* Positionne l'image en haut à droite */
     background-repeat: no-repeat;
-    position: relative;
+   // position: relative;
     //padding: 0 8vw;
-    height: 200px;
+
     background-size: auto;
     display: flex;
     flex-direction: column;
     align-items: flex-start; /* Aligné à gauche */
     justify-content: flex-start; /* Colle en haut */
-    height: auto;
+    height: 100;
 }
 
 /* Grand logo */
