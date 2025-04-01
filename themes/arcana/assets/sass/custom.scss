@@ -87,7 +87,10 @@
 }
 
 li::marker {
-  color: red;
+  color: #265aa8 ;
+  content:"🗮";
+
+  font-size: 1.1em;
 
 }
 élément {
@@ -111,16 +114,20 @@ a {
   border-bottom: none;
 }
 
-ul {
-  list-style: none;
-  padding-left: 0;
-}
 
-li {
-  list-style-image: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="18"><rect width="12" height="6" fill="%23d1910f"/><rect y="6" width="12" height="12" fill="%23470a09"/></svg>');
-  padding-left: 25px; /* Décalage pour le texte */
-  margin-bottom: 5px;
-}
+
+// ul {
+//   list-style: none;
+//   padding-left: 0;
+// }
+
+// li {
+//
+//
+//
+//   padding-left: 25px; /* Décalage pour le texte */
+//   margin-bottom: 5px;
+// }
 
 
 

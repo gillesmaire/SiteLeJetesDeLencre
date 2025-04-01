@@ -4,7 +4,7 @@
 9. Dans chord 5 changer  BY-NC-ND par BY-NC-ND-SA, Paroles et muiques plus petit, ressérer les li de la tOC
 11. blue in short site
 13. voir lien facebook Creativecomon
-14. changer couleur des puces
+
 
 
 
