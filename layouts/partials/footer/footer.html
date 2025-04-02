@@ -33,14 +33,15 @@
     </ul>
 
     <div class="copyright">
-        <ul class="menu">
             {{ if .Site.Copyright }}
                 <li>{{ replace .Site.Copyright "{currentYear}" now.Year }}
             {{ end }}
             {{- if .Site.Params.footer.custom_copyright }}
-                <li>{{ replace .Site.Params.footer.custom_copyright.text "{currentYear}" now.Year }}</li>
-                <li><img src="{{ .Site.Params.footer.custom_copyright.logo }}" alt="Logo"></li>
+        <img src="/favicon-96x96.png" alt="Logo"><br>
+	    <b>&copy; {{ now.Year }} </b>
+	    <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+           <img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
+           </a>
             {{- end }}
-        </ul>
     </div>
 </div>
