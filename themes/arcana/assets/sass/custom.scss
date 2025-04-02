@@ -1,17 +1,20 @@
 /* Conteneur principal */
+
 #logo-wrapper {
     background-image: url('/images/lesjetesbandeau.png');
     background-position: top right; /* Positionne l'image en haut à droite */
     background-repeat: no-repeat;
-   // position: relative;
+    position: contain;
     //padding: 0 8vw;
-
-    background-size: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start; /* Aligné à gauche */
-    justify-content: flex-start; /* Colle en haut */
-    height: 100;
+    height: 30vh;
+    width:100%;
+    background-size: contain;
+    top:0;
+    right:0;
+      display: flex;
+    justify-content: space-between; /* Espace entre les éléments */
+    align-items: flex-end; /* Aligner le contenu en bas du bandeau */
+    padding: 10px; /* Ajoute un peu d’espace autour */
 }
 
 /* Grand logo */
@@ -21,8 +24,12 @@
     white-space: nowrap;
     line-height: 1;
     margin: 0;
-    padding-top: 0; /* Réduction marge haute */
-    padding-bottom: 0; /* Plus de marge en bas */
+    padding:0;
+    align-self: flex-start; /* Réduction marge haute */
+    position: absolute;
+    top: 5%; /* Force à coller en haut */
+    height: auto;
+
 }
 
 
@@ -31,9 +38,12 @@
     font-size: 3vw; /* 3x plus petit */
     color: #F7F7F7;
     white-space: nowrap;
+    line-height: 1;
     margin: 0;
     padding: 0 0 0 0; /* Moins d’espace entre les deux */
-    align-self: flex-end; /* Décale à droite */
+    right:0;
+    align-self: flex-end;
+    position: absolute;
 }
 
 /* Mode mobile : cacher le petit logo */
@@ -86,13 +96,13 @@
     }
 }
 
-li::marker {
-  color: #265aa8 ;
-  content:"🗮";
 
-  font-size: 1.1em;
 
+li {
+  list-style-image: url('/images/tache.png');
+  list-style-position: inside;
 }
+
 élément {
 }
 ul li {
@@ -209,7 +219,7 @@ p{
 
 .qr {
     position: fixed;
-    right: 100px;
-    bottom: 100px;
+    right: 100px;  /* Espace de 20px du côté droit */
+    bottom: 80px;  /* Ajuste la distance par rapport au bas */
 }
 

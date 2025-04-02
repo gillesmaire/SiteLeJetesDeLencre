@@ -7,6 +7,11 @@
 	$breakpoints: null;
 	$breakpoints: () !global;
 
+$breakpoints: (
+  mobile: 600px,  // Passer au mode mobile à partir de 600px
+  tablet: 768px,
+  desktop: 1024px
+);
 // Mixins.
 
 	/// Sets breakpoints.
