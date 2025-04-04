@@ -225,3 +225,8 @@ p{
     bottom: 80px;  /* Ajuste la distance par rapport au bas */
 }
 
+
+li.style[style="white-space: nowrap;"] {
+    list-style-type: none; /* Enlève les puces */
+}
+

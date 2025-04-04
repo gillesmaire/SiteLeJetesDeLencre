@@ -1,0 +1,7 @@
++++
++++
+
+# Informations 
+
+{{ PAGE.GitInfo.date }}
+

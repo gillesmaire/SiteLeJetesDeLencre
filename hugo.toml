@@ -3,6 +3,7 @@ title = "Les Jetés De L'Encre*"
 theme = ["arcana" ,"hugo-snap-gallery"]
 defaultContentLanguage = "fr"
 
+enableGitInfo = true
 
 [languages]
   [languages.fr]
