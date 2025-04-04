@@ -2,7 +2,9 @@
 # Gilles Maire
 
 
-<img src="/images/gilles.jpeg" alt="Gilles" style="float: left; margin-right: 10px; width:120px;"> Gilles écrit les textes et la plupart des musiques, il  assure une interprétation passionnée  derrière sa guitare ou même sans son instrument.
+<img src="/images/gilles.jpeg" alt="Gilles" style="float: left; margin-right: 10px; width:120px;"> <a href="https://www.facebook.com/gilles.maire" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px;"/></a>
+Gilles écrit les textes et la plupart des musiques, il  assure une interprétation passionnée  derrière sa guitare ou même sans son instrument.
 Son écriture de facture classique se permet  parfois quelques clins d'oeil aux Brassens, Aragon, Dimey, Leprest, Higelin, Grand Corps Malade, les Nadau ...
 De sa jeunesse de militant occitaniste, il reste marqué et attaché aux musiques traditionnelles : Swing, Manouche, Havaneria, Milonga, Valses tsiganes, Romances slaves, Fado, Boléro, Ranchara. Ce sont des rythmes que l'on retrouve sur scène et sur disque.
 Il peut chanter seul sans ses accompagnateurs, défi qu'il relève de temps à autres, mais c'est en bande qu'il préfère  assurer ses concerts.
