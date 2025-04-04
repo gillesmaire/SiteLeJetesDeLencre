@@ -20,9 +20,9 @@ Philippe joue de la guitare, de la basse et de la  contrebasse. C'est
 ce dernier instrument qu'il utilise dans le groupe.
 Il joue également dans des groupes de Rockabilly ou de reprises des Beatles.
 
-Il assure au sein du groupe, la contrebasse et le contre chant et c'est également le trésorier de l'association qui grégit le groupe. Infatigable il s'est également imposé comme l'organisateur des tournées.
+Il assure au sein du groupe, la contrebasse et le contre chant et c'est également le trésorier de l'association qui régit le groupe. Infatigable il s'est également imposé comme l'organisateur des tournées.
 
-Il a rejointle groupe en 2011 où il a assuré plus de 400 concerts. Il fait partie des musiciens du deuxième album et des suivants.
+Il a rejoint le groupe en 2011 où il a assuré plus de 400 concerts. Il fait partie des musiciens du deuxième album et des suivants.
 
 
 
