@@ -3,5 +3,11 @@
 
 # Informations 
 
-{{ PAGE.GitInfo.date }}
+{{ with .GitInfo }}
+  {{ .Hash }} 
+{{ end }}
+
+
+ {{ .site.title }}
+
 
