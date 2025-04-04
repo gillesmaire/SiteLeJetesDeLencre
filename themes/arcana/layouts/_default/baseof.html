@@ -4,6 +4,32 @@
         {{- partial "head/head.html" . -}}
         {{- template "_internal/opengraph.html" . -}}
     </head>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const currentPath = window.location.pathname;
+  const links = document.querySelectorAll('#nav a');
+
+  links.forEach(link => {
+    const linkPath = new URL(link.href).pathname;
+
+    if (linkPath === currentPath) {
+      const li = link.closest('li');
+      if (!li) return;
+
+      const parentLi = li.closest('ul')?.closest('li');
+
+      if (parentLi) {
+        // Cas 1 : c’est un sous-menu → activer le menu parent
+        parentLi.classList.add('active');
+      } else {
+        // Cas 2 : c’est un menu principal sans sous-menu → activer lui-même
+        li.classList.add('active');
+      }
+    }
+  });
+});
+</script>
+
     <body class="is-preload">
         {{- partial "analytics/google-tag-manager/body.html" . }}
         <div id="page-wrapper">
