@@ -227,6 +227,6 @@ p{
 
 
 li[style="white-space: nowrap;"] {
-    list-style-type: none; /* Enlève les puces */
+    list-style-type: none !important; /* Enlève les puces */
 }
 
