@@ -1,6 +1,4 @@
 +++
-date = '2025-04-04T21:05:28+01:00'
-title = 'Livrets'
 +++
 
 Vous pouvez télécharger ici quelques livrets au format PDF qui vous permettent d'accéder
