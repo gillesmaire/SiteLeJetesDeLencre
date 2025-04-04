@@ -47,14 +47,25 @@
 }
 
 /* Mode mobile : cacher le petit logo */
-@media (max-width: 768px) {
-    #arespirer {
+@media (max-width: 840px) {
+
+  #titlebar {
+    background-color: #000025 !important;
+  }
+  #arespirer {
         display: none;
     }
+  #logo {
+    position:relative;
+    font-size: 6vw;            /* Un peu plus petit si besoin */
+    max-width: 90vw;           /* Ne dépasse pas la largeur de l’écran */
+    left: 5vw;                 /* Décalage doux depuis le bord gauche */
+    right: auto;               /* Évite toute contrainte à droite */
+    top: 2%;                   /* Moins de marge en haut si besoin */
+    white-space: nowrap;      /* On garde sur une seule ligne */
+    overflow: hidden;         /* Coupe ce qui dépasse si nécessaire */
+  }
 
-    #logo {
-        font-size: 12vw;
-    }
 }
 
 
@@ -84,17 +95,7 @@
     }
 }
 
-@media (min-width: 701px) { /* Quand l'écran est plus large que 700px */
-    #arespirer {
-        display: block; /* Le remettre visible */
-    }
-}
 
-@media (max-width: 700px) { /* Quand l'écran est plus petit que 700px */
-    #arespirer {
-        display: none !important; /* Forcer la disparition */
-    }
-}
 
 
 
