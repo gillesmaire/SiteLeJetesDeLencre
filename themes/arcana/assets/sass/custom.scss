@@ -99,9 +99,13 @@
 
 
 
-li {
+li:not([style]) {
   list-style-image: url('/images/tache.png');
   list-style-position: inside;
+}
+
+li[style] {
+  list-style-type: none;  /* Pas de puce si un style est présent */
 }
 
 élément {
