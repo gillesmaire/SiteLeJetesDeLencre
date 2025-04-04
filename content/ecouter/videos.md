@@ -8,6 +8,7 @@ date: ""
   {{< youtube id="lMRJ1kL28lE" class="youtube-video" >}}
   {{< youtube id="zh-9iQqyQTA" class="youtube-video" >}}
   {{< youtube id="t68KtoirySc" class="youtube-video" >}}
+  {{< youtube id="SB8nIqsSQB0" class="youtube-video" >}}
   {{< youtube id="3BQAo78nQQc" class="youtube-video" >}}
   {{< youtube id="7stKhvWgc2s" class="youtube-video" >}}
   {{< youtube id="6s_nMHqlNL0" class="youtube-video" >}}

@@ -20,7 +20,7 @@ Philippe joue de la guitare, de la basse et de la  contrebasse. C'est
 ce dernier instrument qu'il utilise dans le groupe.
 Il joue également dans des groupes de Rockabilly ou de reprises des Beatles.
 
-Il assure au sein du groupe, la contrebasse et le contre chant et c'est également le trésorier de l'association qui régit le groupe. Infatigable il s'est également imposé comme l'organisateur des tournées.
+Il assure au sein du groupe, la contrebasse et le contre chant et c'est également le trésorier de l'association qui régit le groupe. Infatigable, il s'est également imposé comme l'organisateur des tournées.
 
 Il a rejoint le groupe en 2011 où il a assuré plus de 400 concerts. Il fait partie des musiciens du deuxième album et des suivants.
 
@@ -30,15 +30,27 @@ Il a rejoint le groupe en 2011 où il a assuré plus de 400 concerts. Il fait pa
 
 # Ulysse Loviat
 
-<img src="/images/ulysse.png" alt="Ulysse" style="float: left; margin-right: 10px; width:180px;"> Benjamin du groupe Ulysse a rejoint les jetés en 2016 où il assure le rôle de guitariste soliste dans des improvisations déchaînées qui font la joie du public.
+<img src="/images/ulysse.jpg" alt="Ulysse" style="float: left; margin-right: 10px; width:180px;"> Benjamin du groupe Ulysse a rejoint les jetés en 2016 où il assure le rôle de guitariste soliste dans des improvisations déchaînées qui font la joie du public.
 Jeune adulte, Ulysse a effectué un tour du monde en solitaire accompagné de sa guitare et s'est imprégné des musiques des différents pays qu'il a traversé. C'est ce goût pour les musiques du monde qui lui a plu dans le groupe et l'a probablement décidé à le rejoindre.
 Ulysse donne des cours de Piano et de Guitare et a mis au point une méthode pour l'apprentissage de la musique aux jeunes. Il est aussi acteur dans une compagnie théâtrale.
 
 
+
 # Guerran Sellin
 
- Guerran a rejoint le groupe en 2007 et suite à son déménagement en 2015, il joue de façon plus occasionnelle avec les Jetés de l'Encre.
+ <img src="/images/guerran.jpg" alt="Guerran" style="float: left; margin-right: 10px; width:120px;">Guerran a rejoint le groupe en 2007 et suite à son déménagement en 2015, il joue de façon plus occasionnelle avec les Jetés de l'Encre.
  Guerran est issu du concervatoire de musique de Saint-Denis.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
