@@ -39,7 +39,7 @@ Ulysse donne des cours de Piano et de Guitare et a mis au point une méthode pou
 # Guerran Sellin
 
  <img src="/images/guerran.jpg" alt="Guerran" style="float: left; margin-right: 10px; width:120px;">Guerran a rejoint le groupe en 2007 et suite à son déménagement en 2015, il joue de façon plus occasionnelle avec les Jetés de l'Encre.
- Guerran est issu du concervatoire de musique de Saint-Denis.
+ Guerran est issu du conservatoire de musique de Saint-Denis.
 
 
 
