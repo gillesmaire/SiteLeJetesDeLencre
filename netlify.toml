@@ -7,3 +7,9 @@
 
 [build.environment]
   HUGO_ENV = "production"
+
+[[redirects]]
+  from = "/tiki-index.php?page=home"
+  to = "/"
+  status = 301
+  force = true
