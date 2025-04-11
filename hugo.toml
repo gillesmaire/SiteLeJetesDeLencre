@@ -116,8 +116,6 @@ enableGitInfo = true
   url = "/contact/"
   weight = 6
 
-[git]
-  enabled = true 
 
 [params]
   gitCommit = "{{ .GitCommit }}"
