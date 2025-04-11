@@ -117,9 +117,7 @@ enableGitInfo = true
   weight = 6
 
 
-[params]
-  gitCommit = "{{ .GitCommit }}"
-
+ 
 [params.footer]
   attribution = false
 

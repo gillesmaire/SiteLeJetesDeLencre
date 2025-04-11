@@ -51,9 +51,6 @@ Un grand merci à :
 logiciels comme ChordV  qui permet la fabrication des carnets de chants disponibles sur ce site.
 - Si vous désirez un site à l'hébergement gratuit et que vous n'êtes pas informaticien vous pouvez me contacter dans la partie contact.
 
-# Version du site
-
-{{< git_sha1 >}}
 
 
 
