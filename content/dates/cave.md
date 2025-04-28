@@ -13,7 +13,7 @@ Des carnets de chant sont disponibles afin de permettre à chacun de chanter.
 La cave dispose d'un réfrigérateur, d'une machine à café, de points d'eau et de toilettes.
 L'accès à la cave se fait par un escalier de pierre doté d'une rampe pour les personnes à mobilité réduite.
 Les musiciens qui le souhaitent peuvent jouer en fin de soirée.
-La cave est parfois utilisée par des amis des Jetés de l'encre pour des expos ou des soirées privées. <img src="/images/cave1.jpg" alt="" style="float: right; margin-right: 10px; width:200px;">
+La cave est parfois utilisée par des amis des Jetés de l'encre pour des expos ou des soirées privées. <img src="/images/cave1.jpg" alt="" style="float: right; margin-left: 10px; width:200px;">
 
 # La cave aux jetés mode d'emploi
 

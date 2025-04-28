@@ -117,6 +117,7 @@ enableGitInfo = true
   weight = 6
 
 
+ 
 [params.footer]
   attribution = false
 

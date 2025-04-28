@@ -2,6 +2,7 @@
 +++
 
 
+- [869] **Jeudi 10 avril 2025** à partir de 19h3o La [cave](cave) aux jetés
 - [868] **Jeudi 20 février 2025**  19h3o La cave aux jetés
 - [867] **Jeudi 23 janvier 2025**  19h3o La cave aux jetés
 - [866] **Jeudi 12 décembre 2024**  19h3o La cave aux jetés
