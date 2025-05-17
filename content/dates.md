@@ -5,7 +5,7 @@
 - **Vendredi 23 mai 2025** 19hoo Le Mulet Blanc 20, rue de la Rodade Montferrand 63100
 - **Samedi 24 mai 2025** 19hoo Salle polyvalente de Saint Germain Beaupré 23160
 - **Mercredi 11 juin 2025** 18h3o à 22hoo Cave à manger . 6 Place Gaston Escarguel 34200 Sète Réservation : 04 67 51 54 90
-- **Vendredi 13 juin 2025** 19h3o La Filature 43 Bd des tilleuls 04100 Manosque
+- **Vendredi 13 juin 2025** 19hoo La Filature 43 Bd des tilleuls 04100 Manosque
 - **Samedi 14 juin 2025** 20hoo Journée chanson Salle des fêtes de Castellet du Luberon.
 - **vendredi 22 août 2025** à 19hoo à la Guinguette du Café du Commerce réservation au 02 96 55 56 06
 36 place maréchal Foch , 22580 Plouha
