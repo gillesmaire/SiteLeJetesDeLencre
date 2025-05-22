@@ -48,7 +48,7 @@ Que la tâche n'était pas facile
 Vu la taille de ses ustensiles  
   
 C'est au bout de cinq à six secondes  
-Qu'entre les dents, j'montrai à tout l'monde  
+Qu'entre les dents, j'exhibais à la ronde  
 Sous les hourras, les bravos, les vivats  
 La nouille rebelle qui se sauva  
   

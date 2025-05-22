@@ -43,14 +43,14 @@ Sortez vite vos instruments
 Encore une chanson qui vient  
 La chanson de notre roman  
   
-Accrochez-vous à vos guitares  
+Cramponnez-vous à vos guitares  
 Je vous promets d'autres victoires  
-Nous reviendrons à Narbonne  
-Nous irons jusqu'à Barcelone  
-Nous passerons revoir Bologne  
-Nous chanterons même à Vérone  
+Nous retournerons à Narbonne  
+Nous filerons à Barcelone  
+Nous irons enfin voir Bologne  
+Nous irons chanter à Vérone  
 Nous irons faire les guignols  
-Jusqu'au Carnegie Hall  
+Du côté du Carnegie Hall  
   
   
   

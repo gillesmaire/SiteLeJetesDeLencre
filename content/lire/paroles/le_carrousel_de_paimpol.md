@@ -20,7 +20,7 @@ Dans un manège du temps du Guignol
 Refrain :  
   
 Quand je vois les mômes des étoiles pleins les yeux  
-Même si je suis peut être un peu trop vieux  
+Même si je suis peut être un poil trop vieux  
 J'aimerais que mon père sur ses épaules  
 M'emmène encore au manège à Paimpol  
   
@@ -56,9 +56,9 @@ On trouve sûrement des carrousels
 À la pelle  
 Du plus beau jusqu'au modèle aux  
 Deux niveaux  
-Mais ici face à la mer on reste  
+Ici face à la mer on reste  
 Très modeste  
-Car le mur de nos disparus  
+Le mur de nos disparus  
 Se trouve à peine à quelques rues  
   
 Ce n'est pas tous les jours dimanche  

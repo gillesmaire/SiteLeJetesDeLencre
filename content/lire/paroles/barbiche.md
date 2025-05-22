@@ -58,9 +58,9 @@ Mais on vous prend tout
 Soit dit entre deux hémistiches  
 Pour planter le clou  
 La morale entre deux vers en iche  
-Sera voyez vous  
+Sera voyez-vous  
   
-Que les femmes de qui on s'entiche  
+Que les femmes pour qui on s'entiche  
 N'aiment pas les relous  
 Qui les prennent pour des potiches  
 Elles préfèrent les voyous  
