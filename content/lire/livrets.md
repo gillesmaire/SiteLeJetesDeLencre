@@ -14,8 +14,8 @@ du groupe. Cette [page](ChordV) vous donne quelques indications sur ce logiciel.
 Ces carnets contiennent les textes des chansons et aucune notation musicale.
 Ils sont disponibles en format A4 ou A5
 
-- [PDF en format A4](https://archive.org/download/les-jetes-de-lencre-text-1pause/LesJetesDeLEncre_Text-1pause.pdf)  Ce carnet PDF de 2.2 Mo contient les textes des chansons en format A4.Vous pouvez également visualiser ce fichier PDF en ligne sur le site [archive.org](https://archive.org/details/les-jetes-de-lencre-text-1pause)
-- [PDF en format A5 2 pauses page page](https://archive.org/download/les-jetes-de-lencre-text-2pause/LesJetesDeLEncre_Text-2pause.pdf)  Ce carnet de 2.2 Mo contient les texte des chansons en 2 pauses A5 sur un fichier A4. Ce fichier est destiné à l'impression puis au massicotage. Vous pouvez également visualiser ce fichier PDF en ligne sur le site [archive.org](https://archive.org/details/les-jetes-de-lencre-text-2pause)
+- [PDF en format A4 1 pause par page Version 2.1](https://archive.org/download/les-jetes-del-encre-text-1pause_202505/LesJetesDelEncre_Text_1pause.pdf)  Ce carnet PDF de 2.2 Mo contient les textes des chansons en format A4. Vous pouvez également visualiser ce fichier PDF en ligne sur le site [archive.org](https://archive.org/details/les-jetes-del-encre-text-1pause_202505)
+- [PDF en format A5 2 pauses par page Version 2.1](https://archive.org/download/les-jetes-del-encre-text-2pause/LesJetesDelEncre_Text_2pause.pdf)  Ce carnet de 2.2 Mo contient les texte des chansons en 2 pauses A5 sur un fichier A4. Ce fichier est destiné à l'impression puis au massicotage. Vous pouvez également visualiser ce fichier PDF en ligne sur le site [archive.org](https://archive.org/details/les-jetes-del-encre-text-2pause/page/32/mode/2up)
 
 
 
