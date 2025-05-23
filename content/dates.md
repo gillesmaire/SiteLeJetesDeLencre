@@ -3,6 +3,7 @@
 
 - **Vendredi 23 mai 2025** 19hoo Le Mulet Blanc 20, rue de la Rodade Montferrand 63100
 - **Samedi 24 mai 2025** 19hoo Salle polyvalente de Saint Germain Beaupré 23160
+- **Jeudi 5 juin 2025** à partir de 19h3o La [cave](cave) aux jetés
 - **Lundi 9  juin 2025** 20h3o  La Petite Thélème 10 route de la plaine Régnas 63310 St Clément de Régnat
 - **Mardi 10  juin 2025** 19hoo au Mas des Glycines Face à la mairie de Générargues 30140
 - **Mercredi 11 juin 2025** 18h3o à 22hoo Cave à manger . 6 Place Gaston Escarguel 34200 Sète Réservation : 04 67 51 54 90
