@@ -1,7 +1,6 @@
 +++
 +++
 
-- **Jeudi 22 mai 2025** à partir de 19h3o La [cave](cave) aux jetés
 - **Vendredi 23 mai 2025** 19hoo Le Mulet Blanc 20, rue de la Rodade Montferrand 63100
 - **Samedi 24 mai 2025** 19hoo Salle polyvalente de Saint Germain Beaupré 23160
 - **Lundi 9  juin 2025** 20h3o  La Petite Thélème 10 route de la plaine Régnas 63310 St Clément de Régnat
