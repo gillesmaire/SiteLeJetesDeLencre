@@ -1,8 +1,7 @@
 +++
 +++
 
-- **Vendredi 23 mai 2025** 19hoo Le Mulet Blanc 20, rue de la Rodade Montferrand 63100
-- **Samedi 24 mai 2025** 19hoo Salle polyvalente de Saint Germain Beaupré 23160
+
 - **Jeudi 5 juin 2025** à partir de 19h3o La [cave](cave) aux jetés
 - **Lundi 9  juin 2025** 20h3o  La Petite Thélème 10 route de la plaine Régnas 63310 St Clément de Régnat
 - **Mardi 10  juin 2025** 19hoo au Mas des Glycines Face à la mairie de Générargues 30140
@@ -13,6 +12,7 @@
 - **vendredi 22 août 2025** à 19hoo à la Guinguette du Café du Commerce réservation au 02 96 55 56 06
 36 place maréchal Foch , 22580 Plouha
 - **Dimanche 24 août 2025** 17hoo Aux Cabanes Boem rue Henri  Guillaumet 35730 Pleurtuit
+- **Jeudi 23 octobre 2025** à partir de 19h3o La [cave](cave) aux jetés
 
 
 <center>{{< qr text="https://www.lesjetesdelencre.com" />}}</center>
