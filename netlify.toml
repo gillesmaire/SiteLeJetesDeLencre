@@ -9,7 +9,7 @@
   HUGO_ENV = "production"
 
 [[redirects]]
-  from = "/tiki-index.php?page=home"
+  from = "/tiki-index.php"
   to = "/"
   status = 301
   force = true
