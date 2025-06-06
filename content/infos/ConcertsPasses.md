@@ -1,5 +1,6 @@
 +++
 +++
+- [873] **Jeudi 5 juin 2025** à partir de 19h3o La [cave](cave) aux jetés
 - [872] **Vendredi 23 mai 2025** 19hoo Le Mulet Blanc 20, rue de la Rodade Montferrand 63100
 - [871] **Samedi 24 mai 2025** 19hoo Salle polyvalente de Saint Germain Beaupré 23160
 - [870] **Jeudi 22 mai 2025** à partir de 19h3o La [cave](cave) aux jetés
