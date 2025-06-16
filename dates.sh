@@ -3,12 +3,14 @@
 
 filedate="content/dates.md"
 
+# IsDate check if a line is a date ie if it starts with "- " sequence
 IsDate()
 {
    res=`echo $1 | grep "^-" > /dev/null`
    return $res
 }
 
+# convertDate convert part of line like "lundi 12 Juin 2025" in "6 12 2025"
 convertDate()
 {
    date=`echo $*`
@@ -35,15 +37,22 @@ convertDate()
    echo "$ret"
 }
 
-nbSecondes ()
+# datePast 15 06 2025  return  1 if date is passed 0 is date is not passed
+
+datePassee ()
 {
-   d1=date -s $1
-   d2=date
-   e1=d1 +%s
-   e2=d2 "+%s"
-   nbsec=$($e2 - $e1)
-   print "nb sec :%d\n" nbsec
+   d1=`date --date="$3-$2-$1" +%s`
+   d2=`date +%s`
+   diff=`expr $d2 - 86400 - $d1 `
+   if [ "$diff" -gt 0 ]
+   then
+      return 1
+   else
+      return 0
+   fi
 }
+
+
 i=1
 while IFS= read -r line
 do
@@ -59,6 +68,7 @@ do
  else
     echo $line
     date1=""
+    date2=""
     lieu=""
  fi
 
