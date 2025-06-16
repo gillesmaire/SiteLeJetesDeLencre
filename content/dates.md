@@ -2,7 +2,7 @@
 +++
 
 
-- **Lundi 9  juin 2025** 20h3o  La Petite Thélème 10 route de la plaine Régnas 63310 St Clément de Régnat
+- **Lundi 2  juin 2025** 20h3o  La Petite Thélème 10 route de la plaine Régnas 63310 St Clément de Régnat
 - **Mardi 10  juin 2025** 18hoo au Mas des Glycines Face à la mairie de Générargues 30140
 - **Mercredi 11 juin 2025** 18h3o à 22hoo Cave à manger . 6 Place Gaston Escarguel 34200 Sète Réservation : 04 67 51 54 90
 - **Jeudi 12 juin 2025** 19hoo au Comedy Club de Sète du O’Gobie 9 quai Maximin Licciardi 34400 Sète Réservations au 04 99 02 61 14
