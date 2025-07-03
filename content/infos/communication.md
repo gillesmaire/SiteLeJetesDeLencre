@@ -23,10 +23,11 @@ Formé en 2006, le groupe débute dans les bars parisiens, puis se fait remarque
    - Lancelot (2015) – Chansons d'amours tendres ou déjantées
     Albums enregistrés et mixés exclusivement sous logiciel libre Ardour.
 
- # Une scène, une communauté
+# Une scène, une communauté
 
 Les Jetés de l’Encre cultivent une relation de proximité avec leur public. Ils organisent des concerts "clandestins" dans une cave aménagée à Paris 18e, où l’on partage un repas et des chansons dans une ambiance chaleureuse. Ces concerts participatifs donnent lieu à des moments uniques où de nombreux musiciens invités, professionnels ou amateurs, rejoignent le groupe.
-Éthique & originalité
+
+# Éthique & originalité
 
     Engagement pour le libre (musique, logiciels, diffusion).
 
@@ -42,8 +43,8 @@ Les Jetés de l’Encre cultivent une relation de proximité avec leur public. I
 
     🎤 Chanson à texte libre et vivante
 
-    🏆 Prix Georges Moustaki
-
+    🏆 Lauréat prix Georges Moustaki  et  1 er prix festival de la chansons européenne de Suszbach 
+    
     🎶 Concerts en France et à l’étranger
 
     🚄 Concerts dans les trains TGV
@@ -56,9 +57,12 @@ Les Jetés de l’Encre cultivent une relation de proximité avec leur public. I
 
     🛠️ Autoproduction, indépendance, passion
 
-📩 Contact : [lesjetesdelenvre@gmail.com]
+📩 Contact : [lesjetesdelencre@gmail.com]
 📍 Site web : [http://www.lesjetesdelencre.com]
-🎵 Écoute : sur le site
+🎵 Écoute : [https://lesjetesdelencre.com/ecouter/musiques/]
+
+
+# Téléchargement 
 
 - **Plaquette informative**
 
