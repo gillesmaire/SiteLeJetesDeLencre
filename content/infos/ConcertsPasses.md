@@ -1,7 +1,7 @@
 +++
 +++
 
-
+- [880]**Vendredi 15 août 2025** à 19hoo Relais de Lanmodez 5, rue de la Mairie 22610 Lanmodez
 - [879] **Samedi 14 juin 2025** 20hoo Journée chanson Salle des fêtes de Castellet du Luberon.
 - [878] **Vendredi 13 juin 2025** 19hoo La Filature 43 Bd des tilleuls 04100 Manosque
 - [877] **Jeudi 12 juin 2025** 19hoo au Comedy Club de Sète du O’Gobie 9 quai Maximin Licciardi 34400 Sète Réservations au 04 99 02 61 14
