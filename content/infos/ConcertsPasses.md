@@ -1,5 +1,4 @@
 +++
-title: "Concerts passés"
 +++
 
 - [885] **Dimanche 24 août 2025** à 17hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
