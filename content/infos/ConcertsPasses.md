@@ -1,5 +1,5 @@
 - [885] **Dimanche 24 août 2025** à 17hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
-_ [884] **Vendredi 22 août 2025** à 19hoo à la Guinguette du Café du Commerce réservation au 02 96 55 56 06 36 place maréchal Foch , 22580 Plouha
+- [884] **Vendredi 22 août 2025** à 19hoo à la Guinguette du Café du Commerce réservation au 02 96 55 56 06 36 place maréchal Foch , 22580 Plouha
 - [883] **Jeudi 21 août 2025** à 18hoo Au bariodé 12 place du Matrais 22500 Paimpol
 - [882] **Dimanche 17 août 2025** 18h port de paimpol
 - [881] **Samedi 16 août 2025** à 19h au Cargo rue des 8 patriotes 22500 Paimpol
