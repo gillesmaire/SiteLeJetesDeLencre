@@ -153,8 +153,8 @@
 - [738] **mardi 31 juillet 2018**20h00 «La Mule» 784 chemin d'Astére 30140 TORNAC
 - [737] **jeudi 2 août 2018**21h00 Mines de Bruoux 1434, route de Croagne 84400 Gargas
 - [736] **vendredi 3 août 2018** 20h00 au Café Théâtre Andarta 57 Rue Emile Laurens, 26150 Die
-- [735] **samedi 4 août 21h00 Les Samedis de la Guinguette Sur RD 94, quartier Saint-Jean 26510 Sahune
-- [734] **mercredi 8 août 21h au Snack du Pas des Ondes 26510 Cornillon sur l'Oule
+- [735] **samedi 4 août 21h00** Les Samedis de la Guinguette Sur RD 94, quartier Saint-Jean 26510 Sahune
+- [734] **mercredi 8 août 21h00** au Snack du Pas des Ondes 26510 Cornillon sur l'Oule
 - [733] **jeudi 9 août 2018** 18h00 Fête de Blanc 12360 Peux-et-Couffouleux
 - [732] **vendredi 10 août 2018** 19h39 Où es tu Ginger 28, rue Calquières Basses 34120 Pézenas
 - [731] **samedi 11 août 2018** 20h00 Repas concert à Villeneuve les Maguelone au camping Domaine de l'Arnel
@@ -433,7 +433,7 @@
 - [459] **lundi 18 août 2014** atelier d'écriture et de composition St Georges du Pointindoux
 - [458] **mercredi 20 août 2014** à 20h00 Vendée Troubatour à la Bergerie La Chappelle Achard
 - [457] **vendedi 22 août 2014** à 20 h00 Vendée Troubatour au Metamec à la Rochelle
-- [456] **samedi 23 août 2014 ** Restaurant La Source des Lys 157, avenue de Bonne Source 44380 Pornichet 20h30
+- [456] **samedi 23 août 2014** Restaurant La Source des Lys 157, avenue de Bonne Source 44380 Pornichet 20h30
 - [455] **lundi 14 juillet 2014** 18h00 Fête du 14 juillet chez Pierre. Hauptstrasse 48 55270 Klein - winternheim . tel. 06136 7649011
 - [454] **mercredi 16 juillet 2014** à 20h30 Café de Paris Blumenstr.10 66111 Saarbrücken 0681-95818348 www.cafe-paris-sb.de
 - [453] **vendredi 18 juillet 2014** à 22h30 fête de la Vieille Ville à Sarrebruck dans la cours du château
