@@ -52,7 +52,7 @@
 - [839] **vendredi 16 juin 2023** 20hoo salle des fêtes de Pouzols 34230 Pouzols
 - [838] **jeudi 15 juin 2023** 18h3o à 22hoo Cave à manger . 6 Place Gaston Escarguel 34200 Sète
 - [837] **samedi 10 juin 2023** 14hoo Journée chanson à la salle de fêtes de Castellet (84)
-- [836] **vendredi 9 juin 19h3o "Chez Mojo" à Lardiers 04230
+- [836] **vendredi 9 juin 19h3o** "Chez Mojo" à Lardiers 04230
 - [835] **jeudi 8 juin 2023** 19hoo Le Relais bleu Route Nationale 7 à Palette 13100 Le Tholonet
 - [834] **mardi 7 juin 2023** 19h3o le Beerstrot 20 bd Latourette à Forcalquier 04300
 - [833] **dimanche 4 juin 2023** 16hoo Théâtre de plein air de Lurs 04700
