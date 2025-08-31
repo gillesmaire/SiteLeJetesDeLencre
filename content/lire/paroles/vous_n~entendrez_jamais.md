@@ -6,7 +6,7 @@ sidebar_left: sidebar
 ##  Paroles et musique : Gilles Maire
 
 Vous n'entendrez jamais 
-Cette chanson d'amourç 
+Cette chanson d'amour 
 Vous que j'ai tant aimés 
 Pour le  temps d'un détour 
 Vous qui m'avez connu 
