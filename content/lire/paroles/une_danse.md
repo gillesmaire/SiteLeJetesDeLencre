@@ -30,7 +30,7 @@ Les miennes ne sont plus très blanches
 Mon coeur cogne ça s'entend  
 Tu es comme elle à vingt ans  
 Ces rides que tu lis sur mes joues  
-Sont celles d'un vieil homme un peu fou  
+Ce sont celles d'un vieil homme un peu fou  
   
 Toi dans ta robe de mariée  
 Moi dans mon costume de deuil  
@@ -39,7 +39,7 @@ Je pense à elle la larme à l'oeil
 Je ne peux oublier  
 Nos pas souliers contre souliers  
 Ces frissons que tu sens dans mes yeux  
-Sont ceux d'un grand père heureux  
+Ce sont ceux d'un grand père heureux  
 
 
 [ ◀ Ulysse](../ulysse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Une histoire assez ancienne ▶](../une_histoire_assez_ancienne)
