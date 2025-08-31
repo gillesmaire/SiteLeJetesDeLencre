@@ -14,9 +14,6 @@ J'avais ton âge quand j'y pense
 Ce sourire que tu vois dans mes yeux  
 C'est celui d'un vieil homme heureux  
   
-  
-  
-  
 Cette musique on la dansait  
 Ta grand mère et moi plein d'émoi  
 Dans de petits pas cadencés  
