@@ -62,7 +62,7 @@ Un jour
 Moi je viendrai te raconter...  
   
   
-[ ◀ Une danse](../une_danse) ​ ​[Vous n'entendrez jamais ▶](../vous_n_entednndrez_jamais)
+[ ◀ Une danse](../une_danse) ​ ​[Vous n'entendrez jamais ▶](../vous_n_entendrez_jamais)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>
