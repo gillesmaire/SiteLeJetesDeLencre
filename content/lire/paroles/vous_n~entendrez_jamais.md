@@ -39,7 +39,7 @@ Je crois qu'il est trop tard
 Pour rêver des deux mains  
 Sur le pied d'un micro  
 Je verrai si demain  
-Il fait un peu plus eau  
+Il fait un peu plus beau  
    
 [ ◀ Un jour](../un_jour) 
 
