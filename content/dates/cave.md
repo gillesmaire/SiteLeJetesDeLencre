@@ -26,6 +26,6 @@ La station de métro la plus proche est porte de Saint-Ouen, sortir en queue de 
 Des carnets de chant des chansons des jetés sont disponibles sur place vous permettent de chanter et d'apprendre les chansons. Si vous souhaitez obtenir un carnet des textes en souvenir, les anciens carnets sont disponibles gratuitement.
 Si vous êtes musiciens des partitions existent et vous pouvez en obtenir gratuitement sur demande préalable.
 Aucun chapeau n'est effectué et aucun droit d'entrée n'est demandé. Vous pouvez, si vous souhaitez participer acheter disques ou livrets en tirage.
-L'adresse de cette page que vous pouvez communiquer par mail ou sms est http://lesjetesdelencre.com/cave
+L'adresse de cette page que vous pouvez communiquer par mail ou sms est http://lesjetesdelencre.com/dates/cave
 
 [Retour vers l'accueil](/)
