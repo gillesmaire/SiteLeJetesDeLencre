@@ -32,7 +32,7 @@ Le restant de mes jours en pensant fort à toi
   
 
 
-[ ◀ Les vieux amants](../les_vieux_amants) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères d'arme ▶](../mes_frères_d~arme)
+[ ◀ Les vieux amants](../les_vieux_amants) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères d'armes ▶](../mes_frères_d~arme)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

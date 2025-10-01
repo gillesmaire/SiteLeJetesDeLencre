@@ -41,7 +41,7 @@ Au détour d'un portrait les traits de celle que vous
 Reconnaîtrez peut-être ....  
 
 
-[ ◀ Ne faites pas l'amour](../ne_faites_pas_l~amour) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On se dit tu ▶](../on_se_dit_tu)
+[ ◀ Mes sentiers de grandes randonnées](../mes_sentiers_de_grandes_randonnées) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On se dit tu ▶](../on_se_dit_tu)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

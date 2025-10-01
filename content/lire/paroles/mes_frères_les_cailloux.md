@@ -60,7 +60,7 @@ Avant que d'être vous aussi de poudre
 Priez Dieu qu'il nous veuille absoudre ...  
 
 
-[ ◀ Mes frères d'arme](../mes_frères_d~arme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ne faites pas l'amour ▶](../ne_faites_pas_l~amour)
+[ ◀ Mes frères d'arme](../mes_frères_d~arme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes sentiers de grandes randonnées ▶](../mes_sentiers_de_grandes_randonnées)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

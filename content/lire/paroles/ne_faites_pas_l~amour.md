@@ -26,7 +26,7 @@ Et si vous n'écoutez pas ces paroles
 Vous finirez à coups de casseroles  
 
 
-[ ◀ Mes frères les cailloux](../mes_frères_les_cailloux) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On chante ses chansons ▶](../on_chante_ses_chansons)
+[ ◀ Mes frères les cailloux](../mes_sentiers_de_grandesrandonnées) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On chante ses chansons ▶](../on_chante_ses_chansons)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

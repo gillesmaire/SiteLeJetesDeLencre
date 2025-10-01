@@ -54,7 +54,7 @@ Pour mes vieux souvenirs.
   
 
 
-[ ◀ Papa pique](../papa_pique) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Promenade ▶](../promenade)
+[ ◀ Papa pique](../papa_pique) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Pourquoi nos guerres ▶](../pourquoi_nos_guerres)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>
