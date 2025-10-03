@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-  
 Merci à vous mes frères d'arme  
 On s'était pourtant bien battu  
 Nos guitares avaient leur charme  
@@ -13,8 +12,10 @@ Nous avons livré cent batailles
 La tête au vent les pieds dans l'eau  
 Nous retournons vers le bercail  
 Comme de pauvres narvalos  
-  
-  
+
+
+**Refrain:**
+
   
 Ô mes compagnons d'infortunes  
 Vous qui m'avez accompagné  
@@ -43,17 +44,14 @@ Sortez vite vos instruments
 Encore une chanson qui vient  
 La chanson de notre roman  
   
-Cramponnez-vous à vos guitares  
+Accrochez-vous à vos guitares  
 Je vous promets d'autres victoires  
-Nous retournerons à Narbonne  
-Nous filerons à Barcelone  
-Nous irons enfin voir Bologne  
-Nous irons chanter à Vérone  
+Nous reviendrons à Narbonne  
+Nous irons jusqu'à Barcelone  
+Nous passerons revoir Bologne  
+Nous chanterons même à Vérone  
 Nous irons faire les guignols  
-Du côté du Carnegie Hall  
-  
-  
-  
+Jusqu'au Carnegie Hall  
 
 
 [ ◀ Lettre à mon père](../lettre_à_mon_père) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères les cailloux ▶](../mes_frères_les_cailloux)

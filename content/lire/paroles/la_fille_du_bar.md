@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 Ce soir je meurs de mes tempêtes  
 Qu'on m'apporte encore quelques verres  
 Qu'importe si mon coeur s'arrête  
@@ -40,7 +39,6 @@ Cette blonde me fout des larmes
 Dire que je fus chanteur de charme  
 Je bois ma tasse et puis je plonge  
 Dans ce chagrin qui me ronge  
-  
 
 
 [ ◀ La femme du boulanger](../la_femme_du_boulanger) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La marche des peineux ▶](../la_marche_des_peineux)

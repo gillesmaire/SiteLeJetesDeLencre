@@ -4,8 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
-  
 Nos sourires se perdent  
 Ou viennent parfois un peu trop tard  
 Le bar de l'amour ferme  
@@ -49,7 +47,6 @@ Dans un pays où il fait bon
 Et de là j'écrirai  
 Ma toute première chanson  
 Sans un chagrin  
-  
 
 
 [ ◀ Les aurores boréales](../les_aurores_boréales) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les filles de Mar del Plata ▶](../les_filles_de_mar_del_plata)

@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 J'écrivais des chansons, des p'tit's musiques  
 J'avais un répertoire plutôt comique  
 Je crois que j'allais devenir quelqu'un  
@@ -18,19 +17,20 @@ Sautant le mur, volant sur mes fémurs
 Quand j'ai voulu me faire la malle  
 Au son du clairon, sous douze balles  
 Je mourus, je mourus le dos au mur  
-  
+
+
+**Refrain:**
+
 Nous les enfants de la papa de la patrie  
 On se contrefout de la titi d'la tyrannie  
 Quand on est étendu, sanglant sur le pavé,  
 Le jour de gloire n'est pas prêt d'arriver  
-  
 Au fond d'une fosse il m'ont enfoui  
 La fosse de ceux qui se sont enfuis  
 Au milieu de mes amis d'infortune  
 Je fleurissais le champ de déshonneur  
 Quand un matin, un matin de bonne heure,  
 Ils m'ont déterré sans aucune honte aucune  
-  
   
 C'est en défilant en levant le nez  
 Qu'à l'arc-de-triomphe ils m'ont emmené  
@@ -73,7 +73,6 @@ Qu'un jour les défilés militaires
 Soient remplacés par des farandoles  
 Qu'enfin on m'emmène loin des bagnoles  
 Qu'auprès de ma fiancée, l'on me ré-enterre  
-  
 
 
 [ ◀ Le casse](../le_casse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le grenier de mon coeur ▶](../le_grenier_de_mon_coeur)

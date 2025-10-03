@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 Ça y est je suis devenu vieux,  
 Voici le temps des tempes grises,  
 Des frises sur le coin des yeux.  
@@ -13,7 +12,10 @@ A brûler d'obscures chandelles ;
 J'ai laissé filer loin devant  
 Le temps dans son échappée belle,  
 Le temps qui file comme le vent  
-  
+
+
+**Refrain:**
+
 Ce soir, je pars,  
 Je pars pour voir  
 Un autre part  
@@ -29,7 +31,6 @@ On part pour des chemins de rêve,
 Où se cueillent les souvenirs,  
 Où les coeurs,les corps se soulèvent,  
 D'où l'on ne peut plus revenir  
-  
   
 J'ai dans ma cave une bouteille  
 De l'année même de ma naissance,  
@@ -48,8 +49,6 @@ Ce soir tes belles boucles blondes
 Estomperont mes tempes grises  
 Et nous ferons le tour du monde  
 Autour de tes formes exquises  
-  
-  
 
 
 [ ◀ Les spaghetti](../les_spaghetti) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les vieux amants ▶](../les_vieux_amants)

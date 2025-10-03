@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 Une bille qui court  
 Au fond de la cour  
 La cloche qui sonne  
@@ -13,7 +12,10 @@ Le temps pendant les cours
 Parait long ça m'étonne  
 Que la récré nous donne  
 Cet air tellement court  
-  
+
+
+**Refrain:**
+
 Court court court court  
 Le temps est taillé trop court  
 Court court  
@@ -63,9 +65,6 @@ L'âme appelle au secours
 Car le dernier voyage  
 Par delà les nuages  
 A des airs bien trop courts  
-  
-  
-  
 
 
 [ ◀ Clôdine Agathe Georges et les autres ...](../clôdine_agathe_georges_et_les_autres_...) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Elle était con ▶](../elle_était_con)

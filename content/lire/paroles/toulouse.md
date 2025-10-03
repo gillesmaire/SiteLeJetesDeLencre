@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Ça fait trente ans de toi que j'ai pris mon envol  
 En gare de Matabiau dans un train Capitole  
 Dans l'esquisse d'un geste, me voici qui te signe  
@@ -39,7 +38,6 @@ Se perdre dans Toulouse, comme s'il était vingt ans
 Revoir fleurir encore ses vieux rêves d'antan  
 Je suis parti c'est vrai, mais je n'ai rien quitté  
 Nos souvenirs la belle m'ont toujours habité.  
-  
 
 
 [ ◀ Tango à Jehro](../tango_à_jehro) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ulysse ▶](../ulysse)

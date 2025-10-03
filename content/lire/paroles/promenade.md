@@ -38,10 +38,9 @@ Toujours la fin de l'histoire
 Des romans même les plus noirs  
 Est suivie d'une page blanche  
 Puis d'une autre page blanche ...  
-  
 
 
-[ ◀ Pimprenelle](../pimprenelle) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Tango à Jehro ▶](../tango_à_jehro)
+[ ◀ Pourquoi nos guerres](../pourquoi_nos_guerres) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Tango à Jehro ▶](../tango_à_jehro)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

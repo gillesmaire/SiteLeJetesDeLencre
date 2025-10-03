@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 Pour se forger la carcasse  
 On levait de grosses masses  
 On courait encore et encore  

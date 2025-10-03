@@ -12,7 +12,10 @@ Pas une qui vous saute au cou
 Pas une qui vous chauffe au coeur  
 Pas une, pas même sa soeur  
 Finis les baisers, les yeux doux  
-  
+
+
+**Refrain:**
+
 Comme il est triste l'Ulysse  
 De retour au pays des siens  
 De ne trouver des yeux qui puissent  
@@ -26,8 +29,8 @@ On comptait sur les retrouvailles
 Sur les nuits douces du passé  
 Mais seul un chien à caresser  
 Ça vous travaille jusqu'aux entrailles  
-  
 Usé par le temps des voyages  
+  
 Meurtri des cris des goélands  
 Se voir refuser le passage  
 Par d'arrogants et fiers galants  
@@ -35,7 +38,6 @@ Et voir Pénélope la belle
 Qu'on aima jadis comme un fou  
 Courtisé par ces jeunes loups  
 Ça rend les années plus cruelles  
-  
 
 
 [ ◀ Toulouse](../toulouse) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Une danse ▶](../une_danse)

@@ -12,7 +12,10 @@ Au bout de trois calvas la voilà qui vous dit
 Que des chansons comme ça  
 Ça donne envie d'aimer, d'aimer la vie  
 La voilà qui sourit et puis voilà  
-  
+
+
+**Refrain:**
+
 Des yeux qui vous enlacent  
 Un sourire qui ne dit pas non  
 Un parfum qui vous embrasse  
@@ -41,7 +44,7 @@ Au détour d'un portrait les traits de celle que vous
 Reconnaîtrez peut-être ....  
 
 
-[ ◀ Mes sentiers de grandes randonnées](../mes_sentiers_de_grandes_randonnées) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On se dit tu ▶](../on_se_dit_tu)
+[ ◀ Ne faites pas l'amour](../ne_faites_pas_l~amour) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[On se dit tu ▶](../on_se_dit_tu)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

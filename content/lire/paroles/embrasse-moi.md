@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geofffray Milleret
-  
 Embrasse-moi, une fois encore...  
 Même s'il a changé mon décor :  
 Silence on tourne et c'est mon tour,  
@@ -39,7 +38,6 @@ Après il me faudra rentrer
 Ou mes parents vont s'inquiéter ;  
 Comme ils disent je n'suis plus en âge,  
 De courir après les nuages...  
-  
 
 
 [ ◀ Elle était con](../elle_était_con) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Emma Liébel ▶](../emma_liébel)

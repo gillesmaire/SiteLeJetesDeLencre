@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 J'adorais le boléro  
 De Ravel  
 Que grand mère jouait au piano  
@@ -53,7 +52,6 @@ Tous nos voyages de noce
 Finissent plus ou moins mal  
 Peu d'histoires nous rappellent  
 Nos aurores boréales  
-  
 
 
 [ ◀ Le signe du destin](../le_signe_du_destin) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les chagrins ▶](../les_chagrins)

@@ -8,12 +8,14 @@ Si tu vois qu'à ton cou elle s'accroche
 Embrasse-la sur la joue  
 Ne crois pas que ce soit dans la poche  
 Les filles sont pas comme nous  
-  
+
+
+**Refrain:**
+
 Elles sont sentimentalo  
 Surtout ne va pas trop vite  
 Nous on est juste mélanco  
 Quand on boit ou qu'elles nous quittent  
-  
 Si tu vois qu'elle te tend la joue gauche  
 Glisse-lui un mot doux  
 Ne va pas trop vite dans l'approche  

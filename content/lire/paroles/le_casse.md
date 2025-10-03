@@ -11,11 +11,14 @@ Pas pour demander un prêt,
 Mais avec des bas de soie  
 Et des pistolets en bois ;  
 On a fait un casse !  
+
+
+**Refrain:**
+
 Les jetés de l'encre,  
 On n'est pas mauvais garçons,  
 Mais ce qui nous manque,  
 C'est un peu de pognon.  
-  
   
   
 En partant à la guichetière,  
@@ -35,7 +38,6 @@ Il a dit « pour un baiser,
 Les filles savent garder,  
 Un secret par devers elles,  
 Les filles c'est officiel,  
-  
 Aiment les voyous qui aiment  
 Les chansons et les poèmes,  
 Surtout les filles classes ! »  

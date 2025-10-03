@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Ça ait une sacrée paye que t'es parti aux cieux  
 J'ai bien relu les lettres que t'écrivais mon vieux  
 Ce soir comme tous les soirs, tu vois je te réponds  
@@ -29,10 +28,9 @@ Mon père, je te salue ; toi qui croyais en Dieu,
 Embrasse donc pour moi chacun de mes aïeux  
 J'égrène ici-bas, moi qui ne crois toujours pas,  
 Le restant de mes jours en pensant fort à toi  
-  
 
 
-[ ◀ Les vieux amants](../les_vieux_amants) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères d'armes ▶](../mes_frères_d~arme)
+[ ◀ Les vieux amants](../les_vieux_amants) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes frères d'arme ▶](../mes_frères_d~arme)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

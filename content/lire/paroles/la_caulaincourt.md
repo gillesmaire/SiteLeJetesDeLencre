@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Y a la Caulaincourt qui court derrière Montmartre,  
 Quand Constantin Pecqueur lorgne la bouche en coeur,  
 La Lamarck qui s'élance vers l'église d'albâtre,  
@@ -34,7 +33,6 @@ Il neige sur Paris mais Eugène Carrière,
 Du blanc lui il s'en fout lui qui peignait qu'en noir,  
 Montmartre ne sera pas plus blanche qu'hier  
 Et le Rêve d'Éliette s'endort dans ma mémoire.  
-  
 
 
 [ ◀ Jean le libertin](../jean_le_libertin) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La femme du boulanger ▶](../la_femme_du_boulanger)

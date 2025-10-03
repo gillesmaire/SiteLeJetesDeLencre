@@ -4,7 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
+
+
+**Refrain:**
+
 Dans ce, dans ce, dans ce  
 Petit bar parisien  
 Danse danse danse  
@@ -13,7 +16,6 @@ Lance lance lance
 Ton coeur contre mon sein  
 Pense pense pense-  
 ras-tu à moi demain ?  
-  
 L'accordéoniste  
 Joue pour nous cet air-là  
 Et toi sur la piste  

@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Toi tu attendais un signe,  
 Comme un signe du destin  
 Parce qu'un type dans les lignes  
@@ -40,7 +39,6 @@ Et quand ta bouche a frémi
 Quand elle s'est tendue vers  
 Les lèvres là j'ai senti  
 Un parfum de primevère  
-  
 
 
 [ ◀ Le sel](../le_sel) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les aurores boréales ▶](../les_aurores_boréales)

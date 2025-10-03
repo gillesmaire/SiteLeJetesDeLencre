@@ -4,8 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
-  
 Il y a des jours  
 Où nos amours  
 Mon pauvre Lancelot  
@@ -14,7 +12,10 @@ Elle t'avait plu
 Mais il a plu  
 Les grêlons sur ton âme  
 Ont étouffé toutes tes flammes  
-  
+
+
+**Refrain:**
+
 Ne t'en fais pas  
 Le temps c'est pas  
 Toujours noir toujours gris  
@@ -59,7 +60,6 @@ La vie n'est que
 Ce petit jeu  
 Où l'on gagne et l'on perd  
 À la belote comme au poker  
-  
 
 
 [ ◀ La vie madame](../la_vie_madame) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le carrousel de Paimpol ▶](../le_carrousel_de_paimpol)

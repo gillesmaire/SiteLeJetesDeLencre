@@ -59,7 +59,6 @@ Près des marais salants
 Même les soirs d'arc en ciel  
 La couleur éternelle  
 C'est celle du menhir blanc  
-  
 
 
 [ ◀ Le petit bar](../le_petit_bar) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le signe du destin ▶](../le_signe_du_destin)

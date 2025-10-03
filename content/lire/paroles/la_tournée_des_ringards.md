@@ -8,8 +8,6 @@ sidebar_left: sidebar
   
   
   
-  
-  
 Notre tourneur a dit « les ringues,  
 Finie la tournée des campingues,  
 Je vous ai trouvé le bon coup,  

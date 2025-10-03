@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 Quand je l'ai vue passer  
 Je m'suis mis à chanter  
 La la la la la la la la la la  
@@ -46,8 +45,6 @@ La la la la la la la la la la
 Celle qui dansait son nom  
 C'était la liberté  
 La la la la la la la la la la  
-  
-  
 
 
 [ ◀ La fille du bar](../la_fille_du_bar) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La Milonga ▶](../la_milonga)

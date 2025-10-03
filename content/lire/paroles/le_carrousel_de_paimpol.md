@@ -4,10 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
-  
-  
-  
 Ce n'est pas tous les jours dimanche  
 Sur la Manche  
 La côte costarmoricaine  
@@ -16,14 +12,11 @@ Regarde tourner ses chevaux
 Au niveau  
 De la digue du port de Paimpol  
 Dans un manège du temps du Guignol  
-  
 Refrain :  
-  
 Quand je vois les mômes des étoiles pleins les yeux  
-Même si je suis peut être un poil trop vieux  
+Même si je suis peut être un peu trop vieux  
 J'aimerais que mon père sur ses épaules  
 M'emmène encore au manège à Paimpol  
-  
   
 Ces chevaux ont ces gueules de bois  
 Que l'on voit  
@@ -56,9 +49,9 @@ On trouve sûrement des carrousels
 À la pelle  
 Du plus beau jusqu'au modèle aux  
 Deux niveaux  
-Ici face à la mer on reste  
+Mais ici face à la mer on reste  
 Très modeste  
-Le mur de nos disparus  
+Car le mur de nos disparus  
 Se trouve à peine à quelques rues  
   
 Ce n'est pas tous les jours dimanche  
@@ -69,7 +62,6 @@ Regarde passer les bateaux
 Au niveau  
 De la digue du port de Paimpol  
 Et d'un manège du temps du Guignol  
-  
 
 
 [ ◀ Lancelot](../lancelot) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le casse ▶](../le_casse)

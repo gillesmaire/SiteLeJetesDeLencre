@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 Ce n'est un secret pour personne  
 Entre tous ceux que j'affectionne  
 S'il en est un pour qui j'en pince  

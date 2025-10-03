@@ -8,12 +8,14 @@ Quand on est belle comme elle est belle,
 On a des amants en ribambelle ;  
 Mais elle ne suit pas cette logique,  
 Elle n'aime que les amours saphiques !  
-  
 De ses yeux qui font son élégance,  
 J'aurais équipé ma descendance ;  
 Mais nous ne changerons pas d'optique,  
 Elle n'aime que les amours saphiques !  
-  
+
+
+**Refrain:**
+
 C'est pas un drame  
 D'aimer les dames  
 C'est pas un drame  
@@ -22,7 +24,6 @@ C'est pas un drame
 D'aimer les dames  
 C'est pas un drame  
 D'aimer les dames  
-  
 Pour lui plaire, j'aurais monté sur les mains  
 Le Mont Blanc, j'y partirai dès demain ;  
 Mais je prendrai le téléphérique,  
@@ -47,7 +48,6 @@ J'ai fait pour elle mille chansons,
 Je les ai chantées sur tous les tons ;  
 Nous n'irons jamais jusqu'au cantique,  
 Elle n'aime que les amours saphiques !  
-  
 
 
 [ ◀ La rupture](../la_rupture) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[La tournée des ringards ▶](../la_tournée_des_ringards)

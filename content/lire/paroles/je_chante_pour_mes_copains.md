@@ -7,12 +7,10 @@ sidebar_left: sidebar
   
   
   
-  
 Je chante juste pour mes copains  
 Je chante comme un turlupin  
 Si je ne chante pas juste  
 Ils ont l'oreille robuste  
-  
 Je ne chante que pour mes copains  
 Pas pour un quelconque rupin  
 Qui se remplirait les poches  

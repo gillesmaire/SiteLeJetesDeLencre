@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Je m'ennuie d'un musicien qui compte le temps qui passe ;  
 Moi ce dont j'ai l'envie, c'est du temps qui me reste,  
 A t'écouter danser ces mots que t'entrelaces,  
@@ -34,8 +33,6 @@ Je m'ennuie d'un musicien qui compte le temps qui passe ;
 Moi ce dont j'ai l'envie, c'est du temps qui me reste  
 A t'écouter danser ces mots que t'entrelaces,  
 Qui chantent les chagrins que tu essuies d'un geste.  
-  
-  
 
 
 [ ◀ Le grenier de mon coeur](../le_grenier_de_mon_coeur) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Le petit bar ▶](../le_petit_bar)

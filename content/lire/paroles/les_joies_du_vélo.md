@@ -8,6 +8,10 @@ Roulant à vélo, frôlant d'un peu trop
 Près les autos, j'accrochai un rétro  
 C'est ainsi qu'on vit quatre vingt kilos  
 Atterrir ce soir là sur un capot  
+
+
+**Refrain:**
+
 Sol(III)x3]Oh oh oh les joies du vélo  
 Hue hue hue les joies de la rue  
 Oh oh oh les joies du vélo  
@@ -47,10 +51,6 @@ Je vois vos regards dans la salle
 La question sur vos lèvres s'installe  
 Je vais y répondre afin de conclure  
 L'vélo n'eut pas une égratignure  
-  
-  
-  
-  
 
 
 [ ◀ Les filles de Mar del Plata](../les_filles_de_mar_del_plata) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les spaghetti ▶](../les_spaghetti)

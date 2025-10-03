@@ -5,6 +5,7 @@ sidebar_left: sidebar
 
 ##  Paroles : Jean-Pierre Rosnay - Musique : Gilles Maire
   
+  
 Ô mes amours inachevées,  
 Ô mes discrètes passagères,  
 Mon placard rempli de poupées  
@@ -81,8 +82,6 @@ Françoise Arlette et vous Monique
 Qu'avez vous fait de nos baisers  
 L'avez vous enfin déniché  
 Le marchand de l'amour unique  
-  
-  
 
 
 [ ◀ Accroche](../accroche) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Barbiche ▶](../barbiche)

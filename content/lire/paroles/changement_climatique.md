@@ -4,8 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles: Gilles Maire - Musique : Geoffray Milleret
-  
-  
 Au début ils disaient qu'on allait se réchauffer  
 Les savants nous parlaient d'un air catastrophé  
 Ils nous montraient des ours mourant sur la banquise  
@@ -33,7 +31,6 @@ Il parait que sur les pôles, on se tape pas sur l'épaule
 Que c'est la guerre tout le temps, qu'ils se battent pour du pétrole  
 C'est pas demain la veille qu'j'quitterai mon igloo  
 J'ai bien peur que leur monde ne vaille plus un clou  
-  
 
 
 [ ◀ Bologne](../bologne) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Clôdine Agathe Georges et les autres ... ▶](../clôdine_agathe_georges_et_les_autres_...)

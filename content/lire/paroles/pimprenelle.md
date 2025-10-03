@@ -14,8 +14,6 @@ Je t'ai revu sourire
 Dans un vieux souvenir  
   
   
-  
-  
 Ma pauvre Pimprenelle  
 Enrobée de flanelle  
 Ma poupée de chiffon  
@@ -51,7 +49,6 @@ La rue des Écoliers
 Tu portais un colliers  
 Un collier de sourires  
 Pour mes vieux souvenirs.  
-  
 
 
 [ ◀ Papa pique](../papa_pique) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Pourquoi nos guerres ▶](../pourquoi_nos_guerres)

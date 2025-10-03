@@ -3,9 +3,7 @@ Title: "Bologne"
 sidebar_left: sidebar
 ---
 
-##  Paroles & Musiques :  Gilles Maire
-  
-  
+##  Paroles & Musiques : Gilles Maire
 T'es belle comme une toile de Crémonini  
 Belle Émilie Romagne qui croise mes nuits  
 Au Lambrusco Sorbara ce bar de Lombardie  
@@ -35,7 +33,6 @@ T'es belle comme une toile de Crémonini
 T'es belle comme une étoile qui se croit tout permis  
 Qui regarde en riant sur le quai d'une gare  
 Un chanteur éperdu, pleurant sur sa guitare.  
-  
 
 
 [ ◀ Barbiche](../barbiche) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Changement climatique ▶](../changement_climatique)

@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Mes frères les cailloux  
 Qui longtemps après nous  
 Vivrez  
@@ -23,20 +22,20 @@ D'un geste
 Vous qui avez eu tant de temps à moudre  
 Priez Dieu qu'il nous veuille absoudre  
   
-De nos murs en poussière  
-Il n'y a que les pierres  
-Qui durent  
 Grains de sable ou gros cailloux,  
 Pierres plates ou bijoux  
 D'or pur  
+De nos murs en poussière  
+Il n'y a que les pierres  
+Qui durent  
 Que vous soyez montagnes ou dés à coudre  
 Priez Dieu qu'il nous veuille absoudre ...  
   
-Vous qui avez connu  
 Depuis leurs tout débuts  
-Les hommes  
+Vous en avez connu  
+Des hommes  
 De massacre en carnages  
-Ils ont brûlé Carthage  
+Qui ont brûlé Carthage  
 Et Rome  
 Vous qui n'aimez ni la pluie ni la foudre  
 Priez Dieu qu'il nous veuille absoudre ...  

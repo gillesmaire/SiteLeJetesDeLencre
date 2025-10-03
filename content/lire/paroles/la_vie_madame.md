@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
 On arrive on ne sait comment,  
 On repart on ne sait pas quand ;  
 La vie madame est un voyage,  
@@ -32,7 +31,6 @@ Un poète de pacotille,
 Une princesse en espadrille,  
 Se promènent main dans la main,  
 Du côté de Saint-Germain.  
-  
 
 
 [ ◀ La tournée des ringards](../la_tournée_des_ringards) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Lancelot ▶](../lancelot)

@@ -4,8 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geoffray Milleret
-  
-  
 Ce que je suis n'a plus beaucoup d'importance  
 Que je vive au Pérou, au Brésil, ou en France,  
 Et que je sois le fils de rien ou roi d'Espagne,  
@@ -41,8 +39,6 @@ Pour qui mes dix doigts rêvent encore de guitare
 Je veux vous avertir, si ne n'est pas trop tard,  
 Et si vous entendez chanter ce poème  
 Venez, ne venez pas, je serai là quand même.  
-  
-  
 
 
 [ ◀ Promenade](../promenade) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Toulouse ▶](../toulouse)

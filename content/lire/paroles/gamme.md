@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-  
 J'ai fait cette musique en Do  
 Cette musique endolorie  
 Car il y a un an aujourd'hui  
@@ -35,12 +34,17 @@ Tout ce temps passé à me taire
 Et tout ce temps à terre  
 Sans relever les yeux du sol  
   
+J'ai fait cette musique en La  
+Cette musique en larme  
+C'est fou ce que tous tes charmes  
+Ont mis mon coeur en vacarme  
+À cette époque là  
+  
 J'ai fait cette musique en Si  
 Cette musique ancienne  
 Pour que te tu souviennes  
-Du temps où nous étions  
-  
-  
+Longtemps de la peine  
+Que cette année là tu me fis  
 
 
 [ ◀ Entre Baalbek et Zahlé](../entre_baalbek_et_zahlé) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Je chante pour mes copains ▶](../je_chante_pour_mes_copains)

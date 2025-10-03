@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-  
 Tu m'as croisé un jour  
 En sortant de tes cours  
 Ton cartable à la main  

@@ -8,11 +8,12 @@ C'était au temps des gramophones
 Au temps des danseurs Charleston  
 Qu'on pouvait l'entendre chanter  
 Sur les disques de chez Pathé  
-  
 En soixante dix huit tours elle vint  
 Dans les salons mille neuf cent vingt  
 La belle Emma Liébel aima  
 La chanson dans les grands formats  
+  
+  
   
   
   
