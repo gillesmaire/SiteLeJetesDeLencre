@@ -3,6 +3,8 @@
 
 # Liste des concerts du temps passé 
 
+
+- [886] **Jeudi 2 octobre 2025** à partir de 19h30 La [cave](cave) aux jetés
 - [885] **Dimanche 24 août 2025** à 17hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
 - [884] **Vendredi 22 août 2025** à 19hoo à la Guinguette du Café du Commerce réservation au 02 96 55 56 06 36 place maréchal Foch , 22580 Plouha
 - [883] **Jeudi 21 août 2025** à 18hoo Au bariodé 12 place du Matrais 22500 Paimpol
