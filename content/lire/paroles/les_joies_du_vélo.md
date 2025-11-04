@@ -8,10 +8,6 @@ Roulant à vélo, frôlant d'un peu trop
 Près les autos, j'accrochai un rétro  
 C'est ainsi qu'on vit quatre vingt kilos  
 Atterrir ce soir là sur un capot  
-
-
-**Refrain:**
-
 Sol(III)x3]Oh oh oh les joies du vélo  
 Hue hue hue les joies de la rue  
 Oh oh oh les joies du vélo  

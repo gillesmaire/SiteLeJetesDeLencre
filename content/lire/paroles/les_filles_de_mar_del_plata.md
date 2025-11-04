@@ -10,10 +10,6 @@ Deux musiciens des quartiers nôtres
 Ils tournent autour l'un de l'autre  
 Et lavent l'ignominieux affront  
 D'un qui n'a pas baissé le front  
-
-
-**Refrain:**
-
 L'un dansait contre toi  
 Te serrant sur son col  
 Quand l'autre entre ses doigts  

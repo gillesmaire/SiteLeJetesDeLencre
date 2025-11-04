@@ -12,10 +12,6 @@ De ses yeux qui font son élégance,
 J'aurais équipé ma descendance ;  
 Mais nous ne changerons pas d'optique,  
 Elle n'aime que les amours saphiques !  
-
-
-**Refrain:**
-
 C'est pas un drame  
 D'aimer les dames  
 C'est pas un drame  

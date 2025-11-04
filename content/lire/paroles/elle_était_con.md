@@ -13,10 +13,6 @@ Elle aurait voté même pour un flic
 Un ministre de l'intérieur  
 L'était givrée sauf d'l'extérieur  
   
-
-
-**Refrain:**
-
 Elle était con  
 Mais avait un cul,  
 Qui faisait qu'on  

@@ -20,10 +20,6 @@ J'ai eu
 De beaux succès au fil des ans,  
 Mais eu  
 Tant de peines, tant de tourments....  
-
-
-**Refrain:**
-
 Peut-être que tu me pardonneras  
 Comme on pardonne à ceux qu'on aime  
 Peut-être même tu comprendras  

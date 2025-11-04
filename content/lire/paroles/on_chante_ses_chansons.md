@@ -12,10 +12,6 @@ Au bout de trois calvas la voilà qui vous dit
 Que des chansons comme ça  
 Ça donne envie d'aimer, d'aimer la vie  
 La voilà qui sourit et puis voilà  
-
-
-**Refrain:**
-
 Des yeux qui vous enlacent  
 Un sourire qui ne dit pas non  
 Un parfum qui vous embrasse  

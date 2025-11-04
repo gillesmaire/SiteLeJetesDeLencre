@@ -57,6 +57,8 @@ Craignant ni la nuit ni
 Le temps  
 Avant que d'être vous aussi de poudre  
 Priez Dieu qu'il nous veuille absoudre ...  
+  
+  
 
 
 [ ◀ Mes frères d'arme](../mes_frères_d~arme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mes sentiers de grandes randonnées ▶](../mes_sentiers_de_grandes_randonnées)

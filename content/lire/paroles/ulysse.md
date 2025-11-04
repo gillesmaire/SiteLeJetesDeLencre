@@ -12,10 +12,6 @@ Pas une qui vous saute au cou
 Pas une qui vous chauffe au coeur  
 Pas une, pas même sa soeur  
 Finis les baisers, les yeux doux  
-
-
-**Refrain:**
-
 Comme il est triste l'Ulysse  
 De retour au pays des siens  
 De ne trouver des yeux qui puissent  

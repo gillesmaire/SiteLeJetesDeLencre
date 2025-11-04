@@ -8,10 +8,6 @@ Quand j'étais enfant mon père
 Savait quoi faire il était coiffeur  
 C'était pendant la guerre  
 Ma mère, elle, vendait des fleurs  
-
-
-**Refrain:**
-
 Papa quand tu te rases pas  
 Tu piques papa  
 Papa quand tu te rases papa  
