@@ -4,6 +4,7 @@
 # Liste des concerts du temps passé 
 
 
+- [888] **samedi 8 novembre 2025** 19h30 Soirée privée Paris 75
 - [887] **jeudi 16 octobre 2025** à partir de 19h30 La [cave](cave) aux jetés
 - [886] **Jeudi 2 octobre 2025** à partir de 19h30 La [cave](cave) aux jetés
 - [885] **Dimanche 24 août 2025** à 17hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
