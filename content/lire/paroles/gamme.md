@@ -47,7 +47,7 @@ Longtemps de la peine
 Que cette année là tu me fis  
 
 
-[ ◀ Entre Baalbek et Zahlé](../entre_baalbek_et_zahlé) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Je chante pour mes copains ▶](../je_chante_pour_mes_copains)
+[ ◀ Entre Baalbek et Zahlé](../entre_baalbek_et_zahlé) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Grand père ▶](../grand_père)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

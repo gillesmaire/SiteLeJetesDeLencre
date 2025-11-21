@@ -42,7 +42,7 @@ En nocturne sur ma guitare
 Je traîne mes nuits dans les bars  
 
 
-[ ◀ Gamme](../gamme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Jean le libertin ▶](../jean_le_libertin)
+[ ◀ Grand père](../grand_père) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Jean le libertin ▶](../jean_le_libertin)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

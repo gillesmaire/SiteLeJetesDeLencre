@@ -25,8 +25,8 @@ On comptait sur les retrouvailles
 Sur les nuits douces du passé  
 Mais seul un chien à caresser  
 Ça vous travaille jusqu'aux entrailles  
-Usé par le temps des voyages  
   
+Usé par le temps des voyages  
 Meurtri des cris des goélands  
 Se voir refuser le passage  
 Par d'arrogants et fiers galants  
