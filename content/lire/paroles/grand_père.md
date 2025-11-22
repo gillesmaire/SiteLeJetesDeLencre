@@ -13,7 +13,7 @@ Toi avec tes jambes gourdes
 Vous marchez d'un même pas  
 D'un pas qui ne s'en fait pas  
   
-Tout doux toux doux tous doux tout doux  
+Tout doux toux doux tout doux tout doux  
 Tout doux toux doux tout doux tout doux  
   
 Tu lui parles de ton enfance  
