@@ -41,7 +41,7 @@ Tu rêves ta vie à l'envers
 Car à la fin de l'histoire  
 Les romans même les plus noirs  
 D'une page blanche s'achève  
-Et c'est la page où l'on rêve  
+C'est sur cette page qu'on rêve  
 
 
 [ ◀ Gamme](../gamme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Je chante pour mes copains ▶](../je_chante_pour_mes_copains)
