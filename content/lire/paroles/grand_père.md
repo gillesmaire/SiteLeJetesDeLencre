@@ -19,29 +19,29 @@ Tout doux toux doux tout doux tout doux
 Tu lui parles de ton enfance  
 Du temps de ton insouciance  
 Mais tu ne racontes guère  
-De souvenirs de ton grand père  
-Dès fois que l'air ingénu  
-Il dise qu'est il devenu  
+Les souvenirs de ton grand père  
+S'il disait l'air ingénu  
+Mais qu'est il donc devenu  
 Tu ne saurais pas quoi dire  
 Tu ne saurais pas mentir  
   
 Et quand tu vois sa mine  
 C'est comme de la vitamine  
-Il a des airs de son père  
+Il a des airs de famille  
 Le sourire de ta fille  
-Tu sais qu'à un certain âge  
+À partir d'un certain âge  
 Certains coulent certains nagent  
 Qu'on te croise ou qu'on te double  
 Chaque sourire compte double  
   
 Lui au début du printemps  
 Il a pour lui tout son temps  
-Pour toi c'est un peu l'hiver  
+Toi à la fin de l'hiver  
 Tu rêves ta vie à l'envers  
-Toujours la fin de l'histoire  
-Des romans même les plus noirs  
+Mais à la fin de l'histoire  
+Les romans même les plus noirs  
 D'une page blanche s'achève  
-C'est sur cette page qu'on rêve  
+Et c'est la page où l'on rêve  
 
 
 [ ◀ Gamme](../gamme) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Je chante pour mes copains ▶](../je_chante_pour_mes_copains)
