@@ -38,7 +38,7 @@ Lui au début du printemps
 Il a pour lui tout son temps  
 Toi à la fin de l'hiver  
 Tu rêves ta vie à l'envers  
-Mais à la fin de l'histoire  
+Car à la fin de l'histoire  
 Les romans même les plus noirs  
 D'une page blanche s'achève  
 Et c'est la page où l'on rêve  
