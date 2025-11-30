@@ -26,7 +26,7 @@ Mais vous ne viendrez pas
 Ou vous viendrez trop tard  
 Ou vous n'existez pas  
 Je chante dans le noir  
-Coupzez les projecteurs  
+Coupez les projecteurs  
 Le spectacle est fini  
 Pas un seul spectateur  
 N'est venu aujourd'hui  
@@ -37,7 +37,7 @@ Mais le temps a passé
 Je crois qu'il est trop tard  
 Pour rêver à deux mains  
 Sur le pied d'un micro  
-Je verrai si demain  
+On verra si demain  
 Il fait un peu plus beau  
   
   

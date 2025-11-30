@@ -41,7 +41,7 @@ En y marchant en y chantant
 Vous y verrez mille beautés  
 
 
-[ ◀ Mes frères les cailloux](../mes_frères_les_cailloux) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ne faites pas l'amour ▶](../ne_faites_pas_l~amour)
+[ ◀ Mes frères les cailloux](../mes_frères_les_cailloux) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Mon champ de coquelicots ▶](../mon_champ_de_coquelicots)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

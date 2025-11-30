@@ -41,7 +41,7 @@ Et si vous entendez chanter ce poème
 Venez, ne venez pas, je serai là quand même.  
 
 
-[ ◀ Promenade](../promenade) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Toulouse ▶](../toulouse)
+[ ◀ Pourquoi nos guerres](../pourquoi_nos_guerres) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Toulouse ▶](../toulouse)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

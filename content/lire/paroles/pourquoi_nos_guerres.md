@@ -36,10 +36,9 @@ J'ai senti se glacer mon corps
 C'est comme si l'orage tonnait  
 C'est en pleurant que tu m'as dit  
 Je t'aimais mais je suis partie...  
-  
 
 
-[ ◀ Pimprenelle](../pimprenelle) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Promenade ▶](../promenade)
+[ ◀ Pimprenelle](../pimprenelle) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Tango à Jehro ▶](../tango_à_jehro)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>
