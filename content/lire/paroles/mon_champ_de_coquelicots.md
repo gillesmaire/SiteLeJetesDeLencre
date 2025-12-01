@@ -29,7 +29,7 @@ En plein cœur de New York, le MoMA fait tourner
 Les volutes bleutées de La Nuit étoilée  
 Du ciel agité de saint Rémy De Provence  
 C'est un cri de lumières qui en tournant s'avance  
-C'est que voit Van Gogh du fond de son asile  
+C'est ce que voit Van Gogh du fond de son asile  
 C'était vingt ans avant que le monde vacille  
   
 Affiché dans ma chambre sur du papier Canson  
