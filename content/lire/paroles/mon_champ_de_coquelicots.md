@@ -37,7 +37,7 @@ Un champ de coquelicots éclaire mon horizon
 Un artiste inconnu un soir me l'a offert  
 Sans le savoir le jour de mon anniversaire  
 C'était à Montmartre près du bateau Lavoir  
-Il est loin des musées, je suis fier de l'avo  
+Il est loin des musées, je suis fier de l'avoir  
 
 
 [ ◀ Mes sentiers de grandes randonnées](../mes_sentiers_de_grandes_randonnées) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ne faites pas l'amour ▶](../ne_faites_pas_l~amour)
