@@ -25,7 +25,7 @@ C'est un cri de lumières qui en furie s'avance
 C'est ce que vit Van Gogh du fond de son asile  
 C'était vingt ans avant que le monde vacille  
   
-Affiché dans ma chambre sur du papier Canson  
+Accroché dans ma chambre sur du papier Canson  
 Un champ de coquelicots éclaire mon horizon  
 Un artiste inconnu un soir me l'a offert  
 Sans le savoir le jour de mon anniversaire  
