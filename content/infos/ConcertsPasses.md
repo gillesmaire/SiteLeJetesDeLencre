@@ -3,6 +3,7 @@
 
 # Liste des concerts du temps passé 
 
+- [890] **samedi 20 décembre 2025** après midi animation expo Ocre à la [cave](cave) aux jetés
 - [889] **jeudi 13 novembre 2025** 19h30 à partir de 19h30 La [cave](cave) aux jetés
 - [888] **samedi 8 novembre 2025** 19h30 Soirée privée Paris 75
 - [887] **jeudi 16 octobre 2025** à partir de 19h30 La [cave](cave) aux jetés
