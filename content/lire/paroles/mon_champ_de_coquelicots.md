@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-Passez pas à Paris sans pousser jusqu'au Louvre,  
+Passez pas par Paris sans pousser jusqu'au Louvre,  
 Pour voir si les yeux de la Joconde se trouvent  
 Toujours au dessus de son sourire indolent  
-Pourquoi les pinceaux de Vinci furent si lents  
+Pourquoi les pinceaux de Vinci furent-ils si lents  
 Était-ce pour vivre encore les langueurs de Venise  
 Ou garder en son cœur l'amour de Mona Lise ?  
   
