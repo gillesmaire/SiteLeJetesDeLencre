@@ -12,10 +12,6 @@ A brûler d'obscures chandelles ;
 J'ai laissé filer loin devant  
 Le temps dans son échappée belle,  
 Le temps qui file comme le vent  
-
-
-**Refrain:**
-
 Ce soir, je pars,  
 Je pars pour voir  
 Un autre part  

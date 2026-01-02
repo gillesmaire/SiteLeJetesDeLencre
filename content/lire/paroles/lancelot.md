@@ -12,10 +12,6 @@ Elle t'avait plu
 Mais il a plu  
 Les grêlons sur ton âme  
 Ont étouffé toutes tes flammes  
-
-
-**Refrain:**
-
 Ne t'en fais pas  
 Le temps c'est pas  
 Toujours noir toujours gris  

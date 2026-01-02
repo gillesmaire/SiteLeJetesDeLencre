@@ -25,6 +25,12 @@ C'est un cri de lumières qui en furie s'avance
 C'est ce que vit Van Gogh du fond de son asile  
 C'était vingt ans avant que le monde vacille  
   
+Encore à Madrid au musée Reina Sofía  
+Picasso a choisi un pinceau de combat  
+Pour dessiner les traits de notre liberté  
+Son Guernica se dresse contre l’obscurité  
+Contre les pleurs des veuves, les cris des innocents  
+Contre les assassins qui font couler le sang  
 Accroché dans ma chambre sur du papier Canson  
 Un champ de coquelicots éclaire mon horizon  
 Un artiste inconnu un soir me l'a offert  

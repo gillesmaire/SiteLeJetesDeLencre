@@ -4,10 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-
-
-**Refrain:**
-
 Dans ce, dans ce, dans ce  
 Petit bar parisien  
 Danse danse danse  
