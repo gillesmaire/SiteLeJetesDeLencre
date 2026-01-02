@@ -31,6 +31,7 @@ Pour dessiner les traits de notre liberté
 Son Guernica se dresse contre l’obscurité  
 Contre les pleurs des veuves, les cris des innocents  
 Contre les assassins qui font couler le sang  
+  
 Accroché dans ma chambre sur du papier Canson  
 Un champ de coquelicots éclaire mon horizon  
 Un artiste inconnu un soir me l'a offert  
