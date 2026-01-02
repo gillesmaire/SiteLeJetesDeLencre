@@ -17,6 +17,10 @@ Sautant le mur, volant sur mes fémurs
 Quand j'ai voulu me faire la malle  
 Au son du clairon, sous douze balles  
 Je mourus, je mourus le dos au mur  
+
+
+**Refrain:**
+
 Nous les enfants de la papa de la patrie  
 On se contrefout de la titi d'la tyrannie  
 Quand on est étendu, sanglant sur le pavé,  

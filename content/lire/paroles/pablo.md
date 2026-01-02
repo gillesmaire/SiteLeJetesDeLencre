@@ -12,6 +12,10 @@ Mais cette année, ils ont pris un nouveau
 Question métier, il n'est pas au niveau  
 Il est loin d'avoir tout mon bagage  
 Il est loin d'avoir tout mon bagage  
+
+
+**Refrain:**
+
 Mais Pablo, il a les dents blanches  
 Le sourire des dimanches  
 Il a les yeux faits pour l'amour  

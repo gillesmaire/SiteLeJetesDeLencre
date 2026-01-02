@@ -12,6 +12,10 @@ J'étais bien loin des forts en thèmes,
 Même si j'aimais déjà les mots,  
 J'écrivais mes premiers poèmes,  
 En c]piant les vers de Rimbaud.  
+
+
+**Refrain:**
+
 « Adiu Gilles quin te va ?»  
 « Que va et que va plan,  
 Jo que serei Trobador  

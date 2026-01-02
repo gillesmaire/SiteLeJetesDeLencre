@@ -12,6 +12,10 @@ Le temps pendant les cours
 Parait long ça m'étonne  
 Que la récré nous donne  
 Cet air tellement court  
+
+
+**Refrain:**
+
 Court court court court  
 Le temps est taillé trop court  
 Court court  

@@ -8,6 +8,10 @@ Jean regarde la mer, assis sous un pin
 Il compte les vagues qui moutonnent  
 A chacune il donne un nom et s'étonne  
 De connaître autant de prénoms féminins  
+
+
+**Refrain:**
+
 Il a connu  
 Mille lèvres, mille z'yeux  
 Il a connu  

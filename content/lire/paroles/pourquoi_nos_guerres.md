@@ -11,6 +11,10 @@ Je lui offre mes roses tous les matins
 S'il n'aime pas l'odeur de mes fleurs  
 Je coupe mes rosiers dans l'heure.  
   
+
+
+**Refrain:**
+
 Pourquoi qui peut dire pourquoi  
 Les hommes n'arrivent-ils pas  
 A vivre en paix sur cette terre  

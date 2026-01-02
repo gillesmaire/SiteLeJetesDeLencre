@@ -10,8 +10,8 @@ Qui te dit t'es mon papy
 T'es mon papy pour la vie  
 Lui avec ses jambes courtes  
 Toi avec tes jambes gourdes  
-Vous marchez d'un même pas  
-D'un pas qui ne s'en fait pas  
+Vous mar chez d'un même pas  
+D'un pas qui ne s'enpas  
   
 Tout doux toux doux tout doux tout doux  
 Tout doux toux doux tout doux tout doux  

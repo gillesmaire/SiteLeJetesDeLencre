@@ -12,6 +12,10 @@ Nous avons livré cent batailles
 La tête au vent les pieds dans l'eau  
 Nous retournons vers le bercail  
 Comme de pauvres narvalos  
+
+
+**Refrain:**
+
   
 Ô mes compagnons d'infortunes  
 Vous qui m'avez accompagné  

@@ -12,6 +12,10 @@ Il vient de sangler sa valise
 D'ensevelir ses souvenirs  
 Entre deux livres et trois chemises  
 Qui ont dû lui appartenir  
+
+
+**Refrain:**
+
 Même s'ils savent qu'ils s'aiment encore  
 Cet encore est-il assez fort  
 Pour faire encore tourner leur corps ?  

@@ -16,6 +16,10 @@ A presqu' un parfum de pistache
 Je bois mon verre / En souriant  
 Car tes yeux verts /Sont si brillants  
 Qu'ils ne jouent même plus à cache-cache  
+
+
+**Refrain:**
+
 Pourquoi toi ? Pourquoi moi ?  
 Pour quoi un jour puis deux puis trois  
 Puis trois mois sans toi sous mon toit  
