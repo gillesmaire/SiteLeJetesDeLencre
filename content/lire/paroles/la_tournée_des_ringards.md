@@ -4,15 +4,15 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-  
-  
-  
-  
-Notre tourneur a dit « les ringues,  
-Finie la tournée des campingues,  
-Je vous ai trouvé le bon coup,  
-Vous partez chanter à Moscou,  
-Voici venu le jour de gloire ! »  
+[Mim(VII):2] [Lam(XII):2] [Mim(VII):2] [Do#7°(V):2]  
+[Si7°(III):2] [La#7°:2] [Mi:2] [Mi7:2]  
+[Lam(V):2] [Mim(VII):2] [Lam(XII):2] [Mim(VII):2]  
+[Do#7°(V):2] [Si7°(III):2] [La#7°:2] [Mi:2]  
+Notre tour[Mim(VII)]neur a dit « les ringues,  
+[Lam(V)]Finie la tournée des campingues,  
+[Ré7(V)]Je vous ai trouvé le bon coup,  
+Vous partez [Sol(III)]chanter à Moscou,  
+Voici ve[Fa#]nu le jour de [Si7]gloire ! »  
   
 « Sur vous j'ai ouvert les paris  
 Et vous partez en Ferrari  

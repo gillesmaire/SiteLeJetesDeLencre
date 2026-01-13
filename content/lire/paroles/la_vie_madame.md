@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-On arrive on ne sait comment,  
-On repart on ne sait pas quand ;  
-La vie madame est un voyage,  
-Qui n'ose pas dire son âge ;  
-Un coup de dés sur un sourire  
-Qui perd et manque sur un soupir.  
+On [Lab]arrive on ne sait com[Do7(III)]ment,  
+On re[Mib7]part on ne sait pas [Lab]quand ;  
+La [Do7(III)]vie madame est un voy[Mib]age,  
+Qui [Sib7]n'ose pas dire son [Sol(III)]âge ;  
+Un [Do7(III)]coup de dés sur un [Fa]sourire  
+Qui [Sib7]perd et manque sur un sou[Mib]pir.  
   
 La vie madame change d'avis,  
 Un jour elle vous murmure oui ;  

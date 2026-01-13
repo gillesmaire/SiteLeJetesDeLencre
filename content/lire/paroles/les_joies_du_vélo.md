@@ -4,14 +4,18 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Roulant à vélo, frôlant d'un peu trop  
-Près les autos, j'accrochai un rétro  
-C'est ainsi qu'on vit quatre vingt kilos  
-Atterrir ce soir là sur un capot  
-Sol(III)x3]Oh oh oh les joies du vélo  
-Hue hue hue les joies de la rue  
-Oh oh oh les joies du vélo  
-Hue hue hue les joies de la rue  
+[Sol(III)x6]Roulant à vélo, frôlant d'un peu [La(V)x6]trop  
+Près les autos, j'accrochai un ré[Sol(III)x10]tro  
+C'est ainsi qu'on vit quatre vingt ki[La(V)x6]los  
+Atterrir ce soir là sur un ca[Ré9x4]pot  
+
+
+**Refrain:**
+
+Sol(III)x3]Oh oh oh les joies du vé[Ré9x5]lo  
+Hue hue hue les joies de la [Sol(III)x2]rue  
+[Sol(III)x3]Oh oh oh les joies du vé[Fa#x2]lo  
+Hue hue [La(V)x3]hue les joies de la [Ré9x2]rue  
   
 Pour aider l'homme qui s'envoyait en l'air  
 Sortit de l'auto la propriétaire  

@@ -4,14 +4,14 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Mes frères les cailloux  
-Qui longtemps après nous  
-Vivrez  
-Vous qui étiez sur terre  
-Alors qu'elle n'avait guère  
-Tourné  
-Que vous soyez falaise ou grain de poudre  
-Priez Dieu que tous nous veuillent absoudre ...  
+Mes [E-(VII):2]frères les caill[C#7°(V):2]oux  
+Qui [B7(VI):2]longtemps après [E°7(III):2]nous  
+[D9:2]Viv[G(III):2]rez[G(III)]  
+Vous [E-(VII):2]qui étiez sur [C#7°(V):2]terre  
+A[B7(VI):2]lors qu'elle n'avait [E°7(III):2]guère  
+[D9:2]Tour[F#:2]né[F#x2]  
+Que [D7(V)]vous soyez falaise ou grain de [G(III)]poudre  
+Priez [B7(VI)]Dieu que tous nous veuillent ab[E-(VII)x2]soudre ...  
   
 Tous vos milliards d'années  
 Font une éternité  

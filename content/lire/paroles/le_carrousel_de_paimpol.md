@@ -4,19 +4,19 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Ce n'est pas tous les jours dimanche  
-Sur la Manche  
-La côte costarmoricaine  
-Le week end  
-Regarde tourner ses chevaux  
-Au niveau  
-De la digue du port de Paimpol  
-Dans un manège du temps du Guignol  
+Ce [Mim(VII)]n'est pas tous les jours di[Lam(V)]manche  
+[Si(V)]Sur la [Mim(VII)]Manche  
+La [Ré(V)]côte costarmori[Sol(III)]caine  
+[Fa#]Le week [Si]end  
+[Sol(III)]Regarde tourner ses che[Si]vaux  
+Au ni[Sol(IiI)]veau  
+De la digue du port de Paim[Ré7]pol  
+Dans un ma[Mim(VII)]nège du [Si(VII)]temps du Gui[Mim(VII)]gnol  
 Refrain :  
-Quand je vois les mômes des étoiles pleins les yeux  
-Même si je suis peut être un peu trop vieux  
-J'aimerais que mon père sur ses épaules  
-M'emmène encore au manège à Paimpol  
+Quand je vois les [Ré(V)]mômes des étoiles pleins les [Sol(III)]yeux  
+Même si je [Fa#]suis peut être un peu trop [Si]vieux  
+[Sol(III)]J'aimerais que mon père sur ses [Ré(V)]épaules  
+[Mim(VII)]M'emmène encore au [Si(VII)]manège à Paim[Mim(VII)]pol  
   
 Ces chevaux ont ces gueules de bois  
 Que l'on voit  

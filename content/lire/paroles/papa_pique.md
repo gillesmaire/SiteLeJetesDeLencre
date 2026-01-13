@@ -4,14 +4,18 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Quand j'étais enfant mon père  
-Savait quoi faire il était coiffeur  
-C'était pendant la guerre  
-Ma mère, elle, vendait des fleurs  
-Papa quand tu te rases pas  
-Tu piques papa  
-Papa quand tu te rases papa  
-Là tu ne piques pas  
+[Ré(V)]Quand j'étais enfant mon [Mi9(VI)]père  
+[La7(IV)]Savait quoi faire il était coif[Ré(V)]feur  
+[Ré(V)]C'était pendant la [Mi9(VI)]guerre  
+Ma [La7(IV)]mère, elle, vendait des [Ré(V)]fleurs  
+
+
+**Refrain:**
+
+[Ré(V)]Papa quand tu te rases [Mi9(VI)]pas  
+[La7(IV)]Tu piques pa[Ré(V)]pa  
+[Ré(V)]Papa quand tu te rases [Mi9(VI)]papa  
+[La7(IV)]Là tu ne piques [Ré(V)]pas  
 Maman pendant un moment  
 Eut un amant allemand  
 Pendant qu'elle aimait l'occupant  

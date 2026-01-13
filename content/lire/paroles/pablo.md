@@ -4,20 +4,24 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geoffray Milleret
-Je suis masseur dans un salon d'beauté  
-Les femmes j'ai toujours su les dorloter  
-Depuis vingt ans, je fais des massages  
-Depuis vingt ans, je fais des massages  
-Mais cette année, ils ont pris un nouveau  
-Question métier, il n'est pas au niveau  
-Il est loin d'avoir tout mon bagage  
-Il est loin d'avoir tout mon bagage  
-Mais Pablo, il a les dents blanches  
-Le sourire des dimanches  
-Il a les yeux faits pour l'amour  
-Et les doigts comme en velours  
-Avec ses faux airs d'Iglesias  
-Il a pris la première place  
+Je suis ma[Solm]sseur dans un salon d'beau[Ré7x2]té  
+Les femmes j'ai toujours [Mi7:2]su les dorlo[Lam:2]ter  
+Depuis vingt [Fa#]ans, je fais des mas[Sim]sages  
+Depuis vingt [Mi7]ans, je fais des mas[Sol(III)]sages  
+Mais cette a[Solm]nnée, ils ont pris un nou[Ré7x2]veau  
+[Mi7]Question métier, il n'est pas au ni[Lam]veau  
+[Fa#:2]Il est loin d'a[Sim:2]voir tout mon bagage  
+[Mi7:2]Il est loin d'a[Sol(III):2]voir tout mon baga[Fa#:2]ge[Sim:2]  
+
+
+**Refrain:**
+
+Mais Pablo[Fa#7:2],[Sim:2] il a les [Fa#7:2] dents [Solm7:2]blanches  
+[Solm7:2]Le sou[Fa#7:2]rire des di[Sim:2]manches[Fa#7:2]  
+[Sim:2]Il a les [Sim:2]yeux faits pour l'[Fa#7:2]a[Solm7:2]mour  
+[Fa#7]Et les doigts comme en ve[Sim]lours  
+[Fa#7]Avec ses faux airs d'Igle[Sim]sias  
+[Mi7]Il a pris la première [Sol(III):2]pla[Fa#:2]ce  
   
 Il se fout pas mal du droit d'aînesse  
 Il prend les plus jeunes et me laisse  

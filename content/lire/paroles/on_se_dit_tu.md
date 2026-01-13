@@ -4,25 +4,29 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-On se dit tu / Tu habites où ?  
+On se dit [Do#mx4]tu / Tu habites où ?  
 On se dit tout / On s'habitue  
-On sent bien qu'on s'amourache  
-On sent que ça colle / Comme d'la liqueur  
+On sent [Do#m:2]bien qu'on s'amou[Fa#m:2]rache  
+On sent que ça [Mi9(VI)x4]colle / Comme d'la liqueur  
 Qu'ça caracole / Et qu'son p'tit coeur  
-Se laisse pousser la moustache  
-C'est comme l'été / En plein hiver  
+Se laisse [Mi9(VI):2]pousser la mous[Sol#:2]tache  
+C'est comme l'é[Do#mx4]té / En plein hiver  
 A l'heure du thé / Quand le thé vert  
-A presqu' un parfum de pistache  
-Je bois mon verre / En souriant  
+A [Rébm:2]presqu' un parfum de pis[Fa#m:2]tache  
+Je bois mon [Sol#7x4]verre / En souriant  
 Car tes yeux verts /Sont si brillants  
-Qu'ils ne jouent même plus à cache-cache  
-Pourquoi toi ? Pourquoi moi ?  
-Pour quoi un jour puis deux puis trois  
-Puis trois mois sans toi sous mon toit  
-Pourquoi pas moi qui n'aime que toi  
-Entre deux joies et trois émois  
-Pour quoi ne ferait on pas rimer encore  
-Avec nos deux corps  
+Qu'ils ne [Sol#7:2] jouent même plus à cache-[Do#m:2]cache  
+
+
+**Refrain:**
+
+Pourquoi [Si7]toi ? Pourquoi moi ?  
+Pour quoi un [Mi9(VI)]jour puis deux puis trois  
+Puis trois [Mi9(VI):2]mois sans toi sous mon [Sol#7:2]toit  
+Pourquoi pas [Si7]moi qui n'aime que toi  
+Entre deux [Mi9(VI)]joies et trois émois  
+Pour quoi ne fe[Mi9(VI):2]rait on pas rimer en[Sol#7:2]core  
+Avec [Sol#7:2]nos deux [Do#m]corps  
   
 Depuis le temps / Qu'on se louvoie  
 Que l'on s'entend / Comme on se voit  

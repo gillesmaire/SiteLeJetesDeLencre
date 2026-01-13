@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-Passez pas par Paris sans pousser jusqu'au Louvre,  
-Pour voir si les yeux de la Joconde se trouvent  
-Toujours au dessus de son sourire indolent  
-Pourquoi les pinceaux de Vinci furent-ils si lents  
-Était-ce pour vivre encore les langueurs de Venise  
-Ou garder en son cœur l'amour de Mona Lise ?  
+[Sol:2]Passez pas par Pa[Si7:2]ris sans [Si7:2]pousser jusqu'au [Mim:2]Louvre,  
+Pour [Mim:2]voir si les yeux [La:2]de la Jo[La:2]conde se [Ré:2]trouvent  
+Tou[Ré:2]jours au dessus [Si:2]de son [Si:2]sourire indo[Mim:2]lent  
+Pour[Mim:2]quoi les pinceaux [La:2]de Vin[La:2]ci furent-ils si [Ré:2]lents  
+É[Ré:2]tait-ce pour vivre en[Réb:2]core [Réb:2]les langueurs de Ve[Fa#:2]nise  
+Ou [Fa#:2]garder en son [Si7:2]cœur l'a[Si7:2]mour de Mona [Mim:2]Lise ?[Mim:2][La:2][La]  
   
 Courrez vite à Madrid, le Prado nous appelle,  
 Pour voir Thérèse d'Autriche encore demoiselle  
@@ -30,7 +30,7 @@ Picasso a choisi un pinceau de combat
 Pour dessiner les traits de notre liberté  
 Son Guernica se dresse contre l’obscurité  
 Contre les pleurs des veuves, les cris des innocents  
-Contre les assassins qui font couler le sang  
+Contre les dictateurs qui font couler le sang  
   
 Accroché dans ma chambre sur du papier Canson  
 Un champ de coquelicots éclaire mon horizon  

@@ -4,14 +4,14 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Toi tu attendais un signe,  
-Comme un signe du destin  
-Parce qu'un type dans les lignes  
-Dans les lignes de ta main  
-T'a dit un soir de décembre  
-Qu'avant la fin de l'hiver  
-Allait fleurir dans ta chambre  
-Un bouquet de primevère  
+[Rém(V)x2]Toi tu attendais un [Fax2]signe,  
+Comme un [Do7(III)x2]signe du des[La(V)x2]tin  
+[Rém(V)x2]Parce qu'un type dans les [Fax2]lignes  
+Dans les [Do7(III)x2]lignes de ta [La(V)x2]main  
+[Do7(III)x2] T'a dit un soir de dé[Fax2]cembre  
+Qu'a[Sibx2]vant la fin de l'hi[La(V)x2]ver  
+A[Do7(III)x2]llait fleurir dans ta [Fax2]chambre  
+Un bou[Sibx2]quet de prime[La(V)x2]vère  
   
 Moi je remplissais des lignes  
 Penché sur mon calepin  

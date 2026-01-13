@@ -4,14 +4,18 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Quand on est belle comme elle est belle,  
-On a des amants en ribambelle ;  
-Mais elle ne suit pas cette logique,  
-Elle n'aime que les amours saphiques !  
+Quand on est [Rém(V)]belle comme elle est [Mi9(VI)]belle,  
+[La7(IV)]On a des amants en ribam[Rém(V)x2]belle ;  
+Mais elle ne suit pas cette lo[Mi9(VI)]gique,  
+[La7(IV)]Elle n'aime que les amours sa[Rém(V)]phiques !  
 De ses yeux qui font son élégance,  
 J'aurais équipé ma descendance ;  
 Mais nous ne changerons pas d'optique,  
 Elle n'aime que les amours saphiques !  
+
+
+**Refrain:**
+
 C'est pas un drame  
 D'aimer les dames  
 C'est pas un drame  

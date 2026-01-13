@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Tu sens ce goût amer  
-C'est le sel de la mer  
-Qui rêve de douceur  
-Tu goûteras un jour,  
-Un grain de sel d'amour  
-Qui reste sur le coeur  
+Tu [La(V)x2]sens ce goût a[Rém(V)x4]mer  
+C'est le sel de la [La(V)x4]mer  
+Qui rêve de dou[La7(V)x4]ceur  
+Tu goûteras un [Solmx4]jour,  
+Un grain de sel d'a[La(V)x4]mour  
+Qui reste sur le [Rém(V)x2]coeur  
   
 Célimène est de celles  
 Qui saupoudrent de sel  

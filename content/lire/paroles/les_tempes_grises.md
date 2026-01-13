@@ -4,20 +4,24 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Ça y est je suis devenu vieux,  
-Voici le temps des tempes grises,  
-Des frises sur le coin des yeux.  
-Il y a beau temps que je m'enlise,  
-A brûler d'obscures chandelles ;  
-J'ai laissé filer loin devant  
-Le temps dans son échappée belle,  
-Le temps qui file comme le vent  
-Ce soir, je pars,  
-Je pars pour voir  
-Un autre part  
-Une autre histoire  
-Je veux aller à l'essentiel  
-Du côté du septième ciel.  
+Ça y [Fa]est je suis devenu [Lam]vieux,  
+Voici le [Sol(III)]temps des tempes [Do(III)]grises,  
+Des [Fa]frises sur le coin des [Lam]yeux.  
+Il y a beau [Sol(III)]temps que je m'en[Do(III)]lise,  
+A [Do(III)]brûler d'obscures chan[Rém(V)]delles ;  
+J'ai laissé [Sol(III)]filer loin de[Do(III)]vant  
+Le [Do(III)]temps dans son échappée [Rém(V)]belle,  
+Le temps qui [Fa:2]file com[Mi:2]me le [Lam]vent  
+
+
+**Refrain:**
+
+Ce [Lam:2] soir, je [Rém(V):2]pars,  
+Je [Sol(III):2]pars pour [Do(III):2]voir  
+[Lam:2]Un autre [Rém(V):2]part  
+Une [Sol(III):2]autre his[Do(III):2]toire  
+[Do(III)]Je veux aller à l'essen[Rém(V)]tiel  
+Du côté [Fa:2]du sep[Mi:2]tième [Lam]ciel.  
   
 Ce soir la belle prends ta valise  
 Mais surtout n'y mets rien dedans,  

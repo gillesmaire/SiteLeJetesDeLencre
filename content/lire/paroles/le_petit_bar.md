@@ -4,22 +4,26 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Dans ce, dans ce, dans ce  
-Petit bar parisien  
-Danse danse danse  
-Jusqu'au petit matin  
-Lance lance lance  
-Ton coeur contre mon sein  
-Pense pense pense-  
-ras-tu à moi demain ?  
-L'accordéoniste  
-Joue pour nous cet air-là  
-Et toi sur la piste  
-Tu glisses entre mes bras  
-Quand le violon triste  
-Pleure ses notes de joie  
-Si l'amour existe  
-Il n'est pas loin je crois  
+
+
+**Refrain:**
+
+[Ré(V)]Dans ce, dans ce, dans ce  
+Pe[Ré(V):2]tit bar pari[La7(IV):2]sien  
+[La7(IV)]Danse danse danse  
+[La7(IV):2]Jusqu'au petit ma[Ré(V):2]tin  
+[Ré(V)]Lance lance lance  
+Ton [Ré(V):2]coeur contre mon [La7(IV):2]sein  
+[La7(IV)]Pense pense pense-  
+[La7(IV):2]ras-tu à moi de[Ré(V):2]main ?  
+L'ac[Fa#]cordéoniste  
+[Sim]Joue pour nous cet air-là  
+Et [La(V)]toi sur la piste  
+Tu [La(V):2]glisses entre mes [Ré(V):2]bras  
+Quand [Fa#]le violon triste  
+[Sim]Pleure ses notes de joie  
+[La(V)]Si l'amour existe  
+Il [La(V):2]n'est pas loin je [Ré(V):2]crois  
   
 Si l'amour s'installe  
 Entre nous dans le noir  

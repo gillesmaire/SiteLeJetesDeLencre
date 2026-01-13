@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-J'écrivais des chansons, des p'tit's musiques  
-J'avais un répertoire plutôt comique  
-Je crois que j'allais devenir quelqu'un  
-Mais en quatorze, ma fiancée en larmes  
-M'a vu partir entre deux gendarmes  
-Le front baissé jusqu'au front de Verdun...  
+[Do#mx2]J'écrivais des chansons, des p'tit's musiques  
+[Sol#7x2]J'avais un répertoire plutôt comique  
+[Fa#mx2]Je crois que j'allais devenir quelqu'un  
+[Sol#7x2]Mais en quatorze, ma fiancée en larmes  
+[Fa#mx2]M'a vu partir entre deux gendarmes  
+[Sol#7x2]Le front baissé jusqu'au front de Ver[Do#m]dun...  
   
 La mort dans l'âme, tremblant dans le vacarme  
 Pleurant de peur, pleurant sur mon arme  
@@ -17,10 +17,14 @@ Sautant le mur, volant sur mes fémurs
 Quand j'ai voulu me faire la malle  
 Au son du clairon, sous douze balles  
 Je mourus, je mourus le dos au mur  
-Nous les enfants de la papa de la patrie  
-On se contrefout de la titi d'la tyrannie  
-Quand on est étendu, sanglant sur le pavé,  
-Le jour de gloire n'est pas prêt d'arriver  
+
+
+**Refrain:**
+
+[Do#mx2]Nous les enfants de la papa de la patrie  
+[Sol#7x2]On se contrefout de la titi d'la tyrannie  
+[Fa#mx2]Quand on est étendu, sanglant sur le pavé,  
+[Sol#7x2]Le jour de gloire n'est pas prêt d'arri[Do#m]ver  
 Au fond d'une fosse il m'ont enfoui  
 La fosse de ceux qui se sont enfuis  
 Au milieu de mes amis d'infortune  

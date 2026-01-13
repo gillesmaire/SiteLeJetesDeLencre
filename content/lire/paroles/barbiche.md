@@ -4,14 +4,14 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Celle que j'aime a des yeux de biche  
-Et un charme fou  
-Son mari est comme un caniche  
-Il la suit partout  
-Pour s'embrasser il faut qu'on triche  
-On fait les cents coups  
-Et on écrit en acrostiche  
-Tous nos billets doux  
+[Rém(V)]Celle que j'aime a des yeux de biche  
+[La7(V):2]Et un charme [Rém(V):2]fou  
+[Rém(V)]Son mari est comme un caniche  
+[La7(V):2]Il la suit [Rém(V):2]partout  
+[Ré#7]Pour s'embrasser il faut qu'on triche  
+[Fa9(VII):2]On fait les cents [La#:2]coups  
+[Ré#7]Et on écrit en acrostiche  
+[Fa9(VII):2]Tous nos billets [La#:2]doux  
   
 Ni vu ni connu je m'affiche  
 Rusant comme un sioux  

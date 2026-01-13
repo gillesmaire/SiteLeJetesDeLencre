@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles & Musiques : Gilles Maire
-T'es belle comme une toile de Crémonini  
-Belle Émilie Romagne qui croise mes nuits  
-Au Lambrusco Sorbara ce bar de Lombardie  
-Entre un parfum de Parme et un air de Verdi  
+T'es [Rém(V):2]belle comme une [Solm:2]toile de Cré[Do7(III):2]moni[Fa:2]ni  
+Belle [Rém(V):2]Émilie Ro[Solm:2]magne qui croi[Do7(III):2]se mes [Fa:2]nuits  
+[Fa:2]Au Lambrusco Sor[La(V):2]bara ce [Ré7(V):2]bar de Lombar[Solm:2]die  
+Entre un [Solm:2]parfum de [Do7(III):2]Parme et un [Do7(III):2]air de Ver[La(V):2]di  
   
 Réno, le grand Réno revenant de Toscane  
 T'enlace dans son bras ma belle Romagne  

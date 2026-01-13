@@ -4,16 +4,16 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Jean-Pierre Rosnay - Musique : Gilles Maire
+[Ré(V):2][La(V):2][Sim:2][Sol(III):2][La(V):2][Ré(V):2]  
   
-  
-Ô mes amours inachevées,  
-Ô mes discrètes passagères,  
-Mon placard rempli de poupées  
-Mes promeneuses linéaires  
-J'ai mal de vous par la pensée  
-L'amour c'est quand on se souvient  
-C'est quand le bal est terminé  
-Que l'orchestre joue pour les siens...  
+Ô mes [Ré(V)]amours inache[La(V)]vées,  
+Ô mes discrètes passa[Sim]gères,  
+Mon placard rempli de pou[Sol#]pées  
+Mes promeneuses liné[Mi7(VII)]aires  
+J'ai mal de vous par la pen[La(V)]sée  
+L'amour c'est quand on se sou[Sol#]vient  
+C'est quand le bal est termi[Mi]né  
+Que l'orchestre joue pour les [La(V)]siens...  
   
 La première était Espagnole  
 Et possédait quatre prénoms  

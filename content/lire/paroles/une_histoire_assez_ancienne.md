@@ -4,18 +4,22 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-C'est une histoire assez ancienne,  
-Du temps où j'étais marmot,  
-Loin de mes années parisiennes,  
-Quand j'allais à école à Pau.  
-J'étais bien loin des forts en thèmes,  
-Même si j'aimais déjà les mots,  
-J'écrivais mes premiers poèmes,  
-En c]piant les vers de Rimbaud.  
-« Adiu Gilles quin te va ?»  
-« Que va et que va plan,  
-Jo que serei Trobador  
-Per trobar un drin d'amor »  
+C'est [Fam]une histoire assez an[Sibm]cienne,  
+Du temps [Do7(III)]où j'étais mar[Fam]mot,  
+Loin [Fam]de mes années pari[Sibm]siennes,  
+Quand j'al[Do7(III)]lais à école à [Fam]Pau.  
+J'é[Fa#]tais bien loin des forts en [Do7(III)]thèmes,  
+Même si j'ai[Sol#]mais déjà les [Do7(III)]mots,  
+J'é[Fam]crivais mes premiers po[Sibm]èmes,  
+En c[Do9]]piant les vers de Rim[Fam]baud.  
+
+
+**Refrain:**
+
+« Adiu [Sibm]Gilles quin te [Do7(III)x2]va ?»  
+« Que va et que va [Fam]plan,  
+Jo que se[Sibm]rei Troba[Do7(III)x2]dor  
+Per trobar un drin d'a[Fam]mor »  
   
 La mode n'était cette année-là,  
 Pas aux cancres, pas aux nigauds,  

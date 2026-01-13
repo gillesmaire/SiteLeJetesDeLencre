@@ -4,22 +4,26 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Il y a des jours  
-Où nos amours  
-Mon pauvre Lancelot  
-Ont des faux airs de Waterloo  
-Elle t'avait plu  
-Mais il a plu  
-Les grêlons sur ton âme  
-Ont étouffé toutes tes flammes  
-Ne t'en fais pas  
-Le temps c'est pas  
-Toujours noir toujours gris  
-Mon pauvre ami mon Mistigri  
-On ne sait pas  
-Où vont nos pas  
-On marche dans la nuit  
-On arrive et le soleil luit  
+Il y [Dom(III):2]a des [Fam:2]jours  
+[Fam:2]Où nos a[Dom(III):2]mours  
+Mon [Dom(III):2]pauvre Lance[Sol(III):2]lot  
+Ont des [Sol(III):2]faux airs de [Dom(III):2]Waterloo  
+Elle [Do(III):2]t'avait [Fam:2]plu  
+Mais [Fam:2]il a[Dom(III):2] plu  
+Les [Dom(III):2]grêlons sur ton [Sol(III):2]âme  
+Ont [Sol(III):2]étouffé toutes tes [Dom(III):2]flammes  
+
+
+**Refrain:**
+
+Ne [Sib(VI)]t'en fais pas  
+Le [Mib(VI)]temps c'est pas  
+Tou[Solm(III):2]jours noir toujours [Dom(III):2]gris  
+Mon pauvre a[Sol(III):2]mi mon Misti[Dom(III):2]gri  
+On [Sib(VI)]ne sait pas  
+Où [Lab(VI)]vont nos pas  
+On [Solm(III):2]marche dans la [Dom(III):2]nuit  
+On arrive [Sol(III):2]et le soleil luit[Dom(III):2]  
   
 Ta dame de coeur  
 Aime tes fleurs  

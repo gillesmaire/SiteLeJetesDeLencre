@@ -12,6 +12,10 @@ Celle-ci commanda des spaghetti
 Qui demandent adresse et appétit  
 Tant de filles ont un appétit d'oiseau  
 Qu'on leur compte sous la peau les os  
+
+
+**Refrain:**
+
 Une fille qui aime les pâtes  
 Ça vous épate, ça vous épate  
 Une fille qui aime les pâtes  

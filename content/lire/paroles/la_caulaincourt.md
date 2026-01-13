@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Y a la Caulaincourt qui court derrière Montmartre,  
-Quand Constantin Pecqueur lorgne la bouche en coeur,  
-La Lamarck qui s'élance vers l'église d'albâtre,  
-Que les escaliers coupent à pic sur Sacré-Coeur.  
+Y a [La(V)]la Caulain[Rém(V)]court qui court [La(V)]derrière Mont[Rém(V)x2]martre,  
+Quand Cons[Ré7(V)]tantin Pec[Solm]queur lorgne la [Do7(III)]bouche en [La(V)x2]coeur,  
+La La[Rém(V)]marck qui s'é[Do(VIII)x2]lance vers l'église d'al[Sibx2]bâtre,  
+Que les [Do(VIII)]escaliers [Sib]coupent à [La(V)]pic sur Sacré-[Rém(V)x2]Coeur.  
   
 Eugène Carrière fait sa statue de pierre,  
 Détournant le regard de sa lourde palette,  
