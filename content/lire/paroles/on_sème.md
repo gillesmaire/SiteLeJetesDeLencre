@@ -4,20 +4,20 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-[Ré(V)]On sème, on sème, on sème  
-[Réb(IV)]Sans savoir ce qu'on sème  
-[Ré(V)]La semence est-elle saine  
-[Réb(IV)]Sera-t-elle incertaine ?  
-C'est [Sim]la vie qui se charge  
-De [Fa#m]faire grandir les hommes  
-Les [Réb9]chemins à la marge  
-Ne [Fa#]mènent pas à Rome  
-C'est [Sim]à la fin qu'on sait  
-Où [Fa#m]menaient nos envols  
-Si la [Réb9]route en lacets  
-Con[Fa#]duisait au bon col  
-A[Sol(III)]vant, on ne sait[Réb(IV)] pas  
-A[Sol#]vant, on ne sait[Réb(IV)] pas  
+On sème, on sème, on sème  
+Sans savoir ce qu'on sème  
+La semence est-elle saine  
+Sera-t-elle incertaine ?  
+C'est la vie qui se charge  
+De faire grandir les hommes  
+Les chemins à la marge  
+Ne mènent pas à Rome  
+C'est à la fin qu'on sait  
+Où menaient nos envols  
+Si la route en lacets  
+Conduisait au bon col  
+Avant, on ne sait pas  
+Avant, on ne sait pas  
   
 Qu'on chante ou qu'on déchante  
 Les chansons qui nous hantent  

@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-[Rém(V)]Je m'ennuie d'un musicien qui [Solm:2]compte le temps qui [Do7(III):2]passe ;  
-Moi [Do7(III):2]ce dont j'ai l'en[Fa:2]vie, c'est du [Fa:2]temps qui me [La(V):2]reste,  
-A [La(V):2]t'écouter dan[Ré7(V):2]ser ces [Ré7(V):2]mots que t'entre[Solm:2]laces,  
-[Solm:2]Qui chantent les cha[Do7(III):2]grins que tu es[Do7(III):2]suies d'un [La(V):2]geste.  
+Je m'ennuie d'un musicien qui compte le temps qui passe ;  
+Moi ce dont j'ai l'envie, c'est du temps qui me reste,  
+A t'écouter danser ces mots que t'entrelaces,  
+Qui chantent les chagrins que tu essuies d'un geste.  
   
 Un poète ça compte ses pieds pour voir s'ils tombent,  
 Le ciel à la marelle, se court à cloche-pied ;  

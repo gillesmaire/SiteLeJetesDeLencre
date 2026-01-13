@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Ça [Do7(III):2]ait une sacrée [Fa:2]paye que t'es par[Sib7:2]ti aux [Ré#7:2]cieux  
-J'ai [Sol#:2]bien relu les [Do#7:2]lettres que t'écri[Sol:2]vais mon [Do7]vieux  
-Ce soir comme tous les [Fa:2]soirs, tu vois je [Sib7:2]te ré[Ré#7:2]ponds  
-Un [Sol#:2]peu comme je [Do#7:2]peux, du fond de [Sol(III):2]mes chan[Do7:2]sons.  
+Ça ait une sacrée paye que t'es parti aux cieux  
+J'ai bien relu les lettres que t'écrivais mon vieux  
+Ce soir comme tous les soirs, tu vois je te réponds  
+Un peu comme je peux, du fond de mes chansons.  
   
 Depuis que t'es plus là, il se passe ici-bas  
 Des choses dégueulasses mais vois-tu, cher papa,  

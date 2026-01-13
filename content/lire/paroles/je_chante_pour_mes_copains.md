@@ -4,17 +4,17 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-[Rém(V):2] [Do7(III):2] [Fa7(VIII):2] [La#7(VI):2]  
-[Do(VIII):2] [La7(V):2] [La7(V)] [Rém(V):2]  
-[Do7(III):2] [Fa7(VIII):2] [La#7(VI):2] [Do(VIII):2] [La7(V)] [Rém(V)]  
-Je [Ré7(V)]chante juste pour mes co[Solm]pains  
-Je chante comme un turlu[Fax2]pin  
-Si je ne chante pas [La7(V)]juste  
-Ils ont l'oreille ro[Rém(V)]buste  
-Je ne [Ré7(V)]chante que pour mes [Solm]copains  
-Pas pour un quelconque ru[Fax2]pin  
-Qui se remplirait les [La7(V)]poches  
-Au son de mes doubles [Rém(V)]croches  
+  
+  
+  
+Je chante juste pour mes copains  
+Je chante comme un turlupin  
+Si je ne chante pas juste  
+Ils ont l'oreille robuste  
+Je ne chante que pour mes copains  
+Pas pour un quelconque rupin  
+Qui se remplirait les poches  
+Au son de mes doubles croches  
   
 Je chante pour les femmes des copains  
 Des perles de perlimpinpin  

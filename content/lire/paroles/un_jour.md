@@ -4,30 +4,30 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Un [Rém(V)x2]jour  
-Toi tu me verras débar[Solm]quer  
-Un [Do7(III)x2]jour  
-Moi je viendrai te racon[Fa]ter  
-Le [Rém(V)x2]mal  
-Que malgré moi, je t'avais [Solm]fait:  
-Pas [Do7(III)x2]mal  
-D'amours déçus, d'amours [La7(V)]brisés ;  
-Bien [Rém(V)x2]pire  
-Les bons amis que j'ai tra[Solm]his  
-Sans [Do7(III)x2]dire  
-Ce qui aurait pu être [Fa]dit.  
-J'ai [Rém(V)x2]eu  
-De beaux succès au fil des [Solm]ans,  
-Mais [Do7(III)x2]eu  
-Tant de peines, tant de tour[La7(V)]ments....  
+Un jour  
+Toi tu me verras débarquer  
+Un jour  
+Moi je viendrai te raconter  
+Le mal  
+Que malgré moi, je t'avais fait:  
+Pas mal  
+D'amours déçus, d'amours brisés ;  
+Bien pire  
+Les bons amis que j'ai trahis  
+Sans dire  
+Ce qui aurait pu être dit.  
+J'ai eu  
+De beaux succès au fil des ans,  
+Mais eu  
+Tant de peines, tant de tourments....  
 
 
 **Refrain:**
 
-Peut-[Rém(V)]être que tu me pardonne[Solm]ras  
-Comme [Do7(III)]on pardonne à ceux qu'on [Fa]aime  
-Peut-[Rém(V)]être même tu compren[Solm]dras  
-Ma [Do7(III)]vie, un coup je fuis, un coup je [La7(V)]t'ai[Rém(V)]me  
+Peut-être que tu me pardonneras  
+Comme on pardonne à ceux qu'on aime  
+Peut-être même tu comprendras  
+Ma vie, un coup je fuis, un coup je t'aime  
   
 Ce soir  
 J'aurais eu le temps de venir  

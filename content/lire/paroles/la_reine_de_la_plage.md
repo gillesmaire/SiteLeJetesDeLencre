@@ -4,18 +4,18 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geoffray Milleret
-La voi[Lamx2]ci qui arrive  
+La voici qui arrive  
 Se dévêt sur la rive  
-N'exhi[Mi7x2]bant qu'un maillot  
-Sous le re[Lamx2]gard des hommes  
+N'exhibant qu'un maillot  
+Sous le regard des hommes  
 Qui l'admirent tout comme  
-S'ils voy[Mi7x2]aient un joyau  
-Sans mê[Fax2]me prendre garde  
+S'ils voyaient un joyau  
+Sans même prendre garde  
 A l'oeillade égrillarde  
-Sur le [Mi7x2]bas de son cou  
-Elle ex[Fax2]pose ses formes,  
+Sur le bas de son cou  
+Elle expose ses formes,  
 ses deux pommes énormes  
-En font [Mi7x2]rêver beaucoup  
+En font rêver beaucoup  
   
 Cette dame un peu mûre  
 Déclenche les murmures  

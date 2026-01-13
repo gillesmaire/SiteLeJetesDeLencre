@@ -4,18 +4,18 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-C'é[G#]tait au temps des gramo[C7(III)]phones  
-Au[F(VIII)] temps des danseurs Charle[A#(VI)]ston  
-Qu'on[Eb7(VI)] pouvait l'entendre chan[C7(III)]ter  
-Sur[Db7(IV)] les disques de chez [A#(VI)]Pathé  
+C'était au temps des gramophones  
+Au temps des danseurs Charleston  
+Qu'on pouvait l'entendre chanter  
+Sur les disques de chez Pathé  
 En soixante dix huit tours elle vint  
 Dans les salons mille neuf cent vingt  
 La belle Emma Liébel aima  
 La chanson dans les grands formats  
   
-[G#:2][C7(III):2][F(VIII):2] [A#(VI)]  
-[Eb7(VI)][G#:2][F][A#(VI)]  
-[D#7(VII)][G#:2][G#]  
+  
+  
+  
   
 Elle chantait: «Pars sans te retourner  
 D'autres sauront bien me venger  

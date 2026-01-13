@@ -4,22 +4,22 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-[Lam6(IV)]Pour s'acheter un pia[Sim6(VI)]no,  
-[Mi7(VII)]Des amplis et des micros, [Lam6(IV):2][Sol#m6(III):2]  
-[Lam6(IV)]À la banque on est al[Sim6(VI)]lé,  
-[Mi7(VII)]Pas pour demander un prêt,[Lam6(IV):2][Sol#m6(III):2]  
-[Dom6(V)]Mais avec des bas de [Sim6(VI)x2]soie  
-Et des pistolets en [Lam6(IV)x2]bois ;  
-On a fait un casse ! [Lam6(IV):2][Sol#m6(III):2]  
+Pour s'acheter un piano,  
+Des amplis et des micros,  
+À la banque on est allé,  
+Pas pour demander un prêt,  
+Mais avec des bas de soie  
+Et des pistolets en bois ;  
+On a fait un casse !  
 
 
 **Refrain:**
 
-[Lam6(IV):2]Les jetés de [Sim6(VI):2]l'encre,  
-[Mi7(VII)]On n'est pas mauvais garçons,[Lam6(IV):2][Sol#m6(III):2]  
-[Lam6(IV):2]Mais ce qui nous [Sim6(VI):2]manque,  
-[Mi7(VII)]C'est un peu de pognon.[Lam6(IV):2][Sol#m6(III):2]  
-[Lam6(IV):2][Sol#m6(III):2][Lam6(IV):2][Sol#m6(III):2]  
+Les jetés de l'encre,  
+On n'est pas mauvais garçons,  
+Mais ce qui nous manque,  
+C'est un peu de pognon.  
+  
   
 En partant à la guichetière,  
 Qui avait de beaux yeux verts,  

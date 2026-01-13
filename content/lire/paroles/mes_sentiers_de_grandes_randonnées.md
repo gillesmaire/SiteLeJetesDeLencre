@@ -5,12 +5,12 @@ sidebar_left: sidebar
 
 ##  Paroles et musique : Gilles Maire
   
-Je [A(V)]me souviens mon père ja[C#(IV)]dis  
-[F#]M'emmenait sur le GR[B-]10  
-Dans les vallées d'Aspe et d'O[G#]ssau  
-Dans un parfum de liber[A(V)]té  
-Et on marchait et on chan[B(VII)]tait  
-Comme [E(VI)]c'était bien comme c'était [A(V)]beau  
+Je me souviens mon père jadis  
+M'emmenait sur le GR10  
+Dans les vallées d'Aspe et d'Ossau  
+Dans un parfum de liberté  
+Et on marchait et on chantait  
+Comme c'était bien comme c'était beau  
   
 De Boulogne jusqu'à Melun  
 J'ai emprunté le GR1  

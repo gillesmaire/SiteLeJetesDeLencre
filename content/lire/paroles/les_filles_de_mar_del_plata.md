@@ -4,24 +4,24 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-[Mim(VII)]Gardant la main gauche en [Si(VII)x2]arrière  
-Deux musiciens des quartiers [Mim(VII)]nôtres  
-À la [Mi7(VII)]main droite une lame en [Lam(V)x2]fer  
-Ils tournent autour l'un de l'[Mim(VII)x2]autre  
-Et lavent l'ignominieux af[Do(VIII)]front  
-D'un [Si(VII)]qui n'a pas baissé le [Mim(VII)]front  
+Gardant la main gauche en arrière  
+Deux musiciens des quartiers nôtres  
+À la main droite une lame en fer  
+Ils tournent autour l'un de l'autre  
+Et lavent l'ignominieux affront  
+D'un qui n'a pas baissé le front  
 
 
 **Refrain:**
 
-L'un dansait contre [Lam(V)]toi  
-Te ser[Ré7(V)]rant sur son [Sol(III)x2]col  
-Quand l'autre entre ses [Si(VII)x2]doigts  
-Serrait son verre d'al[Mim(VII)]cool  
-[Mi7(VII)]T'avais couvé des [Lam(V)]yeux  
-[Ré7(V)]Le plus jeune des [Sol(III)x2]deux  
-T'avais refusé son [Fa]tango  
-Au plus [Si(VII)]vieux des deux hidal[Mim(VII)x2]gos  
+L'un dansait contre toi  
+Te serrant sur son col  
+Quand l'autre entre ses doigts  
+Serrait son verre d'alcool  
+T'avais couvé des yeux  
+Le plus jeune des deux  
+T'avais refusé son tango  
+Au plus vieux des deux hidalgos  
   
 L'un sait jouer à la guitare  
 Tous les plus beaux airs de Gardel  

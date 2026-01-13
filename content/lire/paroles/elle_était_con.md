@@ -4,31 +4,31 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Elle aimait [Sim:2]Enrico Ma[Mim(VII):2]cias  
-Je n'lui res[La(V):2]semblais pas hé[Ré7(V):2]las  
-Elle m'faisait por[Sol(III):2]ter des bigou[Do7(III):2]dis  
-Chanter les [Fa#]filles de mon pays  
-Sans au[Sim:2]cune idée poli[Mim(VII):2]tique  
-Elle aurait vo[La(V):2]té même pour un [Ré7(V):2]flic  
-Un minis[Sol(III):2]tre de l'inté[Do7(III):2]rieur  
-L'était gi[Fa#]vrée sauf d'l'extérieur  
+Elle aimait Enrico Macias  
+Je n'lui ressemblais pas hélas  
+Elle m'faisait porter des bigoudis  
+Chanter les filles de mon pays  
+Sans aucune idée politique  
+Elle aurait voté même pour un flic  
+Un ministre de l'intérieur  
+L'était givrée sauf d'l'extérieur  
   
 
 
 **Refrain:**
 
-Elle était [Sim:2]con  
-Mais avait un [Mim(VII):2]cul,  
-Qui faisait [La(V):2]qu'on  
-Était convain[Ré7(V):2]cu  
-Qu'il fallait [Sol(III):2]qu'on  
-L'em[Do7(III):2]bra[Fa#]sse  
-Comme la Jo[Sim:2]con  
--d'elle était [Mim(VII):2]belle  
-Mais elle était [La(V):2]con  
-Comme un violon[Ré7(V):2]celle  
-Comme une [Sol(III):2]con-  
--tre[Fa#:2]ba[Sim]sse  
+Elle était con  
+Mais avait un cul,  
+Qui faisait qu'on  
+Était convaincu  
+Qu'il fallait qu'on  
+L'embrasse  
+Comme la Jocon  
+-d'elle était belle  
+Mais elle était con  
+Comme un violoncelle  
+Comme une con-  
+-trebasse  
   
 A l'enterrement d'un de mes amis  
 Elle pleurait plus que nous réunis  

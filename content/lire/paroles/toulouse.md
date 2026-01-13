@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Ça [Sol(III):2]fait trente ans de [Fa#:2]toi que j'ai [Mi°7(VI):2]pris mon en[Si7(VI):2]vol  
-En [La7(IV):2]gare de Mata[Mim6(IV):2]biau dans un train [Fa#°7(VIII):2]Capi[Mim(VII):2]tole  
-Dans [Mim(VII):2]l'esquisse d'un [Fa#:2]geste, me voi[Fa#:2]ci qui te [Sim:2]signe  
-Quel [Sim:2]ques vieux souve[Mi°7(VI)]nirs enfouis en[Do7°(IV):2]tre ces [Fa#:2]lignes  
+Ça fait trente ans de toi que j'ai pris mon envol  
+En gare de Matabiau dans un train Capitole  
+Dans l'esquisse d'un geste, me voici qui te signe  
+Quel ques vieux souvenirs enfouis entre ces lignes  
   
 Dis-moi comment on va de Rangueil aux Minimes.  
 Bagatelle rape-t-elle en rimes ou en déprime ?  

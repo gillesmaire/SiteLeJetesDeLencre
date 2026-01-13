@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geoffray Milleret
-Ce que je [Mim(VII)x2]suis n'a plus beaucoup d'impor[Sol(III)x2]tance  
-Que je vive au Pé[Six2]rou, au Brésil, ou en [Mim(VII)x2]France,  
-Et que je sois le fils de rien ou roi d'Es[Sol(III)x2]pagne,  
-Je suis un rê[Six2]veur que la sagesse é[Mim(VII)x2]pargne.  
+Ce que je suis n'a plus beaucoup d'importance  
+Que je vive au Pérou, au Brésil, ou en France,  
+Et que je sois le fils de rien ou roi d'Espagne,  
+Je suis un rêveur que la sagesse épargne.  
 Quand j'écrivais en vers ou bien était-ce en prose  
 Je vous ai vu un soir, entre mille autres choses,  
 Vous m'aviez donné un morceau de papier,  

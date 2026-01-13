@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-On [Rém(V)]nous parle aujourd'hui de rallon[Mi°7(III)]ger nos vies  
-De [La7(IV)]plus de cinquante [Rém6]ans...  
-Pour [Solm6] moi c'est un peu tard car j'ai déjà viei[Mi°7(VI)]lli  
-Je v[La#7(V):2]is mes [La7(IV):2] derniers [Rém(V)]temps  
+On nous parle aujourd'hui de rallonger nos vies  
+De plus de cinquante ans...  
+Pour moi c'est un peu tard car j'ai déjà vieilli  
+Je vis mes derniers temps  
   
 J'en ai tellement vu des marchands d'infini  
 Apôtres ou charlatans  

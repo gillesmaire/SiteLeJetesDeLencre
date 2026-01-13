@@ -4,13 +4,13 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-[Rém(V)]Je m'étais rangé des amou[La7(IV)x2]rettes  
-J'avais raccroché mon arba[Rém(V)]lète  
-[Ré7(V)]Et ma tenue [Ré7(V):2]de cha[Solm]sseur  
-[Rém(V)]C'était dans la poussière d'un gre[La7(IV)x2]nier  
-Au milieu des livres et des ca[Rém(V)]hiers  
-[Mi9(VI)]Que j'avais [Mi9(VI):2]monté mon [Rém(V)]coeur  
-[Solmx2] [Rém(V)x2] [La7(IV)x2] [Rém(V)x2]  
+Je m'étais rangé des amourettes  
+J'avais raccroché mon arbalète  
+Et ma tenue de chasseur  
+C'était dans la poussière d'un grenier  
+Au milieu des livres et des cahiers  
+Que j'avais monté mon coeur  
+  
   
 Comme une pendule qui a perdu  
 Son balancier, les aiguilles tordues  

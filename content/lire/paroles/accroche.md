@@ -4,19 +4,19 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-[Sol(III)] [Ré(V)] [La7(IV)] [Ré(V)] [La7(IV)] [Ré(V)]  
-Si tu [Ré(V)x2]vois qu'à ton cou elle s'accroche  
-Embrasse-[La7(IV)]la sur la [Ré(V)]joue  
-Ne crois pas[Ré(V)x2] que ce soit dans la poche  
-Les filles [La7(IV)] sont pas comme [Ré(V)]nous  
+  
+Si tu vois qu'à ton cou elle s'accroche  
+Embrasse-la sur la joue  
+Ne crois pas que ce soit dans la poche  
+Les filles sont pas comme nous  
 
 
 **Refrain:**
 
-Elles [Sol(III)]sont senti[Ré(V)]mentalo  
-Surtout [La7(IV)]ne va pas trop [Ré(V)]vite  
-Nous on [Sol(III)]est juste [Ré(V)]mélanco  
-[La7(IV)]Quand on boit ou qu'elles nous [Ré(V)]quittent  
+Elles sont sentimentalo  
+Surtout ne va pas trop vite  
+Nous on est juste mélanco  
+Quand on boit ou qu'elles nous quittent  
 Si tu vois qu'elle te tend la joue gauche  
 Glisse-lui un mot doux  
 Ne va pas trop vite dans l'approche  
