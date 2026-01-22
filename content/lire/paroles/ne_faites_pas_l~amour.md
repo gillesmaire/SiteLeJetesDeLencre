@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-Ne [Ab7(III)]faites pas l'amour en [C9]lavant les assiettes  
-Ne [C7(VII)]mélangez pas les tor[Eb9(V)]chons et les serviettes  
-Ne [Ab7(III)]faites pas l'amour comme [F9(VII)]on fait la cuisine  
-Évi[Bb7(V)]tez les patins rou[Eb9(V)]lés dans la farine  
-Et [Ab7(III)]si vous n'écoutez pas [F9(VII)]ces paroles  
-Vous [Bb7(V)]finirez à coups de casse[Db9(III)]roles  
+Ne faites pas l'amour en lavant les assiettes  
+Ne mélangez pas les torchons et les serviettes  
+Ne faites pas l'amour comme on fait la cuisine  
+Évitez les patins roulés dans la farine  
+Et si vous n'écoutez pas ces paroles  
+Vous finirez à coups de casseroles  
   
 Ne vous trompez jamais dans le prénom des dames  
 Mélangez pas Laura, Marinella, Myriam  

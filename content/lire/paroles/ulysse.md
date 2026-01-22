@@ -4,22 +4,22 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-De [Rém(V)]retour en te[Rém(V):2]rre d'[La7(V):2]Ithaque  
-La [La7(V)]terre où jadis [La7(V):2]il rê[Rém(V):2]va  
-Il [Rém(V)]n'a pas eu droit [Rém(V):2]à la [La7(V):2]claque  
-Aux [La7(V)]«bonjours», aux «com[La7(V):2]ment ça-[Rém(V):2]va?»  
-Pas [Fa]une qui vous [Fa:2]saute au [Do7(III):2]cou  
-Pas [Do7(III)]une qui vous chau[Do7(III):2]ffe au [Rém(V):2]coeur  
-Pas [Do7(III)] une, pas mê[Do7(III):2]me sa [La7(V):2]soeur  
-Fi[Do7(III)]nis les baisers, [Do7(III):2]les yeux [Rém(V):2]doux  
+De retour en terre d'Ithaque  
+La terre où jadis il rêva  
+Il n'a pas eu droit à la claque  
+Aux «bonjours», aux «comment ça-va?»  
+Pas une qui vous saute au cou  
+Pas une qui vous chauffe au coeur  
+Pas une, pas même sa soeur  
+Finis les baisers, les yeux doux  
 
 
 **Refrain:**
 
-Comme il est [Fa]triste [F:2]l'U[Do7(III):2]lysse  
-[Do7]De retour au pays [Do7:2]des [Rém(V):2]siens  
-De [Rém(V)]ne trouver des [Rém(V):2]yeux qui [Do7(III):2]puissent  
-Accuei[Rém(V)]llir l'homme [Rém(V):2]qui re[Rém(V):2]vient  
+Comme il est triste l'Ulysse  
+De retour au pays des siens  
+De ne trouver des yeux qui puissent  
+Accueillir l'homme qui revient  
   
 Arpentant des terres lointaines  
 De centimètre en sentiment  

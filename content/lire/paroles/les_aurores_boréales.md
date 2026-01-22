@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-J'ado[Lam:2]rais le bolé[Mim:2]ro  
-De Ra[Fa:2]vel  
-Que grand [Sol(III):2]mère jouait au pia[Do7(III):2]no  
-Les au[Si7:2]rores boré[Mim:2]ales  
-Qu'elle pei[La7:2]gnait en aqua[Sol(III):2]relle  
-Les ba[Fa#:2]lades près du ca[Si7]nal  
+J'adorais le boléro  
+De Ravel  
+Que grand mère jouait au piano  
+Les aurores boréales  
+Qu'elle peignait en aquarelle  
+Les balades près du canal  
   
 Avec toi comme c'était drôle  
 La marelle  

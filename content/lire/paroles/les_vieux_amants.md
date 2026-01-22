@@ -4,16 +4,16 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-Tu [Ré7(V):2]m'as croisé un [Solm:2]jour  
-En [Ré7(V):2]sortant de tes [Solm:2]cours  
-Ton [Sol7(III)]cartable à la main  
-Moi [Sol7(III):2]avec des co[Dom(III):2]pains  
-À [Dom(III)]la terrasse d'un bar  
-Je [Solm]jouais à la guitare  
-[La(V)]Quelques accords per[Ré7(V)]dus  
-Et[Dom] j'ai vu dans tes yeux  
-[Solm]Un petit air joyeux  
-[Ré7(V)]Qui ne m'a pas dé[Solm]plu  
+Tu m'as croisé un jour  
+En sortant de tes cours  
+Ton cartable à la main  
+Moi avec des copains  
+À la terrasse d'un bar  
+Je jouais à la guitare  
+Quelques accords perdus  
+Et j'ai vu dans tes yeux  
+Un petit air joyeux  
+Qui ne m'a pas déplu  
   
 Un soir tu es restée  
 Pour m'écouter chanter  

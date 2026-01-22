@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Quand [Rém(V):2]je l'ai vue pas[Solm:2]ser  
-Je m'suis mis [Do(III):2]à chan[Fa:2]ter  
-[Mi7]La la la la la la la[Mi7:2] la la [La(V):2]la  
-Quand [Rém(V):2]elle m'a vu chan[Solm:2]ter  
-Elle s'est [Do(III):2]mise à dan[Fa:2]ser  
-[La(V)]La la la la la la la [La(V):2]la la [Rém(V):2]la  
+Quand je l'ai vue passer  
+Je m'suis mis à chanter  
+La la la la la la la la la la  
+Quand elle m'a vu chanter  
+Elle s'est mise à danser  
+La la la la la la la la la la  
   
 Derrière celle qui dansait  
 Nous autres on a marché  

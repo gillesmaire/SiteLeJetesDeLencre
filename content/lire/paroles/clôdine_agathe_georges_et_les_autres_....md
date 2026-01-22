@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Ce [Simx2]n'est un secret pour per[Sol(III)x2]sonne  
-Entre tous [La(V)x2]ceux que j'affec[Ré(V)x2]tionne  
-S'il en est un [Do#x2]pour qui j'en [Fa#x2]pince  
-Me[Mi(VII)x2]ssieurs mesdames c'est pour Bra[La(V)x2]ssens  
+Ce n'est un secret pour personne  
+Entre tous ceux que j'affectionne  
+S'il en est un pour qui j'en pince  
+Messieurs mesdames c'est pour Brassens  
   
 Je ne l'ai jamais vu sur scène  
 Mais de Sète à Paris sur Seine  

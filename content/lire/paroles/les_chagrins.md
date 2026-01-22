@@ -4,13 +4,13 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-[Sol#:2]Nos sourires se [Do7:2]perdent  
-[Fa:2]Ou viennent parfois un peu trop [Sibm:2]tard  
-[Sol]Le bar de l'amour [Do7]ferme  
+Nos sourires se perdent  
+Ou viennent parfois un peu trop tard  
+Le bar de l'amour ferme  
 Et nos trains se trompent de gare  
-Dans nos [Sol#]chagrins  
-Dans nos [Sol]chagrins  
-Dans nos [Do]chagrins  
+Dans nos chagrins  
+Dans nos chagrins  
+Dans nos chagrins  
   
 La mort tombe à la mer  
 La mère du petit mousse pleure  

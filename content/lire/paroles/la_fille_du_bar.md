@@ -4,14 +4,14 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Ce [Sol(III)]soir je meurs de mes tem[Si7x2]pêtes  
-Qu'on m'apporte encore quelques [Do7(III)x2]verres  
-Qu'importe si mon coeur s'ar[Sol(III)]rête  
-Si je [Fa#]pars les pieds à l'en[Si7x2]vers  
-Je ne suis pas ivre mais [Sol(III)x2]saoul  
-A vivre sens dessus-des[Fa#x2]sous  
-Je bois la tasse et puis je [Sol(III)x2]plonge  
-Dans ce chagrin qui me [Fa#]ronge  
+Ce soir je meurs de mes tempêtes  
+Qu'on m'apporte encore quelques verres  
+Qu'importe si mon coeur s'arrête  
+Si je pars les pieds à l'envers  
+Je ne suis pas ivre mais saoul  
+A vivre sens dessus-dessous  
+Je bois la tasse et puis je plonge  
+Dans ce chagrin qui me ronge  
   
 Qui c'est qui a dit que les garçons  
 Étaient fragiles de la cédille;  

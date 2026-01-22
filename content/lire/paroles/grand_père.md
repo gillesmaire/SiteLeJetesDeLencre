@@ -4,19 +4,19 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-[A#][D#][D(V)][G(III)]  
   
-Tu tiens [Cm(III)]maintenant la [Fm]main  
-D'un ga[A#]min sur ton che[D#]min  
-Qui te [D]dit t'es mon pa[G(III)]py  
-T'es mon [Cm:2]papy [G(III):2]pour la [Cm]vie  
-Lui a[Cm(III)]vec ses jambes [Fm]courtes  
-Toi a[A#]vec tes jambes [D#]gourdes  
-Vous mar [Cm:2]chez d'un [G(III):2]même [Cm] pas  
-D'un pas[Cm:2] qui ne s'en[G(III):2] fait [Cm]pas  
   
-Tout doux [A#]toux doux tout doux tout [D#]doux  
-Tout doux [D(V)]toux doux tout doux tout [G(III)]doux  
+Tu tiens maintenant la main  
+D'un gamin sur ton chemin  
+Qui te dit t'es mon papy  
+T'es mon papy pour la vie  
+Lui avec ses jambes courtes  
+Toi avec tes jambes gourdes  
+Vous mar chez d'un même pas  
+D'un pas qui ne s'en fait pas  
+  
+Tout doux toux doux tout doux tout doux  
+Tout doux toux doux tout doux tout doux  
   
 Tu lui parles de ton enfance  
 Du temps de ton insouciance  

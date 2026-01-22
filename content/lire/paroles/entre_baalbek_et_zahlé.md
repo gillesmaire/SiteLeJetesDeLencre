@@ -4,14 +4,14 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et Musique : Gilles Maire
-Re[Mim(VII)]voir un vieil ami d'en[Si7(V)x2]fance  
-C'est revoir sa vie défi[Mim(VII)x2]ler  
-C'est voir qu'on est passé par [Do(VIII)]chance  
-Entre les [Si(VIII)]mailles du fi[Mim]let  
-On est heu[Lam(VI)]reux[Lam(VI):2]  
-On a ga[Mim(VII):2]gné[Mim(VII)]  
-Quelques heu[Do(VIII)x2]res  
-[Mim:2]D'éterni[Si(VII)x2]té  
+Revoir un vieil ami d'enfance  
+C'est revoir sa vie défiler  
+C'est voir qu'on est passé par chance  
+Entre les mailles du filet  
+On est heureux  
+On a gagné  
+Quelques heures  
+D'éternité  
   
 On savoure les mêmes silences  
 On n'a pas besoin de parler  
