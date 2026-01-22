@@ -4,14 +4,14 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-Vous n'entendrez jamais  
-Cette chanson d'amour  
-Vous que j'ai tant aimés  
-Pour le temps d'un détour  
-Vous qui m'avez connu  
-Lorsque j'étais ti)mide  
+[Mi(VII)]Vous n'entendrez ja[La(V)]mais  
+[Do#(III)]Cette chanson d'a[Fa#]mour  
+Vous que j'ai tant [Si7]aimés  
+Pour le temps d'un [Sol#]détour  
+Vous qui m'avez con[La(V)]nu  
+Lorsque j'étais ti[Si(VII)]mide  
 M'avez vous déjà vu  
-Les yeux aussi humides ?  
+Les yeux aussi hu[Mi(VII)]mides ?  
   
 Si nous avions dansé  
 Comme on danse au printemps  

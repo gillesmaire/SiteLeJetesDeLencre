@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles: Gilles Maire - Musique : Geoffray Milleret
-Au début ils disaient qu'on allait se réchauffer  
-Les savants nous parlaient d'un air catastrophé  
-Ils nous montraient des ours mourant sur la banquise  
-Ils avaient annoncé le début des heures de crise  
-Ils disaient qu'on aurait un désert à Marseille  
-Que bientôt à Paris, il ferait toujours soleil  
+Au [Sol#]début ils disaient qu'on allait se [Dom]réchauffer  
+Les [Sol#]savants nous parlaient d'un air ca[Dom]tastrophé  
+Ils [La#]nous montraient des ours mou[Rém(V)]rant sur la banquise  
+Ils a[Fam(VIII)]vaient annoncé le début des [Dom]heures de crise  
+Ils [Sol(III)]disaient qu'on aurait un [Dom]désert à Marseille  
+Que [Sib]bientôt à Paris, il ferait toujours so[La(V)]leil  
   
 Mais un jour en hiver, il s'est mis à neiger  
 A neiger nuit et jour jusqu'au mois de juillet  

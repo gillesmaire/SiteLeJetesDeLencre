@@ -4,22 +4,22 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Une bille qui court  
-Au fond de la cour  
-La cloche qui sonne  
-Un gamin bougonne  
-Le temps pendant les cours  
-Parait long ça m'étonne  
-Que la récré nous donne  
-Cet air tellement court  
+Une[Sol#m:2] bille qui [Do#m:2]court  
+Au [Ré#7:2]fond de la [Sol#m:2]cour  
+La [Do#m:2]cloche qui [Fa#:2]sonne  
+Un ga[Si7:2]min bou[Sol#7:2]gonne  
+Le [Do#m:2]temps pendant les [Fa#:2]cours  
+Parait [Si7:2]long ça m'é[Sol#:2]tonne  
+Que la [Do#7:2]récré nous [Fa#:2]donne  
+Cet [Fa#:2]air tellement [Si7:2]court  
 
 
 **Refrain:**
 
-Court court court court  
-Le temps est taillé trop court  
-Court court  
-Trop court même si tu cours  
+[Do#m:2]Court [Ré#7:2]court [Sol#m:2]court [Do#m:2]court  
+[Ré#7:2]Le temps est tail[Sol#m:2]lé trop [Do#m:2]court  
+[Ré#7:2]Court [Sol#m:2]court  
+[Do#m:2]Trop court mê[Ré#7:2]me si tu [Sol#mx2]cours  
   
 Un sourire qui court  
 Au fond de la cour  

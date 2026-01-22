@@ -4,10 +4,10 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et Musique : Gilles Maire
-Pour se forger la carcasse  
-On levait de grosses masses  
-On courait encore et encore  
-On nous voyait dans tous les sports  
+Pour se forger la car[Solm9/13(III)x2]casse  
+[Fa]On levait de grosses [Fam9/13x2]masses  
+[Solmx2]On courait encore et encore  
+[La7x2]On nous voyait dans tous les sports  
   
 Et quand passait une belle  
 Une dame, une demoiselle  

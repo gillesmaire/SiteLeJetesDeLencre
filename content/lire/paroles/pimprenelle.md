@@ -4,16 +4,16 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-C'est quand on pense à rien  
-Que tout ça nous revient  
-La brume sur les yeux  
-De Paris quand il pleut  
-Je t'avais oubliée  
-Mais rue des Écoliers  
-Je t'ai revu sourire  
-Dans un vieux souvenir  
-  
-  
+C'est [Fam:2]quand on pense à [Do7(III):2]rien  
+Que [Fam:2]tout ça nous re[Sibm:2]vient  
+La [Sibm:2]brume sur les [Lab:2]yeux  
+De Paris [Sol7(III):2]quand il [Do7(III):2]pleut  
+Je [Sibm]t'avais oubliée  
+Mais [Fam]rue des Écoliers  
+Je [Lab:2]t'ai revu sou[Sol7(III):2]rire  
+Dans un [Do7(III):2]vieux souvenir[Fam:2]  
+[Sibm:2] [Fam:2] [Sol7(III):2] [Do7(III):2]  
+[Sibm:2] [Fam:2] [Do7(III):2] [Fam:2]  
 Ma pauvre Pimprenelle  
 Enrobée de flanelle  
 Ma poupée de chiffon  

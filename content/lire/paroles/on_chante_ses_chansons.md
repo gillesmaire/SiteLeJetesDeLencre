@@ -4,26 +4,26 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-On chante ses chansons tout le monde applaudit  
-Puis tout le monde s'en va  
-On se retrouve au bar on commande un whisky  
-Elle vous sert un calva  
-Au bout de trois calvas la voilà qui vous dit  
-Que des chansons comme ça  
-Ça donne envie d'aimer, d'aimer la vie  
-La voilà qui sourit et puis voilà  
+On [Rém(V)x2]chante ses chansons tout le monde applaudit  
+Puis tout le monde s'en [Solm(III)]va  
+On [Do7(III)x2]se retrouve au bar on commande un whisky  
+Elle vous sert un cal[Fa]va  
+Au[Rém(V)x2] bout de trois calvas la voilà qui vous dit  
+Que des chansons comme [Solm(III)]ça  
+Ça [Do7(III)x2]donne envie d'aimer, d'aimer la vie  
+La voilà qui sourit et [Do7(III):2] puis voi[Fa:2]là  
 
 
 **Refrain:**
 
-Des yeux qui vous enlacent  
-Un sourire qui ne dit pas non  
-Un parfum qui vous embrasse  
-Des lèvres comme des bonbons  
-Mais tout ça on s'en lasse  
-On soupire et on dit non  
-La vie c'est que du temps qui passe  
-Alors se mentir à quoi bon ? Bon !  
+[Fa]Des yeux qui vous en[Rém(V)]lacent  
+Un [Ré7(V)]sourire qui ne dit pas [Solm(III)x2]non  
+Un parfum qui vous em[Do7(III)]brasse  
+Des [Do7:2]lèvres comme des bon[Fa:2]bons  
+Mais tout ça on s'en [Rém(V)]lasse  
+On sou[Ré7(V)]pire et on dit [Solm(III)x2]non  
+La vie c'est que du temps qui [Do7(III)]passe  
+Alors [Do7(III):2]se mentir à quoi [Rém(V):2]bon ? [La(V):2]Bon !  
   
 Oui j'y suis revenu dans ce bar de mon coeur  
 Avec ou sans guitare  

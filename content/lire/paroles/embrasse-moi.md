@@ -4,12 +4,12 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles : Gilles Maire - Musique : Geofffray Milleret
-Embrasse-moi, une fois encore...  
-Même s'il a changé mon décor :  
-Silence on tourne et c'est mon tour,  
-Plus question de faire demi-tour.  
-J'ai souvent peur de ce naufrage,  
-Dont nul ne revient à la nage...  
+[Fam]Embrasse-moi, une [Do]fois encore...  
+[Fam]Même s'il a changé mon dé[Do7]cor :  
+[RébM7]Silence on tourne et c'est mon [Do7]tour,  
+[Fa°]Plus question de [Mi°]faire demi-[Ré°]tour[Do].  
+J'ai souvent peur de ce nau[Fam]frage,  
+[Sib]Dont nul ne revient à la [Do]nage...  
   
 Quand on se paume dans son parcours,  
 On s'pomme d'api on s'pomme d'amour ;  

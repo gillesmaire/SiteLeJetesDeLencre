@@ -4,19 +4,19 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
-Merci à vous mes frères d'arme  
-On s'était pourtant bien battu  
-Nos guitares avaient leur charme  
-Mais le succès n'est pas venu  
-Nous avons livré cent batailles  
-La tête au vent les pieds dans l'eau  
-Nous retournons vers le bercail  
-Comme de pauvres narvalos  
+Merci à[Dom] vous mes frères [Sol]d'arme  
+On s'était [Sol]pourtant bien ba[Dom]ttu  
+Nos gui[Sib]tares avaient leur [Mib]charme  
+Mais le su[Ré]ccès n'est pas ve[Sol]nu  
+Nous avons[Sol7] livré cent [Dom]batailles  
+La tête au [Sib]vent les pieds dans [Mib]l'eau  
+Nous retour[Ré]nons vers le ber[Sol]cail  
+Comme de [Dom:2]pauvres [Sol:2]narva[Dom]los  
 
 
 **Refrain:**
 
-  
+[Mib][Sib][Sol][Dom]  
 Ô mes compagnons d'infortunes  
 Vous qui m'avez accompagné  
 Je vous avais promis la lune  

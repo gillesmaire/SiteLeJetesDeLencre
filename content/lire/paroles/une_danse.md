@@ -4,15 +4,15 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et Musique : Gilles Maire}
-Si tu veux que ce soir je danse  
-Petite prends moi dans tes bras  
-Cette musique était tendance  
-Quand je faisais mes premiers pas  
-Mes premiers pas de danse  
-J'avais ton âge quand j'y pense  
-Ce bonheury que tu vois dans mes yeux  
-C'est celui d'un vieil homme heureux  
-  
+Si tu [Dom]veux que ce soir je [Fam]danse  
+Pe[Sol]tite prends moi dans tes [Dom]bras  
+[Do7]Cette musique était ten[Fam]dance  
+Quand je fai[Sib]sais mes premiers [Mibx2]pas  
+Mes premiers pas de [Solx2]danse  
+J'avais ton âge quand j'y[Dom] pense  
+[Do7]Ce bonheury que tu vois dans mes [Fam]yeux  
+C'est [Sol#:2]celui d'un [Sol:2]vieil homme heu[Dom]reux  
+[Do7] [Fam][Sol#:2][Sol:2][Domx2]  
   
 Cette musique on la dansait  
 Ta grand mère et moi plein d'émoi  
