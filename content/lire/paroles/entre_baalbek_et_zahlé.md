@@ -4,7 +4,7 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et Musique : Gilles Maire
-Revoir un vieil ami d'enfance  
+Revoir un vieux copain d'enfance  
 C'est revoir sa vie défiler  
 C'est voir qu'on est passé par chance  
 Entre les mailles du filet  
