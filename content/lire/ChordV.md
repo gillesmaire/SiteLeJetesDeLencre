@@ -23,5 +23,7 @@ permettant de placer les doigts pour déterminer avec précision le nom de votre
 
 Chord V offre également un module d'exportation qui permet d'alimenter un site Web avec les dernières versions des chansons.
 
+Vous trouverez des informations plus précises au sujet de Chord V en cliquant sur ce [lien vers Chord V](https://sitegillesmaire.pages.dev/projects/creations/chordv/)
+
 
 [Retour aux livrets](Livrets)
