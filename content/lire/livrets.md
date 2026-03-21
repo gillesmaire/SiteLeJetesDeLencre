@@ -9,14 +9,13 @@ aux chansons dans différents formats.
     "2.2" 
     "16 mars 2026"
     "Ce carnet PDF contient uniquement les paroles des chansons en format A4." 
-    "ljde-text_20260318/LJDE_Text" >}}
-
+    "ljde-text-v-2/LJDE_TextV2" >}}
 {{< archive "Les carnets de paroles deux pauses A5 sur format A4"
     "2.2" 
     "16 mars 2026"
     "Ce carnet PDF contient uniquement les paroles des chansons en format deux A5 à massicoter." 
-    "ljde-text-2_20260318/LJDE_Text2" >}}
-    
+    "ljde-text-2-v-2/LJDE_Text2V2" >}}
+     
 {{< archive "Les carnets texte et accords." 
     "2.2" 
     "16 mars 2026" 
