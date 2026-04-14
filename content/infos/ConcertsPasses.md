@@ -2,6 +2,7 @@
 +++
 
 # Liste des concerts du temps passé 
+- [895] **Jeudi 19 mars 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [894] **dimanche 1er mars 2026** 11hoo Gilles  et Joël Favreau  Bar Iodé 12 Place du Matré à Paimpol 2200 
 - [893] **vendredi 27 février 2026** 20hoo Gilles au café du commerce 36 Pl. Foch, 22580 Plouha On peut apporter son casse croute Boissons sur Place
 - [892] **jeudi 5 février 2026**  à partir de 19h30 La [cave](cave) aux jetés
