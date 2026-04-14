@@ -1,0 +1,17 @@
+<div class="archive-book">
+  <h3>{{ .Get 0 }}</h3>
+  <ul>
+    <li><strong>Version :</strong> {{ .Get 1 }}
+    <li><strong>Date de mise à jour : </strong>{{ .Get 2 }}</li>
+    <li><strong>Descriptif :</strong> {{ .Get 3 }}</li>
+    <li><strong>Page exemple :</strong></li>
+      <div style="background:#f5f5f5; border:1px solid #ccc; padding:6px; display:inline-block;">
+      <img
+      src="https://archive.org/download/{{ .Get 4 }}/page/n6.jpg"
+      alt="Page du livre"
+      loading="lazy"
+      style="width:300px; height:auto;">
+     </div>
+    <li><a href="https://archive.org/download/{{ .Get 4 }}.pdf">Télécharger le PDF</a></li>
+  </ul>
+</div>
