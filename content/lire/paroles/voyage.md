@@ -11,7 +11,7 @@ De venir éclairer les peines de nos nuits
 Et qui ont peint nos vies des couleurs de l'ennui  
   
 Finir par oublier que l'on fut misérable  
-Assumer que l'on fut un amant lamentable  
+Admettre que l'on fut un amant lamentable  
 Et marcher en déroute quand rien ne vous attend  
 Sourire avec ce qu'il nous reste encore de dents  
   
@@ -25,7 +25,7 @@ Croire encore que la lune éclaire le soleil
 Sourire en se moquant de celui que l'on fut  
 Mourir en se croyant totalement invaincu  
   
-Revoir encore sa mère nous portant dans ses bras  
+Revoir encore sa mère nous serrant dans ses bras  
 Sentir encore son père, l'odeur de son tabac  
 Se perdre dans ses rêves dans un dernier soupir  
 Et danser doucement sur ses vieux souvenirs  
