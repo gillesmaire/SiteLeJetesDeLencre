@@ -15,7 +15,7 @@ Admettre que l'on fut un amant lamentable
 Et marcher en déroute quand rien ne vous attend  
 Sourire avec ce qu'il nous reste encore de dents  
   
-Souffler ses cent bougies, les inonder de larmes  
+Souffler ses cents bougies, les inonder de larmes  
 Refuser de vieillir et de rendre les armes  
 Oublier qui on naît, oublier ses envies  
 Un dernier pied de nez à ce reste de vie  
