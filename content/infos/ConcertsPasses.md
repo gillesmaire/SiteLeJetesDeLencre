@@ -2,6 +2,10 @@
 +++
 
 # Liste des concerts du temps passé 
+
+
+- [897]**mardi 25 avril 2026** Le Hameau des Oliviers Village vacances Leo Lagrange 1212 Chemin de Saumelongue 84110 Vaison-La-Romaine
+- [896]**jeudi 9 avril 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [895] **Jeudi 19 mars 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [894] **dimanche 1er mars 2026** 11hoo Gilles  et Joël Favreau  Bar Iodé 12 Place du Matré à Paimpol 2200 
 - [893] **vendredi 27 février 2026** 20hoo Gilles au café du commerce 36 Pl. Foch, 22580 Plouha On peut apporter son casse croute Boissons sur Place
