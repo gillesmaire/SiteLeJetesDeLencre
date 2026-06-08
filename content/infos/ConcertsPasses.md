@@ -3,7 +3,8 @@
 
 # Liste des concerts du temps passé 
 
-
+- [899]**samedi 6 juin 2026** 20hoo Journée chanson Salle des fêtes de Castellet du Luberon 84400 Apt
+- [898]**jeudi 4 juin 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [897]**mardi 25 avril 2026** Le Hameau des Oliviers Village vacances Leo Lagrange 1212 Chemin de Saumelongue 84110 Vaison-La-Romaine
 - [896]**jeudi 9 avril 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [895] **Jeudi 19 mars 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
