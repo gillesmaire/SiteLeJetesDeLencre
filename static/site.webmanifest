@@ -1,6 +1,11 @@
 {
   "name": "Les Jetés de l'Encre",
   "short_name": "LJDE",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b0000",
   "icons": [
     {
       "src": "favicon-96x96.png",
