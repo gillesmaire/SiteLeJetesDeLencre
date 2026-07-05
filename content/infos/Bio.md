@@ -44,16 +44,12 @@ Gilles a fondé le groupe en 2006 et il a assuré plus de 800 concerts. Il a gag
 
 
 <img src="/images/philippe.jpeg" alt="Philippe" style="float: left; margin-right: 10px; width:120px;">
-Philippe joue de la guitare, de la basse et de la  contrebasse. C'est
-ce dernier instrument qu'il utilise dans le groupe.
-Il joue également dans des groupes de Rockabilly ou de reprises des Beatles.
+Philippe nous a quitté pour rejoindre le paradis des contrebassistes. Il jouait de la guitare, de la basse et de la  contrebasse.  Il 
+faisait également partie de  groupes de Rockabilly ou de reprises des Beatles, de BlueGrass et de Rockabilly.
 
-Il assure au sein du groupe, la contrebasse et le contre chant et c'est également le trésorier de l'association qui régit le groupe. Infatigable, il s'est également imposé comme l'organisateur des tournées.
+Il avait rejoint le groupe en 2011 où il a assuré près de de 500 concerts et avait collaboré au deuxième et troisième album. 
 
-Il a rejoint le groupe en 2011 où il a assuré plus de 400 concerts. Il fait partie des musiciens du deuxième album et des suivants.
-
-
-
+Depuis sa disparition qui nous a beaucoup peinés nous avons décider de continuer en ouvrant le groupe à de nouveaux musiciens, Gille se produira parfois en solo parfois en bande organisée. 
 
 
 # Ulysse Loviat
