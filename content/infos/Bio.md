@@ -49,7 +49,7 @@ faisait également partie de  groupes de Rockabilly ou de reprises des Beatles, 
 
 Il avait rejoint le groupe en 2011 où il a assuré près de de 500 concerts et avait collaboré au deuxième et troisième album. 
 
-Depuis sa disparition qui nous a beaucoup peinés nous avons décidé de continuer en ouvrant le groupe à de nouveaux musiciens, Gille se produira parfois en solo parfois en bande organisée. 
+Depuis sa disparition qui nous a beaucoup peinés nous avons décidé de continuer en ouvrant le groupe à de nouveaux musiciens, Gilles se produira parfois en solo parfois en bande organisée. 
 
 
 # Ulysse Loviat
