@@ -1,6 +1,6 @@
 +++
 +++
-- **vendredi 22 juillet 2026** 11h30  Gilles et Alexandre au violon au café du commerce 36 Pl. Foch, 22580 Plouha
+- **mercredi 22 juillet 2026** 11h30  Gilles et Alexandre au violon au café du commerce 36 Pl. Foch, 22580 Plouha
 - **jeudi 23 juillet 2026** 18hoo à La Cambuse de Kermouster 6 rue de l'École (guitare violon) 22740 Lézardrieux
 - **mardi 28 juillet 2026** 12hoo Le Pen TY, 20 rue des Huit Patriotes 22500 Paimpol (Réservations 06 70 84 95 03)
 - **mardi 28 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500 En cas de pluie au Bariodé place du Martray Paimpol 
