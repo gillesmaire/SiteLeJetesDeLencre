@@ -3,12 +3,15 @@
 
 # Liste des concerts du temps passé 
 
-- [901]**jeudi 23 juillet 2026** 18hoo à La Cambuse de Kermouster 6 rue de l'École (guitare violon) 22740 Lézardrieux
-- [900]**mercredi 22 juillet 2026** 11h30  Gilles et Alexandre au violon au café du commerce 36 Pl. Foch, 22580 Plouha
-- [899]**samedi 6 juin 2026** 20hoo Journée chanson Salle des fêtes de Castellet du Luberon 84400 Apt
-- [898]**jeudi 4 juin 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
-- [897]**mardi 25 avril 2026** Le Hameau des Oliviers Village vacances Leo Lagrange 1212 Chemin de Saumelongue 84110 Vaison-La-Romaine
-- [896]**jeudi 9 avril 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
+- [904] **mercredi 29 juillet 2026** 18hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
+- [903] **mardi 28 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500 En cas de pluie au Bariodé place du Martray Paimpol 
+- [902] **mardi 28 juillet 2026** 12hoo Le Pen TY, 20 rue des Huit Patriotes 22500 Paimpol (Réservations 06 70 84 95 03)
+- [901] **jeudi 23 juillet 2026** 18hoo à La Cambuse de Kermouster 6 rue de l'École (guitare violon) 22740 Lézardrieux
+- [900] **mercredi 22 juillet 2026** 11h30  Gilles et Alexandre au violon au café du commerce 36 Pl. Foch, 22580 Plouha
+- [899] **samedi 6 juin 2026** 20hoo Journée chanson Salle des fêtes de Castellet du Luberon 84400 Apt
+- [898] **jeudi 4 juin 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
+- [897] **mardi 25 avril 2026** Le Hameau des Oliviers Village vacances Leo Lagrange 1212 Chemin de Saumelongue 84110 Vaison-La-Romaine
+- [896] **jeudi 9 avril 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [895] **Jeudi 19 mars 2026** à partir 19h3o La [cave](cave) des Jetés l'Encre
 - [894] **dimanche 1er mars 2026** 11hoo Gilles  et Joël Favreau  Bar Iodé 12 Place du Matré à Paimpol 2200 
 - [893] **vendredi 27 février 2026** 20hoo Gilles au café du commerce 36 Pl. Foch, 22580 Plouha On peut apporter son casse croute Boissons sur Place
