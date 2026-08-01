@@ -3,6 +3,9 @@
 
 # Liste des concerts du temps passé 
 
+
+- [906] **vendredi 31 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500  
+- [905] **jeudi 30 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500 En cas de pluie au Bariodé place du Martray Paimpol 
 - [904] **mercredi 29 juillet 2026** 18hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
 - [903] **mardi 28 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500 En cas de pluie au Bariodé place du Martray Paimpol 
 - [902] **mardi 28 juillet 2026** 12hoo Le Pen TY, 20 rue des Huit Patriotes 22500 Paimpol (Réservations 06 70 84 95 03)
