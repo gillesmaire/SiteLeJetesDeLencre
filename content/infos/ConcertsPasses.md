@@ -3,7 +3,7 @@
 
 # Liste des concerts du temps passé 
 
-
+- [907] **dimanche 2  août  2026** 16hoo Au bariodé PLace de Martray  Paimpol 22500 
 - [906] **vendredi 31 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500  
 - [905] **jeudi 30 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500 En cas de pluie au Bariodé place du Martray Paimpol 
 - [904] **mercredi 29 juillet 2026** 18hoo Aux Cabanes Boem rue Henri Guillaumet 35730 Pleurtuit
