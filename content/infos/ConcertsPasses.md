@@ -3,6 +3,7 @@
 
 # Liste des concerts du temps passé 
 
+- [909] **jeudi 2o août 2026** 19hoo  Guinguette du Danot 19hoo 2 chemin du Pont de Danodis 22860 Plourivo 
 - [908] **samedi 8 août 2026** 19hoo Gilles en solo Aux Anges Kafé, 1 rue de la Poste 22800 Cohiniac. 
 - [907] **dimanche 2  août  2026** 16hoo Au bariodé PLace de Martray  Paimpol 22500 
 - [906] **vendredi 31 juillet 2026** 18hoo Concert sur les quais de Paimpol 22500  
