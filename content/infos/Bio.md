@@ -1,4 +1,82 @@
-# Le groupe 
+
+## Les membres du groupe
+ 
+### Présentation 
+
+Depuis 2026, le groupe s'est constitué en un collectif permettant de moduler le nombre de musiciens
+en fonction des demandes et de la localisation des concerts. 
+
+Nos musiciens sont répartis dans différentes régions du territoire, ainsi chaque musicien rejoint le groupe en fonction du lieu du concert.
+
+### Gilles Maire
+
+
+<img src="/images/gilles.jpeg" alt="Gilles" style="float: left; margin-right: 10px; width:120px;"> <a href="https://www.facebook.com/gilles.maire" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px;"/></a>
+Gilles écrit les textes et la plupart des musiques, il  assure une interprétation passionnée  derrière sa guitare ou même sans son instrument.
+Son écriture de facture classique se permet  parfois quelques clins d'oeil aux Brassens, Aragon, Dimey, Leprest, Higelin, Grand Corps Malade, les Nadau ...
+.
+Il peut chanter seul sans ses accompagnateurs, défi qu'il relève de temps à autres, mais c'est en bande qu'il préfère  assurer ses concerts.
+
+Gilles a fondé le groupe en 2006 et il a assuré plus de 900 concerts. Il a gagné en 2014 le concours Européen de la chanson à texte de Suzbach. Il a également été lauréat en 2011 du prix Georges Moustaki.
+
+Gilles est situé à Paris et en Bretagne et se déplace facilement  en Europe.
+
+### Ales Bartos
+
+
+<img src="/images/ales.jpg" alt="Ales" style="float: left; margin-right: 10px; width:120px;"> 
+Ales Bartos intervient depuis 2026 dans le groupe en qualité de Contrebassiste.
+
+Il est titulaire d'un DEM de chant lyrique au CRR de Paris où il a également étudié
+la guitare et la contrebasse Jazz.
+
+Il poursuit aujourd'hui une activité musicale régulière en France, en République tchèque et à l'international. À la guitare, à la contrebsse et au chant, il se produit principalement autour de la chanson française, du Jazz et des musiques actuelles. Il joue également au sein d'orchestres et d'ensembles de musique populaire, funk, jazz et rock.
+
+
+Ales est situé en Bretagne et peut se déplacer lors de tournées. 
+
+
+### François Dumon D'Ayot
+
+
+<img src="/images/francois.jpg" alt="François" style="float: left; margin-right: 10px; width:120px;"> 
+Jazzman accompli, François intervient depuis 2026 dans le groupe avec en bouche ses flûtes, saxophones et clarinettes. Il donne au groupe une dimension swing et new orleans qui réjouit le public. 
+
+Lauréat du tremplin Jazz et Migration, il a tourné dans beaucoup de festivals en Europe et a été le complice
+de nombreux jazzmen de renom.
+
+Il est le fondateur du  festival Jazz à Cours et à Jardins et joue également dans sa formation FDA Quartet.
+
+François est situé à Lyon et reste assez mobile.
+
+### Ulysse Loviat
+
+<img src="/images/ulysse.jpg" alt="Ulysse" style="float: left; margin-right: 10px; width:180px;"> Ulysse a rejoint les jetés en 2016 où il assure le rôle de guitariste soliste dans des improvisations déchaînées qui font la joie du public.
+Jeune adulte, Ulysse a effectué un tour du monde en solitaire accompagné de sa guitare et s'est imprégné des musiques des différents pays qu'il a traversés. 
+Ulysse donne des cours de Piano et de Guitare et a mis au point une méthode pour l'apprentissage de la musique aux jeunes. Il est aussi acteur dans une compagnie théâtrale.
+
+Ulysse est situé à Paris et peut être amené à se déplacer.
+
+### Guerran Sellin
+
+ <img src="/images/guerran.jpg" alt="Guerran" style="float: left; margin-right: 10px; width:120px;">Guerran a rejoint le groupe en 2007 et depuis à son déménagement en 2015 dans le sud de la France, il joue de façon plus occasionnelle avec les Jetés de l'Encre en tant que Guitariste.
+ 
+Il est issu du conservatoire de musique de Saint-Denis.
+
+
+Guerran est situé dans le Luberon et peut être amené à se déplacer.
+
+
+
+
+
+
+
+
+
+
+## Le groupe 
 
 Le groupe Les Jetés de l’Encre s’est constitué en 2006 et a commencé à jouer dans des bars et de petites salles parisiennes. Remarqués par une société de production qui proposait de produire notre premier album, nous avons enregistré quelques titres… avant d’apprendre, non sans amusement, que la dite société abandonnait la musique pour investir dans une écurie de chevaux de course.
 
@@ -18,58 +96,15 @@ En 2019, le groupe aménage une cave privée dans le 18e arrondissement de Paris
 
 Depuis la création du groupe, de nombreux musiciens ont participé à l’aventure : Geoffray Milleret, Antoine Lazare, Baptiste Boulat, Alexandre Taveau, Pierre-André Ditroy, Ducho Dellarte, Pascal Lepape, Dan Iffergan, et d’autres, plus ponctuellement. Tous sont restés des amis chers que nous retrouvons toujours avec joie. En vingt ans, le groupe a connu peu de conflits.
 
-Nous pensons aussi à ces musiciens chevronnés qui se sont joints à nous le temps d’une chanson ou d’un concert. La liste serait trop longue… Et comment connaître les noms de ce violoniste du Philharmonique de Sarrebruck qui nous a accompagnés le temps d’un morceau ? De ce saxophoniste croisé un soir d’hiver dans un café du Père-Lachaise ? De cette violoniste à Pau qui a placé de sublimes chorus tout un set durant ? Ou encore de ce violoncelliste qui a joué avec nous au petit théâtre, après avoir travaillé nos chansons grâce aux partitions publiées sur notre site ?
+En juin 2026, notre cher contrebassiste Philippe Schwall nous a quitté pour rejoindre le paradis des contrebassistes après plus de 500 concerts effectués avec nous. Il avait rejoint le groupe en 2011 et avait collaboré au deuxième et troisième album. 
+
+Suite au départ de Philippe, nous nous nous sommes organisé  en collectif de musiciens permettant de jouer dans plusieurs configurations en fonction des localisations des concerts et des disponibilités de chacun.
 
 Notre belle aventure humaine et artistique ne s’est jamais éteinte. Parfois, les demandes ont été plus rares… mais à peine avions-nous le temps de penser à faire une pause qu’une nouvelle proposition de concert surgissait. Aujourd’hui, nous nous déplaçons au gré des invitations, organisant nos tournées autour des nombreux points d’ancrage créés au fil du temps, grâce à notre réseau d’amis et de salles.
 
 Une petite anecdote pour conclure : lors de nos déplacements, nous ne savons jamais à l’avance où nous dormirons. Il nous est souvent arrivé, à la fin d’un concert, de demander si quelqu’un avait une place pour nous héberger. Et parfois, ces personnes sont devenues hôtes de concerts privés… voire même organisateurs de festivals !
 
-C’est sur cette note de fraternité que s’achève cette présentation du groupe. 
-
- 
-# Gilles Maire
-
-
-<img src="/images/gilles.jpeg" alt="Gilles" style="float: left; margin-right: 10px; width:120px;"> <a href="https://www.facebook.com/gilles.maire" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width: 40px; height: 40px;"/></a>
-Gilles écrit les textes et la plupart des musiques, il  assure une interprétation passionnée  derrière sa guitare ou même sans son instrument.
-Son écriture de facture classique se permet  parfois quelques clins d'oeil aux Brassens, Aragon, Dimey, Leprest, Higelin, Grand Corps Malade, les Nadau ...
-De sa jeunesse de militant occitaniste, il reste marqué et attaché aux musiques traditionnelles : Swing, Manouche, Havaneria, Milonga, Valses tsiganes, Romances slaves, Fado, Boléro, Ranchara. Ce sont des rythmes que l'on retrouve sur scène et sur disque.
-Il peut chanter seul sans ses accompagnateurs, défi qu'il relève de temps à autres, mais c'est en bande qu'il préfère  assurer ses concerts.
-Gilles a fondé le groupe en 2006 et il a assuré plus de 800 concerts. Il a gagné en 2014 le concours Européen de la chanson à texte de Suzbach où les candidats avaient droit à un seul instrument en plus de leur voix.
-
-
-
-# Philippe Schwall
-
-
-<img src="/images/philippe.jpeg" alt="Philippe" style="float: left; margin-right: 10px; width:120px;">
-Philippe nous a quitté pour rejoindre le paradis des contrebassistes. Il jouait de la guitare, de la basse et de la  contrebasse.  Il 
-faisait également partie de  groupes de Rockabilly ou de reprises des Beatles, de BlueGrass et de Rockabilly.
-
-Il avait rejoint le groupe en 2011 où il a assuré près de de 500 concerts et avait collaboré au deuxième et troisième album. 
-
-Depuis sa disparition qui nous a beaucoup peinés nous avons décidé de continuer en ouvrant le groupe à de nouveaux musiciens, Gilles se produira parfois en solo parfois en bande organisée. 
-
-
-# Ulysse Loviat
-
-<img src="/images/ulysse.jpg" alt="Ulysse" style="float: left; margin-right: 10px; width:180px;"> Benjamin du groupe Ulysse a rejoint les jetés en 2016 où il assure le rôle de guitariste soliste dans des improvisations déchaînées qui font la joie du public.
-Jeune adulte, Ulysse a effectué un tour du monde en solitaire accompagné de sa guitare et s'est imprégné des musiques des différents pays qu'il a traversé. C'est ce goût pour les musiques du monde qui lui a plu dans le groupe et l'a probablement décidé à le rejoindre.
-Ulysse donne des cours de Piano et de Guitare et a mis au point une méthode pour l'apprentissage de la musique aux jeunes. Il est aussi acteur dans une compagnie théâtrale.
-
-
-
-# Guerran Sellin
-
- <img src="/images/guerran.jpg" alt="Guerran" style="float: left; margin-right: 10px; width:120px;">Guerran a rejoint le groupe en 2007 et suite à son déménagement en 2015, il joue de façon plus occasionnelle avec les Jetés de l'Encre.
- Guerran est issu du conservatoire de musique de Saint-Denis.
-
-
-
-
-
-
+C’est sur cette note de fraternité que s’achève cette histoire du groupe. 
 
 
 
