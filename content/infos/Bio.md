@@ -37,7 +37,7 @@ Il poursuit aujourd'hui une activité musicale régulière en France, en Républ
 Ales est situé en Bretagne et peut se déplacer lors de tournées. 
 
 
-### François Dumon D'Ayot
+### François Dumont d'Ayot
 
 
 <img src="/images/francois.jpg" alt="François" style="float: left; margin-right: 10px; width:120px;"> 
