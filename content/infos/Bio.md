@@ -41,12 +41,11 @@ Ales est situé en Bretagne et peut se déplacer lors de tournées.
 
 
 <img src="/images/francois.jpg" alt="François" style="float: left; margin-right: 10px; width:120px;"> 
-Jazzman accompli, François intervient depuis 2026 dans le groupe avec en bouche ses flûtes, saxophones et clarinettes. Il donne au groupe une dimension swing et new orleans qui réjouit le public. 
+Jazzman accompli, François intervient depuis 2026 dans le groupe avec ses flûtes, saxophones et clarinettes. Il donne au groupe une dimension swing et new orleans qui réjouit le public. 
 
-Lauréat du tremplin Jazz et Migration, il a tourné dans beaucoup de festivals en Europe et a été le complice
-de nombreux jazzmen de renom.
+Lauréat du tremplin Jazz et Migration, il s'est produit avec ]FD,A[quartet dans ne nombreux festivals en Europe et a été le complice de nombreux jazzmen de renom.
 
-Il est le fondateur du  festival Jazz à Cours et à Jardins et joue également dans sa formation FDA Quartet.
+Il est le fondateur du  festival Jazz à Cours et à Jardins de Lyon et partique toutes les formes de Jazz au sein de plusieurs formations.
 
 François est situé à Lyon et reste assez mobile.
 
