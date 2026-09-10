@@ -45,7 +45,7 @@ Jazzman accompli, François intervient depuis 2026 dans le groupe avec ses flût
 
 Lauréat du tremplin Jazz et Migration, il s'est produit avec ]FD'A[quartet et son répertoire de compositions originales dans de nombreux festivals en Europe et a été le complice de nombreux jazzmen de renom.
 
-Il est le fondateur du  festival Jazz à Cours et à Jardins de Lyon et partique toutes les formes de Jazz au sein de plusieurs formations.
+Il est le fondateur du  festival Jazz à Cours et à Jardins de Lyon et pratique toutes les formes de Jazz au sein de plusieurs formations.
 
 François est situé à Lyon et reste assez mobile.
 
