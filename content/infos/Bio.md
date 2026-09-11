@@ -41,7 +41,7 @@ Ales est situé en Bretagne et peut se déplacer lors de tournées.
 
 
 <img src="/images/francois.jpg" alt="François" style="float: left; margin-right: 10px; width:120px;"> 
-Jazzman accompli, François intervient depuis 2026 dans le groupe avec ses flûtes, saxophones et clarinettes. Il donne au groupe une dimension swing et new orleans qui réjouit le public. 
+Jazzman accompli, François intervient depuis 2026 dans le groupe avec ses flûtes, saxophones et clarinettes. Il donne au groupe une dimension swing et New Orleans qui réjouit le public. 
 
 Lauréat du tremplin « Jazz et Migration » (« Jazzé-Croisé »), il se produit avec ]FD'A[quartet (répertoire de compositions originales transversalisant le jazz, le funk, le rock, les musiques médiévales, baroques et traditionnelles du monde entier) dans de nombreux festivals en Europe et a été le complice de nombreux jazzmen de renom.
 
