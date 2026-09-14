@@ -41,7 +41,7 @@ Les lèvres là j'ai senti
 Un parfum de primevère  
 
 
-[ ◀ Le sel](../le_sel) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les aurores boréales ▶](../les_aurores_boréales)
+[ ◀ Le sel](../le_sel) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les amants éternels ▶](../les_amants_éternels)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>

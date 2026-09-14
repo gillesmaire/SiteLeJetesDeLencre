@@ -54,7 +54,7 @@ Peu d'histoires nous rappellent
 Nos aurores boréales  
 
 
-[ ◀ Le signe du destin](../le_signe_du_destin) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les chagrins ▶](../les_chagrins)
+[ ◀ Les amants éternels](../les_amants_éternels) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Les chagrins ▶](../les_chagrins)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>
