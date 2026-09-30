@@ -97,7 +97,7 @@ Depuis la création du groupe, de nombreux musiciens ont participé à l’avent
 
 En juin 2026, notre cher contrebassiste Philippe Schwall nous a quitté pour rejoindre le paradis des contrebassistes après plus de 500 concerts effectués avec nous. Il avait rejoint le groupe en 2011 et avait collaboré au deuxième et troisième album. 
 
-Suite au départ de Philippe, nous nous nous sommes organisé  en collectif de musiciens permettant de jouer dans plusieurs configurations en fonction des localisations des concerts et des disponibilités de chacun.
+Suite au départ de Philippe, nous nous nous sommes organisés en collectif de musiciens permettant de jouer dans plusieurs configurations en fonction des localisations des concerts et des disponibilités de chacun.
 
 Notre belle aventure humaine et artistique ne s’est jamais éteinte. Parfois, les demandes ont été plus rares… mais à peine avions-nous le temps de penser à faire une pause qu’une nouvelle proposition de concert surgissait. Aujourd’hui, nous nous déplaçons au gré des invitations, organisant nos tournées autour des nombreux points d’ancrage créés au fil du temps, grâce à notre réseau d’amis et de salles.
 
