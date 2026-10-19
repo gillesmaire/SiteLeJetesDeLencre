@@ -4,13 +4,15 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
+  
+  
 Celle que j'aime a des yeux de biche  
 Et un charme fou  
 Son mari est comme un caniche  
 Il la suit partout  
 Pour s'embrasser il faut qu'on triche  
 On fait les cents coups  
-Et on écrit en acrostiche  
+Et on écrit en acrostiches  
 Tous nos billets doux  
   
 Ni vu ni connu je m'affiche  

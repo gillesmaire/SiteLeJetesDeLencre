@@ -1,9 +1,10 @@
 +++
 +++
 
-# Liste des concerts du temps passé 
-
-
+- [914] **Dimanche 18 octobre 2026** : concert privé à Plougrescant 22820
+- [913] **Samedi 17 octobre 2026** : à 18hoo Au bariodé 12 place du Martray  Paimpol 22500
+- [912] **Vendredi 16 octobre 2026** : concert privé à Paimpol (22)
+- [911] **Jeudi 15 octobre 2026** : à 19h00 au café du commerce - Plouha 22580 
 - [910] **jeudi 3 septembre 2026** 19hoo  Guinguette du Danot 19hoo 2 chemin du Pont de Danodis 22860 Plourivo 
 - [909] **jeudi 2o août 2026** 19hoo  Guinguette du Danot 19hoo 2 chemin du Pont de Danodis 22860 Plourivo 
 - [908] **samedi 8 août 2026** 19hoo Gilles en solo Aux Anges Kafé, 1 rue de la Poste 22800 Cohiniac. 

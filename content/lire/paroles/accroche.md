@@ -4,7 +4,6 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
-  
 Si tu vois qu'à ton cou elle s'accroche  
 Embrasse-la sur la joue  
 Ne crois pas que ce soit dans la poche  

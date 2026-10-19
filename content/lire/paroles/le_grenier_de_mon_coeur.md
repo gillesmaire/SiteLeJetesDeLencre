@@ -4,12 +4,14 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
+  
 Je m'étais rangé des amourettes  
 J'avais raccroché mon arbalète  
 Et ma tenue de chasseur  
 C'était dans la poussière d'un grenier  
 Au milieu des livres et des cahiers  
 Que j'avais monté mon coeur  
+  
   
   
 Comme une pendule qui a perdu  
