@@ -1,8 +1,6 @@
 +++
 +++
 
-- **Jeudi 15 octobre 2026** :  bientôt sur vos écrans
-- **Vendredi 16 octobre 2026** : concert privé à Paimpol (22)
-- **Samedi 17 octobre 2026** : à 18hoo Au bariodé 12 place du Matrais  Paimpol 22500
-- **Dimanche 18 octobre 2026** : concert privé à Plougrescant 22820
 
+- **Jeudi 20 novembre 2026**  à partir de 19h30 la (cave|cave) des Jetés de l'encre
+- **Samedi 12 juin 2026**  Journée chanson Salle des fêtes de Castellet du Luberon.
