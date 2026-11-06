@@ -40,7 +40,7 @@ Je suis parti c'est vrai, mais je n'ai rien quitté
 Nos souvenirs la belle m'ont toujours habité.  
 
 
-[ ◀ Tango à Jehro](../tango_à_jehro) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ulysse ▶](../ulysse)
+[ ◀ Tchao](../tchao) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​[Ulysse ▶](../ulysse)
 
 
 <b><sub>Chanson sous licence Creative Common BY-NC-ND</sub></b>
