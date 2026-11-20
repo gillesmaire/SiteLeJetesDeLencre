@@ -1,6 +1,6 @@
 +++
 +++
-
+- [915] **Jeudi 19 novembre 2026**  à partir de 19h30 la (cave|cave) des Jetés de l'encre
 - [914] **Dimanche 18 octobre 2026** : concert privé à Plougrescant 22820
 - [913] **Samedi 17 octobre 2026** : à 18hoo Au bariodé 12 place du Martray  Paimpol 22500
 - [912] **Vendredi 16 octobre 2026** : concert privé à Paimpol (22)

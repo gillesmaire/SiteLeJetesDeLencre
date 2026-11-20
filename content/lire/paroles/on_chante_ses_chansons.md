@@ -4,6 +4,7 @@ sidebar_left: sidebar
 ---
 
 ## Paroles et musique : Gilles Maire
+  
 On chante ses chansons tout le monde applaudit  
 Puis tout le monde s'en va  
 On se retrouve au bar on commande un whisky  

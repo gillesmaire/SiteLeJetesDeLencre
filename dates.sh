@@ -47,6 +47,8 @@ awk -v ligne="$NOUVELLE_LIGNE" '
     }
     { print }
 ' "$PASSES" > "$TMP"
+echo $TMP
+cat $TMP
 mv "$TMP" "$PASSES"
 
 # Supprimer la première date de dates.md, en conservant les autres lignes

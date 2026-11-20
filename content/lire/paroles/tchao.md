@@ -4,6 +4,7 @@ sidebar_left: sidebar
 ---
 
 ##  Paroles et musique : Gilles Maire
+  
 Tu as pris un bateau  
 Qui s'appelait Tchao  
 Moi qui aimais naviguer  
@@ -12,6 +13,11 @@ T'as hissé la grand-voile
 Le cœur dans les étoiles  
 Tout sourire dehors  
 Tu as viré de bord  
+  
+  
+  
+  
+  
   
 Agitant mon mouchoir  
 Comme on dit au revoir  

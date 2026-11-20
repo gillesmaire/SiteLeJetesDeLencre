@@ -11,7 +11,9 @@ Pour le temps d'un détour
 Vous qui m'avez connu  
 Lorsque j'étais timide  
 M'avez vous déjà vu  
+  
 Les yeux aussi humides ?  
+  
   
 Si nous avions dansé  
 Comme on danse au printemps  

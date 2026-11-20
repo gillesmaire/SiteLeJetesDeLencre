@@ -5,6 +5,7 @@ sidebar_left: sidebar
 
 ##  Paroles et musique : Gilles Maire
   
+  
 Se souvenir encore des chagrins de l'enfance  
 De nos rêves secrets qui n'ont pas eu la chance  
 De venir éclairer les peines de nos nuits  
